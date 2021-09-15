@@ -230,6 +230,18 @@
         "movieName": "The Bourne Identity (2002)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/The_Bourne_Identity_%5B2002%5D_(MM_Sub).mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/bourneidentity.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "The Thing (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Thing%20%5B2011%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/1_YvmJ8mfUjD6mBFNRtese0g-512x341-1.jpeg"
+      },
+      {
+        "id": "12",
+        "movieName": "The Sixth Sense (1999)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Sixth%20Sense%20%5B1999%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/the_sixth_sense_-_h_-_1999-512x288-1.jpg"
       }
     ]
   }
