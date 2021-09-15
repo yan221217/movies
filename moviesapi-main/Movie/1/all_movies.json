@@ -188,6 +188,18 @@
         "movieName": "PK(2014)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/c1f50074c6364e8.mp4",
         "imageUrl": "https://i.ytimg.com/vi/zN6ZEazj8XQ/maxresdefault.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Mosagallu (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/MOSAGALLU%20(2021).720p.CM.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/maxresdefault-1-1140x570.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Koi Jaane Na (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/Koi%20Jaane%20Na%20(2021)%20720p%20AMZN%20WEB-DL%20HEVC%20H.265%20DDP%205.1%20ESub%20-%20TombDoc.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/koi-jaane-na-et00301894-31-03-2021-04-51-21.jpg"
       }
     ]
   },
