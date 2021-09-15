@@ -1,0 +1,146 @@
+[
+  {
+    "categoryId": "1",
+    "categoryTitle": "Katuri Cartoon",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Katuri Cartoon(Episode 1-3)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210823/c751c1eca4524c0.mp4",
+        "imageUrl": "https://www.gigglegarage.com/wp-content/uploads/2018/02/KA_ENG_PO_02_1080px.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Katuri Cartoon(Episode 4-6)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210824/7bbb330defa94bd.mp4",
+        "imageUrl": "https://www.animationmagazine.net/wordpress/wp-content/uploads/katuri-post1.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Katuri Cartoon(Episode 7-9)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210825/08455a4f2af54ec.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Katuri Cartoon(Episode 10-12)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210827/bb4129cb037c451.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Katuri Cartoon(Episode 13-15)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210827/d27a5bdb05c54d8.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Katuri Cartoon(Episode 16-18)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210828/02722b07fffb4b8.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Katuri Cartoon(Episode 19-21)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210831/775a6d4642da4e3.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Katuri Cartoon(Episode 22-24)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210901/a0dd57c99eb8456.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Katuri Cartoon(Episode 25-27)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210903/b0c8b10904de4bd.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "2",
+    "categoryTitle": "Kung Fu Panda",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Kung Fu Panda(2008)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/f66b9f7bf638418.mp4",
+        "imageUrl": "https://dvdcover.com/wp-content/uploads/2016-03-16_56e92f96acdeb_kung_fu_panda_-_version_1-950x638.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Kung Fu Panda 2 (2011)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/4101fa0ec43a452.mp4",
+        "imageUrl": "https://i5.walmartimages.com/asr/74ebcf6d-59f1-4b2a-b03f-26dd77112818_1.cc556e8692879c062d70d19e14e8551d.jpeg"
+      },
+      {
+        "id": "3",
+        "movieName": "Kung Fu Panda 3 (2016)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/e5e134d091c84e6.mp4",
+        "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/q8/hk/5s/lu/kung-fu-panda-110-1200-1200-675-675-crop-000000.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "3",
+    "categoryTitle": "Charlie Chaplin",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Charlie Chaplin 1",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210903/46e1fb9beec241c.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Charlie Chaplin 2",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210903/42fe6e0720e74f8.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Charlie Chaplin 3",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210904/8ddf2d09665d4e6.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Charlie Chaplin 4",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210906/6b4a755281e5460.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Charlie Chaplin 5",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210907/c82d11339d85453.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Charlie Chaplin 6",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210908/0b4ae6639dad43e.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Charlie Chaplin 7",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210909/82600575a8cc46e.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Charlie Chaplin 8",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210910/30b181d0f711456.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Charlie Chaplin 9",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210911/60d620cb5e5c4c4.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      }
+    ]
+  }
+]
