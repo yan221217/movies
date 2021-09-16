@@ -158,6 +158,18 @@
         "movieName": "Troy (2004)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/Troy%20%5B2004%5D%20(MM%20Sub).mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Troy-002-1-512x410-1.jpg"
+      },
+      {
+        "id": "27",
+        "movieName": "The Last King (2016)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Last%20King%20(Birkebeinerne)%20%5B2016%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/unnamed-4.jpg"
+      },
+      {
+        "id": "28",
+        "movieName": "The Attacks Of 26/11 (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Attacks%20Of%2026-11%20%5B2013%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/1004914_6833095.jpg"
       }
     ]
   },
@@ -290,6 +302,18 @@
         "movieName": "Let Life Be Beautiful (2020)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/(CM)%20Let%20Life%20Be%20Beautiful%202020%20WEB-DL%20720p.mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/Let-Life-Be-Beautiful-2020-2-1140x570.jpeg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Chinese Widow (2017)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Chinese%20Widow%20(In%20Harm%E2%80%99s%20Way)%20(The%20Hidden%20Soldier)%20(Feng%20Huo%20Fang%20Fei)%20%5B2017%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/The-Chinese-Widow-Movie-Poster-1-1140x570.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "The Sword with No Name (2009)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Sword%20with%20No%20Name%20(2009).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/8HF3mqyDmMjDB2qf7uAz5mPqhlr.jpg"
       }
     ]
   },
