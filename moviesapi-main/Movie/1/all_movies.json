@@ -808,12 +808,6 @@
         "imageUrl": "https://image.tmdb.org/t/p/w185/cFDNFEBhnFIN5EVUM2RyHuY8Ipz.jpg"
       },
       {
-        "id": "13",
-        "movieName": "",
-        "fileUrl": "https://wl31.datbu.com/z6qlevayi3gu5p7lnmtkaagfuuhny4iqftc23z33i352g3sy4wk5hpbcvlva/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/6NIOOBHp59uEcyHVG0Du6TumOpY.jpg"
-      },
-      {
         "id": "14",
         "movieName": "Moonraker (1979)",
         "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Moonraker.1979.HDR.720p.mp4",
@@ -836,6 +830,60 @@
         "movieName": "Live and Let Die (1973)",
         "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Live.and.Let.Die.1973.HDR.720p.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/7VJDgdOV4fyqIAt8uiqSusFiirL.jpg"
+      },
+      {
+        "id": "18",
+        "movieName": "Diamonds Are Forever (1971)",
+        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Diamonds.Are.Forever.1971.HDR.720p.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/uajiHcFX5sOhYB2tBuWkmizbtuU.jpg"
+      },
+      {
+        "id": "19",
+        "movieName": "On Her Majesty’s Secret Service (1967)",
+        "fileUrl": "https://wl31.datbu.com/z6qlllqzi3gu5p7lnmtkawghx2f53y57pufrfjmsp3dcnuev2nsfsvxiljdq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/tXlAyD3gduY9SJVIFnLAVCrXuAP.jpg"
+      },
+      {
+        "id": "20",
+        "movieName": "You Only Live Twice (1967)",
+        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/You.Only.Live.Twice.1967.HDR.720p.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/gIhS0VC7YzI8pj6zfS3KxsxV0dS.jpg"
+      },
+      {
+        "id": "21",
+        "movieName": "Thunderball (1965)",
+        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/thunderball.HDR.720p.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/oJ5ybB57eidPLqZUltrVjshqwcs.jpg"
+      },
+      {
+        "id": "22",
+        "movieName": "Goldfinger (1964)",
+        "fileUrl": "https://wl31.datbu.com/z6qll2izi3gu5p7lnmtkafe76s7zbzq4piod3a7kugvotytu7youmot6cnta/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/2vDIWQRNIxav6tVI2HrayxMullD.jpg"
+      },
+      {
+        "id": "23",
+        "movieName": "From Russia with Love (1963)",
+        "fileUrl": "https://wl31.datbu.com/z6qll2azi3gu5p7lnmtkafoixzciyhnnzhly2yitp7vsgcjrsmchvvh6bkhq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/2rvplij9yAK70XZD4zQo9r7SGxT.jpg"
+      },
+      {
+        "id": "24",
+        "movieName": "Dr. No (1962)",
+        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Dr.No.1962.HDR.720p.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/w9ph5cUfGbw41WXt7yuXsWeN2TV.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "8",
+    "categoryTitle": "Horror",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "A Quiet Place Part II (2020)",
+        "fileUrl": "https://wl31.datbu.com/z6qllvqzi3gu5p7lnmtkawwhwq7do3vti65ijpue7twlzksibqyijatno3na/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg"
       }
     ]
   }
