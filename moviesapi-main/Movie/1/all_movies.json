@@ -254,12 +254,42 @@
         "movieName": "The Tomorrow War (2021)",
         "fileUrl": "https://odss.burmesesubtitles.com/BS/M/The.Tomorrow.War.2021.HDR.720p.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/lj9R6heQZ56MXGVOavm5Kwk09WY.jpg"
+      },
+      {
+        "id": "44",
+        "movieName": "The Misfits (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qllcq2i3gu5p7lnmtkaawfw6e3ff2cobynhkdmgbtecknqaztcegsmrsqa/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/dPOyYnCkRbWAEem85N3VFpQODf5.jpg"
+      },
+      {
+        "id": "45",
+        "movieName": "Honest Thief (2020)",
+        "fileUrl": "https://wl31.datbu.com/z6qllby3i3gu5p7lnmtkad4yxb22o6z72jdhg7m7w45c7mhdtitjfk5ew7nq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/zeD4PabP6099gpE0STWJrJrCBCs.jpg"
+      },
+      {
+        "id": "46",
+        "movieName": "Rogue Hostage (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qlk2yui3gu5p7lnmtkacw4upy2kladbe6zfgtlcwc5afrratqswywpsyfq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/ePYagdzUwKpzTP73n9CD3D1MFn.jpg"
+      },
+      {
+        "id": "47",
+        "movieName": "Trigger Point (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkyqui3gu5p7lnmtkaxob6r4gdg26haah7nq6pofc4c4crbbdmnjzu6yq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/8oW2n2iCA9AZ0bnoZ7qinRx3LDq.jpg"
+      },
+      {
+        "id": "48",
+        "movieName": "Way Down (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qll6iui3gu5p7lnmtkahocxtte7ooo7bssqbmfqb4ib2wb2rwijpue2nxq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/bd5l3PZ06a2r7mBkW2YExoe0cHD.jpg"
       }
     ]
   },
   {
     "categoryId": "2",
-    "categoryTitle": "Korea Movies",
+    "categoryTitle": "Korea & Japan Movies",
     "categoryItemList": [
       {
         "id": "1",
@@ -338,6 +368,48 @@
         "movieName": "Midnight (2021)",
         "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Midnight.2021.HDR.720p.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/oJoLrbgEqupECFC7TwcmSZY2JSn.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Rurouni Kenshin Part I: Origins (2012)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkvy3i3gu5p7lnmtkabwixwoezycdf5i26gwd4jswwrc2rklyrzbljgnq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/vo3Zs07PZfKNsTrU0pcPZONJcN5.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Rurouni Kenshin Part II: Kyoto Inferno (2014)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkvq3i3gu5p7lnmtkaawzw5r53cofq6vumhwi6jxakfxcittkpndfdmga/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/gI2xYpJPQOsmFblvowkW2IgEHkC.jpg"
+      },
+      {
+        "id": "16",
+        "movieName": "Rurouni Kenshin Part III: The Legend Ends (2014)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkvi3i3gu5p7lnmtkaw66uwagcozplsizg7avhye7wnswfrxnggnez6ba/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/3Xq7xmYZwNJfSODpec6OzYaxaA3.jpg"
+      },
+      {
+        "id": "17",
+        "movieName": "Rurouni Kenshin: The Final (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkva3i3gu5p7lnmtkaxgj75gjg4vdq43la7thbrfnzxgoid6b3b5ztd6q/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/xJOyYEw32H0HpTw9ZnHzVMdYoom.jpg"
+      },
+      {
+        "id": "18",
+        "movieName": "Resident Evil: Damnation (2012)",
+        "fileUrl": "https://wl31.datbu.com/z6qllsqui3gu5p7lnmtkafghvdt2uk3vxwxz5bwqcji2v7mjtr52rzrlhxba/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/9T3u6laO3TRgJk4SFntt4UK1oXW.jpg"
+      },
+      {
+        "id": "19",
+        "movieName": "Resident Evil: Degeneration (2008)",
+        "fileUrl": "https://wl31.datbu.com/z6qlknivi3gu5p7lnmtkaxgduztfiopv5pt7tzwofvl45aqdpp7yubg3a7za/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/1x5OaFOo38JAwR5yXxeuvQg3VWH.jpg"
+      },
+      {
+        "id": "20",
+        "movieName": "Recalled (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkbqvi3gu5p7lnmtkahgiufscpdgalv5kqr7zdwyedre46ufs7z2dx7xq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/kTXwu4Ux8QJ1iwBprwVRbEtPa90.jpg"
       }
     ]
   },
@@ -554,6 +626,18 @@
         "movieName": "The Forbidden Kingdom (2008)",
         "fileUrl": "https://wl31.datbu.com/z6qlekayi3gu5p7lnmtkaxmsvjua37bz5nvecmfev2dyfhonlxw7luvx7lsa/v.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/mkrwLBAFHwLnQF8qdhCH0VOQqff.jpg"
+      },
+      {
+        "id": "18",
+        "movieName": "Vanguard (2020)",
+        "fileUrl": "https://wl31.datbu.com/z6qll6aui3gu5p7lnmtkahofvzvelg3ncp7ou3l36ugqx27lakhx5t7hpq2q/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/mKvw1Ic9enfFlCPBNJGiejRPMUO.jpg"
+      },
+      {
+        "id": "19",
+        "movieName": "Detective Chinatown (2015)",
+        "fileUrl": "https://wl31.datbu.com/z6qllbqvi3gu5p7lnmtkahwoxx6yrcat4dsvdfyvw6aj7zgihznr7fifz5ba/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/sYmdUFpcpRqlmeETqhcMrYJbjbN.jpg"
       }
     ]
   },
@@ -692,6 +776,30 @@
         "movieName": "The Ice Road (2021)",
         "fileUrl": "https://wl31.datbu.com/z6qlkaa2i3gu5p7lnmtkaao2u5ejq4lhyfh3ooemx256qav2kt7gycjkdn4a/v.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg"
+      },
+      {
+        "id": "23",
+        "movieName": "Universal Soldier (1992)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkaq2i3gu5p7lnmtkaxo47qcxmvyy4nnuglg4kyfaf4zm7ek2wcprxv6q/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg"
+      },
+      {
+        "id": "24",
+        "movieName": "Cobra (1986)",
+        "fileUrl": "https://wl31.datbu.com/z6qll4a2i3gu5p7lnmtkafu47ugkxmbadoyvuusupwptwsg3b5yjsvvv4juq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/jCxfbTh8JvJil5edhNywxaTHoWv.jpg"
+      },
+      {
+        "id": "25",
+        "movieName": "Resident Evil: Vendetta (2017)",
+        "fileUrl": "https://wl31.datbu.com/z6qlknavi3gu5p7lnmtkagw6ubbc7sjwpkdvlzvwou7jy5haoq3gyhv6qnqq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/88qfHWhlOBYXp69277QFhdPYnWf.jpg"
+      },
+      {
+        "id": "26",
+        "movieName": "Occupation (2018)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkfivi3gu5p7lnmtkaau76wigncd4lklhijhplta3sbypnej7irdckoiq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg"
       }
     ]
   },
@@ -728,6 +836,24 @@
         "movieName": "Bad Guy (2001)",
         "fileUrl": "https://wl31.datbu.com/z6qle5yyi3gu5p7lnmtkaggbvb4viekwfcsotdbmxngbw4aiit3q5kyeidwa/v.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/2gI1b0kHperlUjC4EE34mKJBGI6.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Fatherhood (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qllay2i3gu5p7lnmtkacgcwtjrccxsswiw3yalf6gkuk6as2lk3kllrfma/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/pR2fzm82fl0giommpo310LBOMbV.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Awake (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qll2iui3gu5p7lnmtkaa6ev23gw5zlxkcj5r7642ryceuc634bsjzd6qsa/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Flashback (2020)",
+        "fileUrl": "https://wl31.datbu.com/z6qlkaivi3gu5p7lnmtkafuz6rxlp5ojjlnmhidymm7x3bn7siesdclyy34q/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/nc7szo7ChOknEk8qCkABJyNgl5y.jpg"
       }
     ]
   },
@@ -884,6 +1010,18 @@
         "movieName": "A Quiet Place Part II (2020)",
         "fileUrl": "https://wl31.datbu.com/z6qllvqzi3gu5p7lnmtkawwhwq7do3vti65ijpue7twlzksibqyijatno3na/v.mp4",
         "imageUrl": "https://image.tmdb.org/t/p/w185/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "A Quiet Place (2018)",
+        "fileUrl": "https://wl31.datbu.com/z6qlliqvi3gu5p7lnmtkawo3umcqqxtvnp75frruapa5qwdpkbeieswh4ufq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Baphomet (2021)",
+        "fileUrl": "https://wl31.datbu.com/z6qllda3i3gu5p7lnmtkawoj7ikdyia26iiqojsr32htytbe2kbfwhytkvwq/v.mp4",
+        "imageUrl": "https://image.tmdb.org/t/p/w185/1l6S3EID762dvTOrNwoCRNTESa3.jpg"
       }
     ]
   }
