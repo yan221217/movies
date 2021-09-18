@@ -70,6 +70,18 @@
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
       {
+        "id": "11",
+        "movieName": "Oh My Ladylord",
+        "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_01_360/Oh_My_Ladylord_2021_01_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6282.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Recalled",
+        "fileUrl": "https://mycinema.asia/media/films/Recalled.2021.360/Recalled.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6325.jpg"
+      },
+      {
         "id": "1",
         "movieName": "Along with the Gods:The two world(2017)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/c7f93451906446e.mp4",
@@ -92,6 +104,36 @@
         "movieName": "Recalled(2011)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210520/b2f7cb17ce044ed.mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/05/maxresdefault-5-1140x570.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "A Taxi Driver (2017)",
+        "fileUrl": "https://mycinema.asia/media/films/A.Taxi.Driver.2017.360/A.Taxi.Driver.2017.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7261.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Fabricated City (2017)",
+        "fileUrl": "https://mycinema.asia/media/films/Fabricated.City.2017.360/Fabricated.City.2017.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7091.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Midnight (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Midnight.2021.360/Midnight.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7005.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Mission Possible",
+        "fileUrl": "https://mycinema.asia/media/films/Mission.Possible.2021.360P/Mission.Possible.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6862.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Poongsan (2011)",
+        "fileUrl": "https://mycinema.asia/media/films/Poongsan.2011.360/Poongsan.2011.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6553.jpg"
       }
     ]
   },
@@ -506,6 +548,12 @@
         "movieName": "Army of the Dead",
         "fileUrl": "https://mycinema.asia/media/films/Army.of.the.dead.2021.360/Army.of.the.dead.2021.360.m3u8",
         "imageUrl": "https://mycinema.asia/image/avatar_6321.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "A Quiet Place (2018)",
+        "fileUrl": "https://mycinema.asia/media/films/A.Quiet.Place.2018.360/A.Quiet.Place.2018.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6581.jpg"
       }
     ]
   },
