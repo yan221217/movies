@@ -392,6 +392,36 @@
         "movieName": "Space Jam: A New Legacy (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Space.Jam.A.New.Legacy.2021.360/Space.Jam.A.New.Legacy.2021.360.m3u8",
         "imageUrl": "https://mycinema.asia/image/avatar_7190.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Purge (2013)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Purge.2013.360/The.Purge.2013.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7186.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Settlers",
+        "fileUrl": "https://mycinema.asia/media/films/Settlers.2021.360p/Settlers.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7141.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Universal Soldier (1992)",
+        "fileUrl": "https://mycinema.asia/media/films/universal.soldier.1992.360/universal.soldier.1992.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7081.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Out of Death",
+        "fileUrl": "https://mycinema.asia/media/films/Out.Of.Death.2021.360p/Out.Of.Death.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7064.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Girl",
+        "fileUrl": "https://mycinema.asia/media/films/Girl.2020.360p/Girl.2020.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7050.jpg"
       }
     ]
   }
