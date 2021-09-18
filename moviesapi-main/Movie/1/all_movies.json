@@ -170,6 +170,12 @@
         "movieName": "Detective Dee: Solitary Skies Killer",
         "fileUrl": "https://mycinema.asia/media/films/Detective_Dee_Solitary_Skies_Killer_2020_720/Detective_Dee_Solitary_Skies_Killer_2020_720.m3u8",
         "imageUrl": "https://mycinema.asia/image/banner_3501.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Paper Tigers",
+        "fileUrl": "https://mycinema.asia/media/films/The.Paper.Tigers.2021.360P/The.Paper.Tigers.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6888.jpg"
       }
     ]
   },
@@ -354,7 +360,7 @@
     ]
   },
   {
-    "categoryId": "7",
+    "categoryId": "8",
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
       {
@@ -422,6 +428,264 @@
         "movieName": "Girl",
         "fileUrl": "https://mycinema.asia/media/films/Girl.2020.360p/Girl.2020.360p.m3u8",
         "imageUrl": "https://mycinema.asia/image/avatar_7050.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Cobra (1986)",
+        "fileUrl": "https://mycinema.asia/media/films/cobra.1986.360/cobra.1986.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6841.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "The Infiltrator",
+        "fileUrl": "https://mycinema.asia/media/films/The_Infiltrator_2016_360/The_Infiltrator_2016_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6341.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "9",
+    "categoryTitle": "Horror",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Pet Sematary",
+        "fileUrl": "https://mycinema.asia/media/films/Pet.Sematary.2019.360p/Pet.Sematary.2019.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7121.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Sleepy Hollow (1999)",
+        "fileUrl": "https://mycinema.asia/media/films/Sleepy.Hollow.1999.360/Sleepy.Hollow.1999.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7021.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Censor",
+        "fileUrl": "https://mycinema.asia/media/films/Censor.2021.360P/Censor.2021.360P.m3u8films/In.The.Earth.2021.360P 00_00_13-01_46_55/In.The.Earth.2021.360P 00_00_13-01_46_55.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6925.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "In the Earth",
+        "fileUrl": "https://mycinema.asia/media/films/In.The.Earth.2021.360P 00_00_13-01_46_55/In.The.Earth.2021.360P 00_00_13-01_46_55.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6801.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Baphomet (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Baphomet.2021.360/Baphomet.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6730.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "The Unholy",
+        "fileUrl": "https://mycinema.asia/media/films/The.Unholy.2021.360p/The.Unholy.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6677.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Djinn",
+        "fileUrl": "https://mycinema.asia/media/films/The.Djinn.2021.360p/The.Djinn.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6673.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Seance",
+        "fileUrl": "https://mycinema.asia/media/films/Seance.2021.360p/Seance.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6633.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "The Conjuring: The Devil Made Me Do It",
+        "fileUrl": "https://mycinema.asia/media/films/The.Conjuring.the.Devil.Made.Me.Do.It.2021.360/The.Conjuring.the.Devil.Made.Me.Do.It.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6481.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Army of the Dead",
+        "fileUrl": "https://mycinema.asia/media/films/Army.of.the.dead.2021.360/Army.of.the.dead.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6321.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "10",
+    "categoryTitle": "SC-FI Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Behemoth",
+        "fileUrl": "https://mycinema.asia/media/films/Behemoth.2021.360p/Behemoth.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7046.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Monster Hunter (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Monster.Hunter.2020.360/Monster.Hunter.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7025.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Commando (1985)",
+        "fileUrl": "https://mycinema.asia/media/films/Commando.1985.360/Commando.1985.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6905.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Shadow and Bone SS1",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone_Ep01_360/Shadow.and.Bone_Ep01_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6381.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Venom",
+        "fileUrl": "https://mycinema.asia/media/films/Venom.2018_360/Venom.2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6261.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Tenet",
+        "fileUrl": "https://mycinema.asia/media/films/Tenet2020_360/Tenet2020_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6170.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Deadpool",
+        "fileUrl": "https://mycinema.asia/media/films/Deadpool_360/Deadpool_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6142.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "11",
+    "categoryTitle": "Thriller Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Till Death",
+        "fileUrl": "https://mycinema.asia/media/films/Till.Death.2021.360P/Till.Death.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6958.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "A Quiet Place Part II",
+        "fileUrl": "https://mycinema.asia/media/films/A.Quiet.Place.Part.II.2020.360P/A.Quiet.Place.Part.II.2020.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6921.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Things Heard & Seen",
+        "fileUrl": "https://mycinema.asia/media/films/Things.Heard.And.Seen.2021.360P/Things.Heard.And.Seen.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6892.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Ice Road (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Ice.Road.2021.360/The.Ice.Road.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6786.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Rogue Hostage (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Rogue.Hostage.360/Rogue.Hostage.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6781.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Beyond Rangoon (1995)",
+        "fileUrl": "https://mycinema.asia/media/films/Beyond.Rangoon.1995.360/Beyond.Rangoon.1995.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6745.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Misfits (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Misfits.2021.360/The.Misfits.2021.360.m3u",
+        "imageUrl": "https://mycinema.asia/image/avatar_6721.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Honest Thief (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Honest.Thief.2020.360/Honest.Thief.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6705.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Oslo (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Oslo.2021.360/Oslo.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6697.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Wrath of Man",
+        "fileUrl": "https://mycinema.asia/media/films/Wrath.Of.Man.2021.360p.360p/Wrath.Of.Man.2021.360p.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6693.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Trigger Point (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Trigger.Point.2021.360/Trigger.Point.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6661.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Spiral: From the Book of Saw",
+        "fileUrl": "https://mycinema.asia/media/films/Spiral.From.The.Book.Of.Saw.2021.360p/Spiral.From.The.Book.Of.Saw.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6637.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Way Down 2021 (The Vault)",
+        "fileUrl": "https://mycinema.asia/media/films/Way.Down.2021.360/Way.Down.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6610.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "SAS: Red Notice",
+        "fileUrl": "https://mycinema.asia/media/films/Sas.Red.Notice.2021.360/Sas.Red.Notice.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6561.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "12",
+    "categoryTitle": "Drama Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Fatherhood (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Fatherhood.2021.360/Fatherhood.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6901.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "The Woman in the Window",
+        "fileUrl": "https://mycinema.asia/media/films/The.Woman.In.The.Window.2021.360p/The.Woman.In.The.Window.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6681.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Plan B (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Plan.B.2021.360/Plan.B.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6669.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Awake (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Awake.2021.360/Awake.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6526.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Unhinged",
+        "fileUrl": "https://mycinema.asia/media/films/Unhinged_360/Unhinged_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6165.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "The Ultimate Playlist of Noise",
+        "fileUrl": "https://mycinema.asia/media/films/The.Ultimate.Playlist.of.Noise.2021.36op/The.Ultimate.Playlist.of.Noise.2021.36op.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6131.jpg"
       }
     ]
   }
