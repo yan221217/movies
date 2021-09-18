@@ -220,6 +220,36 @@
     "categoryTitle": "Chinese Movies",
     "categoryItemList": [
       {
+        "id": "9",
+        "movieName": "Eighteen Arhats of Shaolin Temple",
+        "fileUrl": "https://mycinema.asia/media/films/Eighteen.Arhats.of.Shaolin.Temple.360/Eighteen.Arhats.of.Shaolin.Temple.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6216.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Detective Chinatown 3",
+        "fileUrl": "https://mycinema.asia/media/films/Detective_Chinatown_3_360/Detective_Chinatown_3_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6541.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Vanguard (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Vanguard.2020.360/Vanguard.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6601.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Master So Dragon Subduing Palms 2",
+        "fileUrl": "https://mycinema.asia/media/films/Master.So.Dragon.Subduing.Palms.2.2020.360p/Master.So.Dragon.Subduing.Palms.2.2020.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6625.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Super Me",
+        "fileUrl": "https://mycinema.asia/media/films/Super.Me.2019.360p/Super.Me.2019.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6641.jpg"
+      },
+      {
         "id": "1",
         "movieName": "Never Gone(2016)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/23f91031cd1d463.mp4",
