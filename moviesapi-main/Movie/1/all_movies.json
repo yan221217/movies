@@ -70,6 +70,30 @@
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
       {
+        "id": "15",
+        "movieName": "Mr.Queen",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep1_360/MrQueen_ep1_360.m3u8","series/MrQueen_2020/MrQueen_ep1_720/MrQueen_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Vincenzo",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP1_360/Vincenzo.2021.EP1_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5770.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Undercover",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_01_360/Undercover_01_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Penthouse Special: Hidden Room",
+        "fileUrl": "https://mycinema.asia/media/films/Penthouse.Special.Hidden.Room.2021.360p/Penthouse.Special.Hidden.Room.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6123.jpg"
+      },
+      {
         "id": "11",
         "movieName": "Oh My Ladylord",
         "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_01_360/Oh_My_Ladylord_2021_01_360.m3u8",
