@@ -62,234 +62,12 @@
         "movieName": "Infinite(2021)",
         "fileUrl": "http://202.191.109.134/GET /video/videomocha_upload/mp4/20210615/1d289840adeb4cb.mp4",
         "imageUrl": "https://www.themoviedb.org/t/p/w780/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg"
-      },
-      {
-        "id": "11",
-        "movieName": "Trigger Point (2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/Trigger.Point.2021.720p.BluRay.5.1CH%5BCM%5D.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/Trigger-Point-movie-film-action-thriller-2021-poster-details-1140x570.jpg"
-      },
-      {
-        "id": "12",
-        "movieName": "Predators (2010)",
-        "fileUrl": "https://omgzone.b-cdn.net/Predators%20%5B2010%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/image_a9e149b7.webp"
-      },
-      {
-        "id": "13",
-        "movieName": "Pipeline (2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/Pipeline.2021.720p.WEB-DL.CM.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/Pipeline-1-660x570.jpg"
-      },
-      {
-        "id": "14",
-        "movieName": "Occupation: Rainfall (2020)",
-        "fileUrl": "https://omgzone.b-cdn.net/Occupation.Rainfall.2020.720p.WEBRip%5BCM%5D.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/maxresdefault-2-1140x570.jpg"
-      },
-      {
-        "id": "15",
-        "movieName": "Occupation (2018)",
-        "fileUrl": "https://omgzone.b-cdn.net/Occupation%20%5B2018%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/capsule_616x353.jpg"
-      },
-      {
-        "id": "16",
-        "movieName": "Major Grom: Plague Doctor",
-        "fileUrl": "https://omgzone.b-cdn.net/Mayor.Grom.Chumnoy.Doktor.2021.720p(CM).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/AAAABfL38zp6Q0KJQNOPrz98rNSiZsc6T0nYy-PzQ_IFJhTTAUF_tMvIrS3xYJ5d5Jdn-p1XWdlmTd2quQgsXdxpqAn9A16t-1024x570.jpg"
-      },
-      {
-        "id": "17",
-        "movieName": "Machete Kills (2013)",
-        "fileUrl": "https://omgzone.b-cdn.net/Machete.Kills.2013.720p.BluRay.x264-SPARKS.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/p9837225_p_v10_aa-1140x570.jpg"
-      },
-      {
-        "id": "18",
-        "movieName": "Buckskin (2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/Buckskin.2021.720p.AMZN.WEB-DL%5BCM%5D.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/maxresdefault-1140x570.jpg"
-      },
-      {
-        "id": "19",
-        "movieName": "Archenemy(2020)",
-        "fileUrl": "https://omgzone.b-cdn.net/Archenemy.2020.WEB-DL.720P.PP.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/unnamed.jpg"
-      },
-      {
-        "id": "20",
-        "movieName": "Black Panther (2018) MCU",
-        "fileUrl": "https://omgzone.b-cdn.net/18.%20(CM)%20Black%20Panther%20(2018)%20%5BFHD%5D.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/black-panther-e1513870292357-1140x570.jpg"
-      },
-      {
-        "id": "21",
-        "movieName": "Coma (2019)",
-        "fileUrl": "https://omgzone.b-cdn.net/%5BCM%5DComa.2019.BluRay.720P.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/6b8af82288895a6d007feb31ce20c780-1131x570.jpg"
-      },
-      {
-        "id": "22",
-        "movieName": "Braveheart (1995)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Braveheart%20%5B1995%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/MV5BODYwNzcyMjIxNF5BMl5BanBnXkFtZTgwMDEyNzU5MTE@._V1_SY1000_CR0014921000_AL_-768x515-1.jpg"
-      },
-      {
-        "id": "23",
-        "movieName": "We Were Soldiers (2002) Part 2",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/We%20Were%20Soldiers%20(Part%202)%20%5B2002%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/images-2-1.jpg"
-      },
-      {
-        "id": "24",
-        "movieName": "We Were Soldiers (2002) Part 1",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/We%20Were%20Soldiers%20(Part%201)%20%5B2002%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/we-were-soldiers-3.jpg"
-      },
-      {
-        "id": "25",
-        "movieName": "Warriors of the Rainbow: Seediq Bale (2011)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Warriors%20Of%20The%20Rainbow%20-%20Seediq%20Bale%20(Sai%20De%20Ke%20%C2%B7%20Ba%20Lai%20-%20Tai%20Yang%20Qi)%20%5B2011%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Warriors-of-the-Rainbow-2-512x341-1.jpg"
-      },
-      {
-        "id": "26",
-        "movieName": "Troy (2004)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Troy%20%5B2004%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Troy-002-1-512x410-1.jpg"
-      },
-      {
-        "id": "28",
-        "movieName": "The Attacks Of 26/11 (2013)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Attacks%20Of%2026-11%20%5B2013%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/1004914_6833095.jpg"
-      },
-      {
-        "id": "29",
-        "movieName": "Pearl Harbor (2001)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pearl_Harbor_9506.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/download-2.jpg"
-      },
-      {
-        "id": "30",
-        "movieName": "Operation Chromite (2016)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Operation%20Chromite%20%5B2016%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/OPERATION_CHROMITE_BT_YVW-1024x570.jpg"
-      },
-      {
-        "id": "31",
-        "movieName": "Kate (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlmsrbi3gu5p7lnmt2ax6furor33ykxa6eirnir3bigd7jaqww6gfubhvq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg"
-      },
-      {
-        "id": "32",
-        "movieName": "The Protégé (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlnpbci3gu5p7lnmtkafg5v6rqzbjv5pduwdo4uwrt7bz6cd3tuzjbxqiq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/Ae3cbmy52HKCTebvdUCCF0vZGrK.jpg"
-      },
-      {
-        "id": "33",
-        "movieName": "The Last Mercenary (2021",
-        "fileUrl": "https://wl31.datbu.com/z6qlfnjdi3gu5p7lnmtkafobw6zkzcspihm7jicu3mg2tldvlhwouvt3xaoq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/ttpKJ7XQxDZV252KNEHXtykYT41.jpg"
-      },
-      {
-        "id": "34",
-        "movieName": "Snake Eyes: G.I. Joe Origins (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qle5q5i3gu5p7lnmtkahut6sgnpvxy4xcbvz7k3fcjrozupznv5frk4r7q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg"
-      },
-      {
-        "id": "35",
-        "movieName": "G.I. Joe: Retaliation (2013)",
-        "fileUrl": "https://wl31.datbu.com/z6qlerq5i3gu5p7lnmtkaagm7mickfbb3zrj526pkssowktuerewmqpl3fbq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg"
-      },
-      {
-        "id": "36",
-        "movieName": "G.I. Joe: The Rise of Cobra (2009)",
-        "fileUrl": "https://wl31.datbu.com/z6qleqi5i3gu5p7lnmtkago7u4fyfd2n2yj3blcobktplzo7vhrxwjuuazxq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/mc9b25IAprHfsaOz0wTshOwGHcY.jpg"
-      },
-      {
-        "id": "37",
-        "movieName": "Jolt (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qle4a6i3gu5p7lnmtkaagt7cqpnqb32iifqlhwrddkbmjbuzmvt37zgwpq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/gYZAHan5CHPFXORpQMvOjCTug4E.jpg"
-      },
-      {
-        "id": "38",
-        "movieName": "Fast & Furious Presents: Hobbs & Shaw (2019)",
-        "fileUrl": "https://wl31.datbu.com/z6qleoa7i3gu5p7lnmtkaa6pxngjasfykykxya3wybob45zlhbfca6rudlfq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg"
-      },
-      {
-        "id": "39",
-        "movieName": "F9 (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfua6i3gu5p7lnmtkado7xybi2pgy47qhksdloiwr4fwyvjj6ty3tljkq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg"
-      },
-      {
-        "id": "40",
-        "movieName": "The Hitman’s Bodyguard (2017)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfxy6i3gu5p7lnmtkax66utkuvnsdvhla4obn6nhx6thvsmzdxbvxunwa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg"
-      },
-      {
-        "id": "41",
-        "movieName": "Hitman’s Wife’s Bodyguard (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfri6i3gu5p7lnmtkadoc6wz3uqmujwefa6zan7f632ad3ra3let4xqoa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg"
-      },
-      {
-        "id": "42",
-        "movieName": "Rurouni Kenshin: The Beginning (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfqa6i3gu5p7lnmtkave36smsln5iihcgfktp4zf32fdjqgvmprnbkceq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/rODS466qSdrwMlGdbUwPENhDN2c.jpg"
-      },
-      {
-        "id": "43",
-        "movieName": "The Tomorrow War (2021)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/The.Tomorrow.War.2021.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/lj9R6heQZ56MXGVOavm5Kwk09WY.jpg"
-      },
-      {
-        "id": "44",
-        "movieName": "The Misfits (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qllcq2i3gu5p7lnmtkaawfw6e3ff2cobynhkdmgbtecknqaztcegsmrsqa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/dPOyYnCkRbWAEem85N3VFpQODf5.jpg"
-      },
-      {
-        "id": "45",
-        "movieName": "Honest Thief (2020)",
-        "fileUrl": "https://wl31.datbu.com/z6qllby3i3gu5p7lnmtkad4yxb22o6z72jdhg7m7w45c7mhdtitjfk5ew7nq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/zeD4PabP6099gpE0STWJrJrCBCs.jpg"
-      },
-      {
-        "id": "46",
-        "movieName": "Rogue Hostage (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlk2yui3gu5p7lnmtkacw4upy2kladbe6zfgtlcwc5afrratqswywpsyfq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/ePYagdzUwKpzTP73n9CD3D1MFn.jpg"
-      },
-      {
-        "id": "47",
-        "movieName": "Trigger Point (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkyqui3gu5p7lnmtkaxob6r4gdg26haah7nq6pofc4c4crbbdmnjzu6yq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/8oW2n2iCA9AZ0bnoZ7qinRx3LDq.jpg"
-      },
-      {
-        "id": "48",
-        "movieName": "Way Down (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qll6iui3gu5p7lnmtkahocxtte7ooo7bssqbmfqb4ib2wb2rwijpue2nxq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/bd5l3PZ06a2r7mBkW2YExoe0cHD.jpg"
       }
     ]
   },
   {
     "categoryId": "2",
-    "categoryTitle": "Korea & Japan Movies",
+    "categoryTitle": "Korea Movies",
     "categoryItemList": [
       {
         "id": "1",
@@ -314,102 +92,6 @@
         "movieName": "Recalled(2011)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210520/b2f7cb17ce044ed.mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/05/maxresdefault-5-1140x570.jpg"
-      },
-      {
-        "id": "5",
-        "movieName": "The Cursed: Dead Man’s Prey (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlewq4i3gu5p7lnmtkawm6ujyaq2745vjwezfwm6xmpfobg6dqvekgbykq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/4G4eHMm6H691zuByWokWvpXjJuW.jpg"
-      },
-      {
-        "id": "6",
-        "movieName": "A Taxi Driver (2017)",
-        "fileUrl": "https://wl31.datbu.com/z6qleri4i3gu5p7lnmtkahwjxvka6wm2f7p53lro6ew6yfumutj37k47e7ha/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg"
-      },
-      {
-        "id": "7",
-        "movieName": "May 18 (2007)",
-        "fileUrl": "https://wl31.datbu.com/z6qlffq4i3gu5p7lnmtkab6kvdieyp2hpnbscl36or6c2pulry5up4umgrdq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/prfKmhgM3HiUSU1tfXvIw831iEA.jpg"
-      },
-      {
-        "id": "8",
-        "movieName": "Space Sweepers (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfla6i3gu5p7lnmtkax4z7xlay7uv4xaogjnqqkdv4igq7imv6iznvfua/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/p9YDHJKvUoi7v2SCd3vLGPae1Xp.jpg"
-      },
-      {
-        "id": "9",
-        "movieName": "Hard Hit (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qle4y7i3gu5p7lnmtkagwt6t22dk2wzqtxalx4mnzkraxjmkxxqyltxcca/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/aZuJKQ74VreNlxrA9h7Q0sLNCtX.jpg"
-      },
-      {
-        "id": "10",
-        "movieName": "Kingdom: Ashin of the North (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlesi7i3gu5p7lnmtkafmtxvdh5mavucnrv54d4b2e7ftv2mrxeektob6q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/gDu7P9dGWrNJBP6EIYKCuKLWVYg.jpg"
-      },
-      {
-        "id": "11",
-        "movieName": "The Con Artists (2014)",
-        "fileUrl": "https://wl31.datbu.com/z6qle5qyi3gu5p7lnmtkafu2xo4scwhh7ln3radmeneicshypb5rtvl4l4qq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/bx8smMQuZKrHfg6gcl71uyIGzG3.jpg"
-      },
-      {
-        "id": "12",
-        "movieName": "Fabricated City (2017)",
-        "fileUrl": "https://wl31.datbu.com/z6qle4iyi3gu5p7lnmtkaa6ewwqd34o3pwyupqox65j7qqdn5jg2h35hejea/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/8tE4MhhuWHize6pNyxAtakUyNZc.jpg"
-      },
-      {
-        "id": "13",
-        "movieName": "Midnight (2021)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Midnight.2021.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/oJoLrbgEqupECFC7TwcmSZY2JSn.jpg"
-      },
-      {
-        "id": "14",
-        "movieName": "Rurouni Kenshin Part I: Origins (2012)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkvy3i3gu5p7lnmtkabwixwoezycdf5i26gwd4jswwrc2rklyrzbljgnq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/vo3Zs07PZfKNsTrU0pcPZONJcN5.jpg"
-      },
-      {
-        "id": "15",
-        "movieName": "Rurouni Kenshin Part II: Kyoto Inferno (2014)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkvq3i3gu5p7lnmtkaawzw5r53cofq6vumhwi6jxakfxcittkpndfdmga/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/gI2xYpJPQOsmFblvowkW2IgEHkC.jpg"
-      },
-      {
-        "id": "16",
-        "movieName": "Rurouni Kenshin Part III: The Legend Ends (2014)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkvi3i3gu5p7lnmtkaw66uwagcozplsizg7avhye7wnswfrxnggnez6ba/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/3Xq7xmYZwNJfSODpec6OzYaxaA3.jpg"
-      },
-      {
-        "id": "17",
-        "movieName": "Rurouni Kenshin: The Final (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkva3i3gu5p7lnmtkaxgj75gjg4vdq43la7thbrfnzxgoid6b3b5ztd6q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/xJOyYEw32H0HpTw9ZnHzVMdYoom.jpg"
-      },
-      {
-        "id": "18",
-        "movieName": "Resident Evil: Damnation (2012)",
-        "fileUrl": "https://wl31.datbu.com/z6qllsqui3gu5p7lnmtkafghvdt2uk3vxwxz5bwqcji2v7mjtr52rzrlhxba/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/9T3u6laO3TRgJk4SFntt4UK1oXW.jpg"
-      },
-      {
-        "id": "19",
-        "movieName": "Resident Evil: Degeneration (2008)",
-        "fileUrl": "https://wl31.datbu.com/z6qlknivi3gu5p7lnmtkaxgduztfiopv5pt7tzwofvl45aqdpp7yubg3a7za/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1x5OaFOo38JAwR5yXxeuvQg3VWH.jpg"
-      },
-      {
-        "id": "21",
-        "movieName": "R-Point (2004)",
-        "fileUrl": "https://wl31.datbu.com/z6qlefzai3gu5p7lnmt2aawkvkqlyat2733s74a45nlnsqy5cvcjk5jff3ka/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/93Zn3ews5S0KiChq9mW5TkrhWi9.jpg"
       }
     ]
   },
@@ -459,65 +141,11 @@
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/c1f50074c6364e8.mp4",
         "imageUrl": "https://i.ytimg.com/vi/zN6ZEazj8XQ/maxresdefault.jpg"
       },
-      {
+        {
         "id": "8",
-        "movieName": "Mosagallu (2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/MOSAGALLU%20(2021).720p.CM.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/maxresdefault-1-1140x570.jpg"
-      },
-      {
-        "id": "9",
-        "movieName": "Koi Jaane Na (2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/Koi%20Jaane%20Na%20(2021)%20720p%20AMZN%20WEB-DL%20HEVC%20H.265%20DDP%205.1%20ESub%20-%20TombDoc.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/koi-jaane-na-et00301894-31-03-2021-04-51-21.jpg"
-      },
-      {
-        "id": "10",
-        "movieName": "Mangal Pandey : The Rising (2005)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Mangal_Pandey_-_The_Rising_%5B2005%5D_(MM_Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/mangal-pandey-the-rising-2005.webp"
-      },
-      {
-        "id": "11",
-        "movieName": "Bhoot Police (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfbjai3gu5p7lnmt2avmyxknus75wtdjpgllj6xxebilwt7gnynwt5fmq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1L2GzG41hJSPp5gCZOxaC7RbS9W.jpg"
-      },
-      {
-        "id": "12",
-        "movieName": "I (2015)",
-        "fileUrl": "https://wl31.datbu.com/z6qlmkbci3gu5p7lnmt2acgb7urp4lhdhyzztt7jr6zrnn343akhejw6rqoa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/itDqpdxcI5urnL9KJGJiOusn5g9.jpg"
-      },
-      {
-        "id": "13",
-        "movieName": "Shershaah (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlf7i5i3gu5p7lnmtkacu37qeuhgkxixzhh2uj6pvklx6lcyxyfubi2s3q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg"
-      },
-      {
-        "id": "14",
-        "movieName": "Bhuj: The Pride of India (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfaq5i3gu5p7lnmtkahuz6xhw7fionjp6ar2or2igsuvfblffgwywsgaa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/zc0OzUOF8B4x4AH4bubxw0mHCnF.jpg"
-      },
-      {
-        "id": "15",
-        "movieName": "Meet Dave (2008)",
-        "fileUrl": "https://wl31.datbu.com/z6qlepa6i3gu5p7lnmtkahokuynaktapifmcj26srr5hretthqbbchbmsckq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/3Qfav5aVRcZmq854olMjJ795JJ2.jpg"
-      },
-      {
-        "id": "16",
-        "movieName": "Hungama 2 (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlehy7i3gu5p7lnmtkabw57z4gm64b5ksxsicwwqv6newjjy6xkuizdydq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1cB0Zml2lfsbeGrLo1YoFpu5HdH.jpg"
-      },
-      {
-        "id": "17",
         "movieName": "Toofaan (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfzq7i3gu5p7lnmtkavgz6u5nuhsxwx5gzqhso22eelivyxmgyapntlca/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/po432XStodavYjXDYAViB2HuI6e.jpg"
+        "fileUrl": "https://mycinema.asia/media/films/Toofaan.2021.360/Toofaan.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7161.jpg"
       }
     ]
   },
@@ -539,495 +167,231 @@
       },
       {
         "id": "3",
-        "movieName": "Black Widow(2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/BLACK%20WIDOW.2021.WEB-DL.720P.PP.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/black-widow-poster-social-feature.jpg"
-      },
-      {
-        "id": "4",
-        "movieName": "The King of Fighters (2019)",
-        "fileUrl": "https://omgzone.b-cdn.net/%7BCM%7DThe%20king%20of%20fighters.2019.720p.HDRip.AAC.H264..mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/Rr41Pf-740x570.jpg"
-      },
-      {
-        "id": "5",
-        "movieName": "Journey to China: The Mystery of Iron Mask (2019)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/(CM)_Journey_To_China_The_Mystery_of_Iron_Mask_2019_BluRay_720p.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/EGXdgJzXYAE3vyJ.jpg"
-      },
-      {
-        "id": "6",
-        "movieName": "Let Life Be Beautiful (2020)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/(CM)%20Let%20Life%20Be%20Beautiful%202020%20WEB-DL%20720p.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/Let-Life-Be-Beautiful-2020-2-1140x570.jpeg"
-      },
-      {
-        "id": "7",
-        "movieName": "The Chinese Widow (2017)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Chinese%20Widow%20(In%20Harm%E2%80%99s%20Way)%20(The%20Hidden%20Soldier)%20(Feng%20Huo%20Fang%20Fei)%20%5B2017%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/The-Chinese-Widow-Movie-Poster-1-1140x570.jpg"
-      },
-      {
-        "id": "8",
-        "movieName": "The Sword with No Name (2009)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Sword%20with%20No%20Name%20(2009).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/8HF3mqyDmMjDB2qf7uAz5mPqhlr.jpg"
-      },
-      {
-        "id": "9",
-        "movieName": "Seondal: The Man Who Sells the River (2016)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Seondal_The_Man_Who_Sells_the_River_9572.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/maxresdefault-5-1140x570.jpg"
-      },
-      {
-        "id": "10",
-        "movieName": "Rurouni Kenshin: The Legend Ends (2014)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Rurouni%20Kenshin%20-%20The%20Legend%20Ends%20(Rur%C3%B4ni%20Kenshin%20-%20Densetsu%20No%20Saigo-Hen)%20%5B2014%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Rurouni-Kenshin-the-legend-ends-1-512x392-1.jpg"
-      },
-      {
-        "id": "11",
-        "movieName": "Rurouni Kenshin: Kyoto Inferno (2014)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Rurouni%20Kenshin%20-%20Kyoto%20Inferno%20(Rur%C3%B4ni%20Kenshin%20-%20Ky%C3%B4to%20Taika-Hen)%20%5B2014%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Rurouni-Kenshin-kyoto-inferno-1-512x398-1.jpg"
-      },
-      {
-        "id": "12",
-        "movieName": "Memories of the Sword (2015)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Memories%20Of%20The%20Sword%20(Hyeomnyeo%20-%20Kar-Ui%20Gi-Eok)%20%5B2015%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/maxresdefault-4-1140x570.jpg"
-      },
-      {
-        "id": "13",
-        "movieName": "Legend of the Fist: The Return of Chen Zhen",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Legend%20Of%20The%20Fist%20-%20The%20Return%20Of%20Chen%20Zhen%20%5B2010%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/AAAABYAW0AndmbmFUW1aI_9qVLqDg-eoom-HmyndIkMvszYUcfqQN4u-p_chxRTUE7dIEa18nuF3O-_USQvsHLaJ-C6MI9WB-1140x570.jpg"
-      },
-      {
-        "id": "14",
-        "movieName": "Shock Wave 2 (2020)",
-        "fileUrl": "https://wl31.datbu.com/z6qle5y5i3gu5p7lnmtkabet7jfaentujfnkpxmhpcjgppvzychvxwt2dhiq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/5eMEnVKFDXKjlxIKKqkXIStI1Tz.jpg"
-      },
-      {
-        "id": "15",
-        "movieName": "Shock Wave (2017)",
-        "fileUrl": "https://wl31.datbu.com/z6qle4i5i3gu5p7lnmtkah4suv5dlzb6qum6sdbximbggnnqthgx63xeywmq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/l4G4M6V9UrNRdbcsbnMmEZUyBGw.jpg"
-      },
-      {
-        "id": "16",
-        "movieName": "The Sorcerer and the White Snake (2011)",
-        "fileUrl": "https://wl31.datbu.com/z6qlenqyi3gu5p7lnmtkahwzut7aozf7yx6p4zlb54mgua2emrsy5s2ayf3q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/5Jfv3CtMULd41C5jpLR8PGAMgE3.jpg"
-      },
-      {
-        "id": "17",
-        "movieName": "The Forbidden Kingdom (2008)",
-        "fileUrl": "https://wl31.datbu.com/z6qlekayi3gu5p7lnmtkaxmsvjua37bz5nvecmfev2dyfhonlxw7luvx7lsa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/mkrwLBAFHwLnQF8qdhCH0VOQqff.jpg"
-      },
-      {
-        "id": "18",
-        "movieName": "Vanguard (2020)",
-        "fileUrl": "https://wl31.datbu.com/z6qll6aui3gu5p7lnmtkahofvzvelg3ncp7ou3l36ugqx27lakhx5t7hpq2q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/mKvw1Ic9enfFlCPBNJGiejRPMUO.jpg"
-      },
-      {
-        "id": "19",
-        "movieName": "Detective Chinatown (2015)",
-        "fileUrl": "https://wl31.datbu.com/z6qllbqvi3gu5p7lnmtkahwoxx6yrcat4dsvdfyvw6aj7zgihznr7fifz5ba/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/sYmdUFpcpRqlmeETqhcMrYJbjbN.jpg"
+        "movieName": "Detective Dee: Solitary Skies Killer",
+        "fileUrl": "https://mycinema.asia/media/films/Detective_Dee_Solitary_Skies_Killer_2020_720/Detective_Dee_Solitary_Skies_Killer_2020_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3501.jpg"
       }
     ]
   },
   {
     "categoryId": "5",
-    "categoryTitle": "Mystery",
+    "categoryTitle": "All Movies",
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "Never Gone(2016)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/23f91031cd1d463.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/The-Predator-2018.jpg"
+        "movieName": "G.I joe : The rise of cobra (2009)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/3586f64649724d8.mp4",
+        "imageUrl": "https://flixable.b-cdn.net/hbo-max/small/g-i-joe-the-rise-of-cobra.jpg"
       },
       {
         "id": "2",
-        "movieName": "Journey to China: The Mystery of Iron Mask (2019)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/(CM)_Journey_To_China_The_Mystery_of_Iron_Mask_2019_BluRay_720p.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/EGXdgJzXYAE3vyJ.jpg"
+        "movieName": "G.I joe : Retaliation (2013)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/132d0cd9b928495.mp4",
+        "imageUrl": "https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*7294*7293_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYyBpfK8IkOcd%5D%5DvvFBGwzu1HLvSwUdeNKWN6U2S8zbYZs6GNWLH747cGnRNU28fRV5m9LJvXYAFJnP2OJKIxkv*uK%5D9.jpg"
       },
-      {
+            {
         "id": "3",
-        "movieName": "Werewolves Within (2021)",
-        "fileUrl": "https://omgzone.b-cdn.net/Werewolves.Within.2021.1080p.WEBRip.x264-RARBG.mp4-muxed.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/werewolves-within-poster-new-cropped-hed-1269970-1280x0-1623340096589-1140x570.jpg"
+        "movieName": "The Last Mercenary (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Last.Mercenary.2021.360/The.Last.Mercenary.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7214.jpg"
       },
-      {
+              {
         "id": "4",
-        "movieName": "The Conjuring: The Devil Made Me Do It",
-        "fileUrl": "https://omgzone.b-cdn.net/the.conjuring.the.devil.made.me.do.it.2021.720p.CM.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/jpg.jpg"
+        "movieName": "The Tomorrow War",
+        "fileUrl": "https://mycinema.asia/media/films/The.Tomorrow.War.2021.360p/The.Tomorrow.War.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7227.jpg"
       },
-      {
+             {
         "id": "5",
-        "movieName": "The New Mutants 2020",
-        "fileUrl": "https://mmtv.b-cdn.net/(AC)The.New.Mutants.2020.720p.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/04/the-new-mutants-1200-1200-675-675-crop-000000.jpg"
+        "movieName": "Jolt (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jolt.2021.360/Jolt.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7210.jpg"
       },
-      {
+              {
         "id": "6",
-        "movieName": "Wild Dog (2021)",
-        "fileUrl": "https://mmtv.b-cdn.net/Wild.Dog.2021.720P.Web-DL.H264%5Bmmsubtitles.co%5D.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/04/Wild-Dog-Movie-Review-1140x570.jpg"
-      },
-      {
-        "id": "7",
-        "movieName": "Now You See Me (2013)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Now%20You%20See%20Me%20%5B2013%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/now-you-see-me-1200-1200-675-675-crop-000000-1140x570.jpg"
-      },
-      {
-        "id": "8",
-        "movieName": "Who Am I: No System Is Safe (2014)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Who_Am_I_-_No_System_Is_Safe_&amp;_40;Who_Am_I_-_Kein_System_Ist_Sicher&amp;_41;_%5B_2014%5D_&amp;_40;MM_Sub&amp;_41;.mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Who-Am-I-No-System-Is-Safe-2-512x267-1.jpg"
-      },
-      {
-        "id": "9",
-        "movieName": "Universal Soldier: Day of Reckoning (2012)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/Universal_Soldier_-_Day_Of_Reckoning_%5B2012%5D_(MM_Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/images-1-1.jpg"
-      },
-      {
-        "id": "10",
-        "movieName": "The Bourne Identity (2002)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/The_Bourne_Identity_%5B2002%5D_(MM_Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/bourneidentity.jpg"
-      },
-      {
-        "id": "11",
-        "movieName": "The Thing (2011)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Thing%20%5B2011%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/1_YvmJ8mfUjD6mBFNRtese0g-512x341-1.jpeg"
-      },
-      {
-        "id": "12",
-        "movieName": "The Sixth Sense (1999)",
-        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Sixth%20Sense%20%5B1999%5D%20(MM%20Sub).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/the_sixth_sense_-_h_-_1999-512x288-1.jpg"
-      },
-      {
-        "id": "13",
-        "movieName": "Monster’s Ball (2001)",
-        "fileUrl": "https://wl31.datbu.com/z6qlm5bci3gu5p7lnmt2axomxu6gadgtlrp4dfe3bvnhrgdr4wosama4f6aq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/s7o0AyOFIYNjTe008pV6EZMI2IP.jpg"
-      },
-      {
-        "id": "14",
         "movieName": "Blood Red Sky (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfgrdi3gu5p7lnmtkadm4xn4y7wfvdoldpjuostvbp67vtrswnukk6pfa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/ky8Fua6PD7FyyOA7JACh3GDETli.jpg"
+        "fileUrl": "https://mycinema.asia/media/films/Blood.Red.Sky.2021.360/Blood.Red.Sky.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7206.jpg"
       },
-      {
-        "id": "15",
-        "movieName": "The Legend of Hercules (2014)",
-        "fileUrl": "https://wl31.datbu.com/z6qlf4q5i3gu5p7lnmtkacor6qbdzcyoswdtvdczbajwafpi5zz5476o6liq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/GD9nfxw68XWBreHeEq2Jz28qeb.jpg"
-      },
-      {
-        "id": "16",
-        "movieName": "The Suicide Squad (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qleaq6i3gu5p7lnmtkahetuilmn7rqzi4ncu6qbd5mkzdyzsojrtw2injq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/mJkH0C3AAX6Au7cIEv1YMSH09UT.jpg"
-      },
-      {
-        "id": "17",
+               {
+        "id": "7",
         "movieName": "Jungle Cruise (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qledi6i3gu5p7lnmtkabogukaeyslx7zac5n76infju4xufyb5rqokpopa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg"
+        "fileUrl": "https://mycinema.asia/media/films/Jungle.Cruise.2021.360/Jungle.Cruise.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7201.jpg"
       },
-      {
-        "id": "18",
-        "movieName": "The Purge (2013)",
-        "fileUrl": "https://wl31.datbu.com/z6qlf3q7i3gu5p7lnmtkaww67aisho4f2vaki556wdtzqf367tbhvjtk3hva/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1x4fHaDdlpWT5P2UV4ClKguWbTE.jpg"
+               {
+        "id": "8",
+        "movieName": "Triggered",
+        "fileUrl": "https://mycinema.asia/media/films/Triggered.2020.360p/Triggered.2020.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7236.jpg"
       },
-      {
-        "id": "19",
-        "movieName": "The Purge: Election Year (2016)",
-        "fileUrl": "https://wl31.datbu.com/z6qlf3y7i3gu5p7lnmtkahwovjalm2g2eim2mgvjtwcmfkfqp6tfvzeeeqlq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg"
-      },
-      {
-        "id": "20",
-        "movieName": "The First Purge (2018)",
-        "fileUrl": "https://wl31.datbu.com/z6qlf2i7i3gu5p7lnmtkacuzux2vutg2e7jhsipinhuoxfhqqx6bfk6ht2hq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/litjsBoiydO6JlO70uOX4N3WnNL.jpg"
-      },
-      {
-        "id": "21",
-        "movieName": "The Forever Purge (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlf2a7i3gu5p7lnmtkace7x2dco65wshsl2vpvnemnt2suxuwyu4o2gyaq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/uHA5COgDzcxjpYSHHulrKVl6ByL.jpg"
-      },
-      {
-        "id": "22",
-        "movieName": "The Ice Road (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkaa2i3gu5p7lnmtkaao2u5ejq4lhyfh3ooemx256qav2kt7gycjkdn4a/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg"
-      },
-      {
-        "id": "23",
-        "movieName": "Universal Soldier (1992)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkaq2i3gu5p7lnmtkaxo47qcxmvyy4nnuglg4kyfaf4zm7ek2wcprxv6q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg"
-      },
-      {
-        "id": "24",
-        "movieName": "Cobra (1986)",
-        "fileUrl": "https://wl31.datbu.com/z6qll4a2i3gu5p7lnmtkafu47ugkxmbadoyvuusupwptwsg3b5yjsvvv4juq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/jCxfbTh8JvJil5edhNywxaTHoWv.jpg"
-      },
-      {
-        "id": "25",
-        "movieName": "Resident Evil: Vendetta (2017)",
-        "fileUrl": "https://wl31.datbu.com/z6qlknavi3gu5p7lnmtkagw6ubbc7sjwpkdvlzvwou7jy5haoq3gyhv6qnqq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/88qfHWhlOBYXp69277QFhdPYnWf.jpg"
-      },
-      {
-        "id": "26",
-        "movieName": "Occupation (2018)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkfivi3gu5p7lnmtkaau76wigncd4lklhijhplta3sbypnej7irdckoiq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg"
+        {
+        "id": "9",
+        "movieName": "Black Widow(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Black.Widow.2021.360/Black.Widow.2021.360.m3u8",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/black-widow-poster-social-feature.jpg"
       }
     ]
   },
   {
     "categoryId": "6",
-    "categoryTitle": "Romance",
+    "categoryTitle": "Thailand",
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "May Who? (2015)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfja7i3gu5p7lnmtkawmzx2y76takbubsildge6g5p42niuvoto4hie7a/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/lTjAnCvTvxQ1yWww5pWVJZqDcC3.jpg"
+        "movieName": "Ghost Lab",
+        "fileUrl": "https://mycinema.asia/media/films/Ghost.Lab.2021.360p/Ghost.Lab.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6621.jpg"
       },
       {
         "id": "2",
-        "movieName": "ATM (2012)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfia7i3gu5p7lnmtkag64wqd2jrnyw3y3sngjgymn7p3diwrclpolkhnq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/8DNNANlLkL2b8VxYB0cw8CB6GwZ.jpg"
+        "movieName": "In Family We Trust",
+        "fileUrl": "https://mycinema.asia/media/series/In.family.we.trust/In_Family_We_Trust_1_360/In_Family_We_Trust_1_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5961.jpg"
       },
       {
         "id": "3",
-        "movieName": "I Fine..Thank You..Love You (2014)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfiy7i3gu5p7lnmtkagozvq3xhrjqu45uyddyh2vajdcm6s7rodlvfwfq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/xUh33slN3QQVko2c7HybnPQgN6C.jpg"
+        "movieName": "Luang Pee Jazz 5G",
+        "fileUrl": "https://mycinema.asia/media/films/Luang_Pee_Jazz_5G_2018_360/Luang_Pee_Jazz_5G_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4544.jpg"
       },
       {
         "id": "4",
-        "movieName": "Space Jam: A New Legacy (2021",
-        "fileUrl": "https://wl31.datbu.com/z6qlfxi7i3gu5p7lnmtkaw4y6sd6urlubh2xhfm5aath3bmsyz72ukdfstta/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/ff56Ie8jn5yvaWPaKQ7t05mIvc9.jpg"
+        "movieName": "Nakee 2",
+        "fileUrl": "https://mycinema.asia/media/films/Nakee_2_2018_360/Nakee_2_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4530.jpg"
       },
       {
         "id": "5",
-        "movieName": "Bad Guy (2001)",
-        "fileUrl": "https://wl31.datbu.com/z6qle5yyi3gu5p7lnmtkaggbvb4viekwfcsotdbmxngbw4aiit3q5kyeidwa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/2gI1b0kHperlUjC4EE34mKJBGI6.jpg"
+        "movieName": "Ghost Wife",
+        "fileUrl": "https://mycinema.asia/media/films/Ghost_Wife_2018_360/Ghost_Wife_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4125.jpg"
       },
       {
         "id": "6",
-        "movieName": "Fatherhood (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qllay2i3gu5p7lnmtkacgcwtjrccxsswiw3yalf6gkuk6as2lk3kllrfma/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/pR2fzm82fl0giommpo310LBOMbV.jpg"
+        "movieName": "2gether: The Series",
+        "fileUrl": "https://mycinema.asia/media/series/2gether_The_Series/2gether_The_Series_Ep1_360/2gether_The_Series_Ep1_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3764.jpg"
       },
       {
         "id": "7",
-        "movieName": "Awake (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qll2iui3gu5p7lnmtkaa6ev23gw5zlxkcj5r7642ryceuc634bsjzd6qsa/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg"
+        "movieName": "Brother of the Year",
+        "fileUrl": "https://mycinema.asia/media/films/Brother_Of_The_Year_2018_360/Brother_Of_The_Year_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3585.jpg"
       },
       {
         "id": "8",
-        "movieName": "Flashback (2020)",
-        "fileUrl": "https://wl31.datbu.com/z6qlkaivi3gu5p7lnmtkafuz6rxlp5ojjlnmhidymm7x3bn7siesdclyy34q/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/nc7szo7ChOknEk8qCkABJyNgl5y.jpg"
+        "movieName": "App War",
+        "fileUrl": "https://mycinema.asia/media/films/App_War_2018_620/App_War_2018_620.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3536.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Zombie Fighters (Kud Krachak Krien)",
+        "fileUrl": "https://mycinema.asia/media/films/Zombie_Fighters_2017_360/Zombie_Fighters_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3390.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "15+ Coming of Age",
+        "fileUrl": "https://mycinema.asia/media/films/Coming_of_Age_2017_360/Coming_of_Age_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3305.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Dew",
+        "fileUrl": "https://mycinema.asia/media/films/dew_2019_360/dew_2019_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3247.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Mr. Hurt",
+        "fileUrl": "https://mycinema.asia/media/films/Mr_hurt_2017_360/Mr_hurt_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3205.jpg"
       }
     ]
   },
   {
     "categoryId": "7",
-    "categoryTitle": "007",
+    "categoryTitle": "Farnce Movies",
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "Spectre (2015)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfki7i3gu5p7lnmtkaxe36uqulv3u7b5icuu4p3ngsbcl3uqskh54rrkq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/672kUEMtTHcaVYSVY4eiHEliHFa.jpg"
+        "movieName": "The Last Mercenary (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Last.Mercenary.2021.360/The.Last.Mercenary.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7214.jpg"
       },
       {
         "id": "2",
-        "movieName": "Skyfall (2012)",
-        "fileUrl": "https://wl31.datbu.com/z6qlflq7i3gu5p7lnmtkaxu6xibbn3ktvkb4zd44mc6ki6suutmibjq3ef2a/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/iANstMt9B4unvLMLLOWnBnZIt9b.jpg"
+        "movieName": "Oxygen",
+        "fileUrl": "https://mycinema.asia/media/films/Oxygen.2021.360p/Oxygen.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6629.jpg"
       },
       {
         "id": "3",
-        "movieName": "Quantum of Solace (2008)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfgi7i3gu5p7lnmtkafos7z3vosayjnaehjmvsrffbppo5oeoxn3rvpeq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg"
+        "movieName": "Don't Worry, He Won't Get Far on Foot",
+        "fileUrl": "https://mycinema.asia/media/films/Don't_Worry_He_Won't_Get_Far_On_Foot_2018_360/Don't_Worry_He_Won't_Get_Far_On_Foot_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4001.jpg"
       },
       {
         "id": "4",
-        "movieName": "Casino Royale (2006)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfga7i3gu5p7lnmtkavggxrhgyhpmlza2yuebraviri4koxl63b5uijna/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg"
+        "movieName": "The Hunger Games",
+        "fileUrl": "https://mycinema.asia/media/films/The_Hunger_Games_2012_360/The_Hunger_Games_2012_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2396.jpg"
       },
       {
         "id": "5",
-        "movieName": "Die Another Day (2002)",
-        "fileUrl": "https://wl31.datbu.com/z6qlfhq7i3gu5p7lnmtkaxe3767bnvo2jtyv7eplippopd3aim2zw5chwcba/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg"
+        "movieName": "Pirates of the Caribbean: Dead Man's Chest",
+        "fileUrl": "https://mycinema.asia/media/films/Pirates_Of_The_Caribbean_Dead_Mans_Chest_2006_360/Pirates_Of_The_Caribbean_Dead_Mans_Chest_2006_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1613.jpg"
       },
       {
         "id": "6",
-        "movieName": "The World Is Not Enough (1999)",
-        "fileUrl": "https://wl31.datbu.com/z6qleyyyi3gu5p7lnmtkaxg4v2hqesrnw5srbvy3asombt62glxok5sbdlga/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/bc1MIdWr8Y9RsfD9Qq7932prh5v.jpg"
-      },
-      {
-        "id": "7",
-        "movieName": "GoldenEye (1995)",
-        "fileUrl": "https://wl31.datbu.com/z6qleyqyi3gu5p7lnmtkavoruu6zlwhghifz53dmmdvo2r7shwqfid5znhkq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg"
-      },
-      {
-        "id": "8",
-        "movieName": "Licence to Kill (1989)",
-        "fileUrl": "https://wl31.datbu.com/z6qlevayi3gu5p7lnmtkaagfuuhny4iqftc23z33i352g3sy4wk5hpbcvlva/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/6NIOOBHp59uEcyHVG0Du6TumOpY.jpg"
-      },
-      {
-        "id": "9",
-        "movieName": "The Living Daylights (1987)",
-        "fileUrl": "https://wl31.datbu.com/z6qlexqyi3gu5p7lnmtkax6j7cv2nyg6r7u7esailkmvqbzdk44e32enn5hq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/vIngn15zT32wWd2sg5MNdfVCBE2.jpg"
-      },
-      {
-        "id": "10",
-        "movieName": "A View to a Kill (1985)",
-        "fileUrl": "https://wl31.datbu.com/z6qlewiyi3gu5p7lnmtkadwz7eurjqkf7tsamcovgocrvmiptwe3iz2p7njq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/ieMTbSdYJJ7RZIW0X02NbwIAxMl.jpg"
-      },
-      {
-        "id": "11",
-        "movieName": "Never Say Never Again (1983)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Never.Say.Never.Again.1983.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/lM2aZIEnzRukE0sxqlQgvwOsdIY.jpg"
-      },
-      {
-        "id": "12",
-        "movieName": "Octopussy (1983)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Octopussy.1983.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/cFDNFEBhnFIN5EVUM2RyHuY8Ipz.jpg"
-      },
-      {
-        "id": "14",
-        "movieName": "Moonraker (1979)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Moonraker.1979.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1jgcSEs83R8X1bSNa2z3qFavNHY.jpg"
-      },
-      {
-        "id": "15",
-        "movieName": "The Spy Who Loved Me (1977)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/The.Spy.Who.Loved.Me.1977.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/mQD9XMe6Z6mrVzdf3Ca3fJSn5xz.jpg"
-      },
-      {
-        "id": "16",
-        "movieName": "The Man with the Golden Gun (1974)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/The.Man.with.the.Golden.Gun.1974.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/itH4xI6TbJtJSqcZ43B3MkpL1gy.jpg"
-      },
-      {
-        "id": "17",
-        "movieName": "Live and Let Die (1973)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Live.and.Let.Die.1973.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/7VJDgdOV4fyqIAt8uiqSusFiirL.jpg"
-      },
-      {
-        "id": "18",
-        "movieName": "Diamonds Are Forever (1971)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Diamonds.Are.Forever.1971.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/uajiHcFX5sOhYB2tBuWkmizbtuU.jpg"
-      },
-      {
-        "id": "19",
-        "movieName": "On Her Majesty’s Secret Service (1967)",
-        "fileUrl": "https://wl31.datbu.com/z6qlllqzi3gu5p7lnmtkawghx2f53y57pufrfjmsp3dcnuev2nsfsvxiljdq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/tXlAyD3gduY9SJVIFnLAVCrXuAP.jpg"
-      },
-      {
-        "id": "20",
-        "movieName": "You Only Live Twice (1967)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/You.Only.Live.Twice.1967.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/gIhS0VC7YzI8pj6zfS3KxsxV0dS.jpg"
-      },
-      {
-        "id": "21",
-        "movieName": "Thunderball (1965)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/thunderball.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/oJ5ybB57eidPLqZUltrVjshqwcs.jpg"
-      },
-      {
-        "id": "22",
-        "movieName": "Goldfinger (1964)",
-        "fileUrl": "https://wl31.datbu.com/z6qll2izi3gu5p7lnmtkafe76s7zbzq4piod3a7kugvotytu7youmot6cnta/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/2vDIWQRNIxav6tVI2HrayxMullD.jpg"
-      },
-      {
-        "id": "23",
-        "movieName": "From Russia with Love (1963)",
-        "fileUrl": "https://wl31.datbu.com/z6qll2azi3gu5p7lnmtkafoixzciyhnnzhly2yitp7vsgcjrsmchvvh6bkhq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/2rvplij9yAK70XZD4zQo9r7SGxT.jpg"
-      },
-      {
-        "id": "24",
-        "movieName": "Dr. No (1962)",
-        "fileUrl": "https://odss.burmesesubtitles.com/BS/M/Dr.No.1962.HDR.720p.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/w9ph5cUfGbw41WXt7yuXsWeN2TV.jpg"
+        "movieName": "Youth",
+        "fileUrl": "https://mycinema.asia/media/films/Youth_2015/Youth_2015.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_546.jpg"
       }
     ]
   },
   {
-    "categoryId": "8",
-    "categoryTitle": "Horror",
+    "categoryId": "7",
+    "categoryTitle": "US & UK Movies",
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "A Quiet Place Part II (2020)",
-        "fileUrl": "https://wl31.datbu.com/z6qllvqzi3gu5p7lnmtkawwhwq7do3vti65ijpue7twlzksibqyijatno3na/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg"
+        "movieName": "Casino Royale (2006)",
+        "fileUrl": "https://mycinema.asia/media/films/Casino.Royale.2006.360/Casino.Royale.2006.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7232.jpg"
       },
       {
         "id": "2",
-        "movieName": "A Quiet Place (2018)",
-        "fileUrl": "https://wl31.datbu.com/z6qlliqvi3gu5p7lnmtkawo3umcqqxtvnp75frruapa5qwdpkbeieswh4ufq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
+        "movieName": "The Tomorrow War",
+        "fileUrl": "https://mycinema.asia/media/films/The.Tomorrow.War.2021.360p/The.Tomorrow.War.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7227.jpg"
       },
       {
         "id": "3",
-        "movieName": "Baphomet (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qllda3i3gu5p7lnmtkawoj7ikdyia26iiqojsr32htytbe2kbfwhytkvwq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1l6S3EID762dvTOrNwoCRNTESa3.jpg"
+        "movieName": "Jolt (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jolt.2021.360/Jolt.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7210.jpg"
       },
       {
         "id": "4",
-        "movieName": "We Need to Do Something (2021)",
-        "fileUrl": "https://wl31.datbu.com/z6qlehbai3gu5p7lnmt2axgt6s2m5lzhrbwyqwic32veet42hu32v2ilqdsq/v.mp4",
-        "imageUrl": "https://image.tmdb.org/t/p/w185/1zpWoMfyZ9V0kXZoa3cnZeI6fRV.jpg"
+        "movieName": "Blood Red Sky (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Blood.Red.Sky.2021.360/Blood.Red.Sky.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7206.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Jungle Cruise (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jungle.Cruise.2021.360/Jungle.Cruise.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7201.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Space Jam: A New Legacy (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Space.Jam.A.New.Legacy.2021.360/Space.Jam.A.New.Legacy.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7190.jpg"
       }
     ]
   }
