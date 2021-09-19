@@ -616,6 +616,102 @@
     "categoryTitle": "SC-FI Movies",
     "categoryItemList": [
       {
+        "id": "23",
+        "movieName": "Sunshine (2007)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Sunshine_%5B2007%5D_(MM_Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/sunshine-2007-512x386-1.jpg"
+      },
+      {
+        "id": "22",
+        "movieName": "Spider-Man: Far from Home (2019)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Spider-Man%20-%20Far%20From%20Home%20%5B2019%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/skylines-movie-review-2020-1140x497.jpg"
+      },
+      {
+        "id": "21",
+        "movieName": "Predator (1987)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Predator_%5B1987%5D_(MM_Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/image_6f6628e9-1140x570.jpeg"
+      },
+      {
+        "id": "20",
+        "movieName": "Oblivion (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Oblivion%20%5B2013%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/oblivion-2-512x288-1.jpg"
+      },
+      {
+        "id": "19",
+        "movieName": "Lockout (2012)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Lockout%20%5B2012%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Lockout-movie-wallpaper-1024x570.jpg"
+      },
+      {
+        "id": "18",
+        "movieName": "Skylines (2020)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Skylines.2020.720p.WEBRip.x264%5BCM%5D.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/skylines-movie-review-2020-1140x497.jpg"
+      },
+      {
+        "id": "17",
+        "movieName": "Jumper (2008)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Jumper%20%5B2008%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/landscape-1503613083-screen-shot-2017-08-24-at-231650.png"
+      },
+      {
+        "id": "16",
+        "movieName": "In Time (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/In%20Time%20%5B2011%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/in-time-wallpaper-19.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "I Am Number Four (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/I_Am_Number_Four_9368.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/I-Am-Number-Four-800x445-1.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Her (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Her%20%5B2013%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/MV5BNWIzMTc5M2QtNDU0Ny00YzExLTk0YTgtNjNjMzczOGNkNzE5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SY999_SX1776_AL_-768x432-1.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Criminal (2016)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Criminal%20%5B2016%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/criminal-2016-3-512x286-1.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Back to the Future Part III (1990)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Back%20To%20The%20Future%203%20%5B1990%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/back-to-the-future-1200-1200-675-675-crop-000000-1140x570.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Back to the Future Part II (1989)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Back%20To%20The%20Future%202%20%5B1989%5D%20(MM%20Sub)).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/unnamed.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Back to the Future (1985)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Back%20To%20The%20Future%20%5B1985%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/110961072_f7306293-cd5c-42a4-9ae6-d5af3995020f.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Assassin’s Creed (2016)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Assassin's%20Creed%20%5B2016%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://mycinema.asia/image/avatar_6905.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Absolutely Anything (2015)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Absolutely%20Anything%20%5B2015%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/absolutely-anything-2015-1140x570.jpg"
+      },
+      {
         "id": "1",
         "movieName": "Behemoth",
         "fileUrl": "https://mycinema.asia/media/films/Behemoth.2021.360p/Behemoth.2021.360p.m3u8",
