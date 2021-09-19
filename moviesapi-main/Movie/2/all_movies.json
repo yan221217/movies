@@ -1,35 +1,11 @@
 [
   {
-    "categoryId": "2",
-    "categoryTitle": "Genesis (2021) S1",
-    "categoryItemList": [
-      {
-        "id": "1",
-        "movieName": "Genesis (2021) S1 EP 1",
-        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E01.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/XQXNn_3f-900x570.jpg"
-      },
-      {
-        "id": "2",
-        "movieName": "Beautiful Dance",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20190503/84984F.mp4",
-        "imageUrl": "https://image.shutterstock.com/image-photo/beautiful-smiling-cute-baby-260nw-115992457.jpg"
-      },
-      {
-        "id": "3",
-        "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-        "imageUrl": "https://lh3.googleusercontent.com/proxy/a91eYNfg_vxER-zhQj2oLINtzwib5o2WEnm80r2D4EpdbUQbMKfwgyba6neLf5DHaysQR9ENRTQWf54U7g5DA-jB4GKpH1amRgce1Magz7hT3A_l6gthLtQGLHIwX5NnW4GqVMEw"
-      }
-    ]
-  },
-  {
     "categoryId": "1",
     "categoryTitle": "cele time",
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "baifern pimchanok",
+        "movieName": "ထိုင္းမင္းသမီး baifern pimchanok",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20200305/7bec5a2be50e432.mp4",
         "imageUrl": "https://i2.wp.com/blackhair101.com/wp-content/uploads/2020/09/Transform-all-hairstyles-with-Thai-beauty-Baifern-Pimchanok.jpg"
       },
