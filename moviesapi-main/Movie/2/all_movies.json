@@ -4,22 +4,34 @@
     "categoryTitle": "Genesis (2021) S1",
     "categoryItemList": [
       {
-        "id": "1",
-        "movieName": "Genesis (2021) S1 EP 1",
-        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E01.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
+        "id": "5",
+        "movieName": "Genesis (2021) S1 EP 5",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E05.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/XQXNn_3f-900x570.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Genesis (2021) S1 EP 4",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E04.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/XQXNn_3f-900x570.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Genesis (2021) S1 EP 3",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E03.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/XQXNn_3f-900x570.jpg"
       },
       {
         "id": "2",
-        "movieName": "Army of the Death(2021)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/10f91c3b229f4a4.mp4",
-        "imageUrl": "https://images.wallpapersden.com/image/download/army-of-the-dead-2021_bGtuaWqUmZqaraWkpJRnZWdprWZmaG4.jpg"
+        "movieName": "Genesis (2021) S1 EP 2",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E02.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/XQXNn_3f-900x570.jpg"
       },
       {
-        "id": "3",
-        "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-        "imageUrl": "https://lh3.googleusercontent.com/proxy/a91eYNfg_vxER-zhQj2oLINtzwib5o2WEnm80r2D4EpdbUQbMKfwgyba6neLf5DHaysQR9ENRTQWf54U7g5DA-jB4GKpH1amRgce1Magz7hT3A_l6gthLtQGLHIwX5NnW4GqVMEw"
+        "id": "1",
+        "movieName": "Genesis (2021) S1 EP 1",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Genesis.S01E01.2021.720p.WEB-DL.AAC2.0.H.264(CM).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/XQXNn_3f-900x570.jpg"
       }
     ]
   },
