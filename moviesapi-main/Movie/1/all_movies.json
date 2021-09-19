@@ -616,6 +616,66 @@
     "categoryTitle": "SC-FI Movies",
     "categoryItemList": [
       {
+        "id": "38",
+        "movieName": "Space Sweepers(2021)",
+        "fileUrl": "https://mmtv.b-cdn.net/Space%20Sweeperrs.2021.WEB-DL.720P.PP.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/GI-Joe-The-Rise-of-Cobra-2009-HD-1140x570.jpg"
+      },
+      {
+        "id": "37",
+        "movieName": "Freaks (2018)",
+        "fileUrl": "https://mmtv.b-cdn.net/Freaks.2018.BLU-RAY.720P.PP.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/05/8894d6d870e2fb4e168cdd4791693880_706x397.jpg"
+      },
+      {
+        "id": "36",
+        "movieName": "Oxygen (2021)",
+        "fileUrl": "https://mmtv.b-cdn.net/oxygen.2021.1080p.web.h264-lambic.mkv-muxed.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/05/oxygen-netflix-social.jpg"
+      },
+      {
+        "id": "35",
+        "movieName": "Ready Player One (2018)",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/Ready%20Player%20One%20%5B2018%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/05/ready-player-one-new-poster-1-1140x570.jpg"
+      },
+      {
+        "id": "34",
+        "movieName": "Pitch Black: Riddick (2000)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pitch%20Black%20-%20Riddick%20%5B2000%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/DEEP-DIVE_Pitch_Black_2000_04.jpg"
+      },
+      {
+        "id": "33",
+        "movieName": "G.I. Joe: The Rise of Cobra (2009)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/GI_Joe_The_Rise_of_Cobra_9780.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/GI-Joe-The-Rise-of-Cobra-2009-HD-1140x570.jpg"
+      },
+      {
+        "id": "32",
+        "movieName": "G.I. Joe: Retaliation (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/GI_Joe_Retaliation_9800.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/b9OVFl48ZV2oTLzACSwBpNrCUhJ-1140x570.jpg"
+      },
+      {
+        "id": "31",
+        "movieName": "Avengers: Age of Ultron (2015)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Avengers_Age_of_Ultron_5004.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/EG2GZbMU4AAVbOv-1140x570.jpg"
+      },
+      {
+        "id": "30",
+        "movieName": "Captain America: The First Avenger (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/(MCU-CM)Captain.America.The.First.Avenger.2011..1080p..mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/download-7.jpg"
+      },
+      {
+        "id": "29",
+        "movieName": "The Thing (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Thing%20%5B2011%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/1_YvmJ8mfUjD6mBFNRtese0g-512x341-1.jpeg"
+      },
+      {
         "id": "28",
         "movieName": "The One (2001)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20One%20%5B2001%5D%20(MM%20Sub).mp4",
