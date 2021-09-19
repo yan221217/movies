@@ -142,5 +142,29 @@
         "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
       }
     ]
+  },
+  {
+    "categoryId": "2",
+    "categoryTitle": "Cartoon Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Master Ji Gong (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Master.Ji.Gong.2021.360/Master.Ji.Gong.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7240.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Space Jam: A New Legacy (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Space.Jam.A.New.Legacy.2021.360/Space.Jam.A.New.Legacy.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7190.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "The Boss Baby: Family Business",
+        "fileUrl": "https://mycinema.asia/media/films/The.Boss.Baby.Family.Business.2021.360p/The.Boss.Baby.Family.Business.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7145.jpg"
+      }
+    ]
   }
 ]
