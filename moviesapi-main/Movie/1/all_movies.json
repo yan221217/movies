@@ -1186,5 +1186,125 @@
         "imageUrl": "https://mycinema.asia/image/avatar_6131.jpg"
       }
     ]
+  },
+  {
+    "categoryId": "13",
+    "categoryTitle": "WAR Movies",
+    "categoryItemList": [
+      {
+        "id": "19",
+        "movieName": "Occupation (2018)",
+        "fileUrl": "https://omgzone.b-cdn.net/Occupation%20%5B2018%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/capsule_616x353.jpg"
+      },
+      {
+        "id": "18",
+        "movieName": "Archenemy(2020)",
+        "fileUrl": "https://omgzone.b-cdn.net/Archenemy.2020.WEB-DL.720P.PP.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/06/unnamed.jpg"
+      },
+      {
+        "id": "17",
+        "movieName": "We Were Soldiers (2002) Part 2",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/We%20Were%20Soldiers%20(Part%202)%20%5B2002%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/images-2-1.jpg"
+      },
+      {
+        "id": "16",
+        "movieName": "We Were Soldiers (2002) Part 1",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/We%20Were%20Soldiers%20(Part%201)%20%5B2002%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/we-were-soldiers-3.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Warriors of the Rainbow: Seediq Bale (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Warriors%20Of%20The%20Rainbow%20-%20Seediq%20Bale%20(Sai%20De%20Ke%20%C2%B7%20Ba%20Lai%20-%20Tai%20Yang%20Qi)%20%5B2011%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/Warriors-of-the-Rainbow-2-512x341-1.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "The Thin Red Line (1998)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Thin%20Red%20Line%20%5B1998%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/thin-red-line-512x384-1.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "The Great Battle (2018)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Great%20Battle%20%5B2018%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/0E14D68E-5206-4745-851A-7F17B767016D_1024x1024.webp"
+      },
+      {
+        "id": "12",
+        "movieName": "The Chinese Widow (2017)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/The%20Chinese%20Widow%20(In%20Harm%E2%80%99s%20Way)%20(The%20Hidden%20Soldier)%20(Feng%20Huo%20Fang%20Fei)%20%5B2017%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/The-Chinese-Widow-Movie-Poster-1-1140x570.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Tae Guk Gi: The Brotherhood of War (2004)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Tae%20Guk%20Gi%20-%20The%20Brotherhood%20Of%20War%20(Taegukgi%20Hwinalrimyeo)%20%5B2004%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/brotherhood-1200-1200-675-675-crop-000000-1140x570.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Saving Private Ryan (1998)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Saving_Private_Ryan_%5B1998%5D_(MM_Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/savingprivateryan2-1140x570.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Operation Mekong(2016)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Operation%20Mekong%20%5B2016%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/maxresdefault-2-1-1140x570.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Operation Chromite (2016)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Operation%20Chromite%20%5B2016%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/OPERATION_CHROMITE_BT_YVW-1024x570.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Northern Limit Line (2015)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Northern_Limit_Line_(Yeonpyeong_Haejeon)_%5B2015%5D_(MM_Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/northern-limit-line-3-512x318-1.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "My Way(2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/My%20Way%20%5B2011%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/2270831.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Sacrifice (2020)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/(Alpha)%20Sacrifice%20(2020)%20720p.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/d7851405-3c03-4de2-9280-1f95ecd75183-1140x570.jpeg"
+      },
+      {
+        "id": "4",
+        "movieName": "Enemy At The Gates (2001)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Enemy%20At%20The%20Gates%20%5B2001%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/3SX4khu0Uuad2a33xJXz01x2sYR.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Company of Heroes (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Company%20Of%20Heroes%20%5B2013%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/4614cd86f8079152f3289b8784921929-960x570.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Battle for Sevastopol(2015)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Battle%20For%20Sevastopol%20%5B2015%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/battle-for-sevastopol-poster.webp"
+      },
+        {
+        "id": "1",
+        "movieName": "Sacrifice (2020)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/(Alpha)%20Sacrifice%20(2020)%20720p.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/e2bfea87-c5bd-40aa-807a-d100ec8bfd3d-1140x570.jpeg"
+      }
+    ]
   }
 ]
