@@ -898,6 +898,18 @@
     "categoryTitle": "All Movies",
     "categoryItemList": [
       {
+        "id": "11",
+        "movieName": "The Purge: Anarchy (2014)",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/The.Purge.Anarchy.2014.1080p.BluRay.x265-RARBG.mp4-muxed.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/c141d8c08560a6bc1218231d2953f3585b016af0_hq-1024x570.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Fire (2021)",
+        "fileUrl": "https://mmtv.b-cdn.net/Fire.2021-GC.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/maxresdefault-3-1140x570.jpg"
+      },
+      {
         "id": "1",
         "movieName": "G.I joe : The rise of cobra (2009)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/3586f64649724d8.mp4",
