@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "25",
+        "movieName": "The Stronghold (2021)",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/The.Stronghold.2021.FRENCH.720p.WEBRip.x264-CM.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/09/AAAABX1Xi1rVm3kJrbdE2bsQqIb0WMejGzY2dPYxyUICO_TymrJNH-Q7RPwjl_Ux5-rF18cCgZtCqUghNsG9Te8NBMxT7uDe-1-1140x570.jpeg"
+      },
+      {
         "id": "24",
         "movieName": "Mission: Impossible – Fallout (2018)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/Mission%20Impossible%20-%20Fallout%20%5B2018%5D%20(MM%20Sub).mp4",
@@ -927,6 +933,30 @@
     "categoryId": "5",
     "categoryTitle": "All Movies",
     "categoryItemList": [
+      {
+        "id": "18",
+        "movieName": "Dhoom 2 (2006)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Dhoom%202%20%5B2006%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/dhoom2_mobile.jpg"
+      },
+      {
+        "id": "17",
+        "movieName": "Dhoom (2004)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Dhoom%20%5B2004%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/dhoom_mobile.jpg"
+      },
+      {
+        "id": "16",
+        "movieName": "Clash of the Titans",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Clash%20Of%20The%20Titans%20%5B2010%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/Clash-of-the-Titans-1200x900-1-1140x570.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Axe Giant: The Wrath of Paul Bunyan (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Axe%20Giant%20-%20The%20Wrath%20Of%20Paul%20Bunyan%20%5B2013%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/download-1.jpg"
+      },
       {
         "id": "14",
         "movieName": "Blade III",
@@ -2049,6 +2079,12 @@
     "categoryId": "13",
     "categoryTitle": "WAR Movies",
     "categoryItemList": [
+      {
+        "id": "20",
+        "movieName": "Battle for Sevastopol(2015)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Battle%20For%20Sevastopol%20%5B2015%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/battle-for-sevastopol-poster.webp"
+      },
       {
         "id": "19",
         "movieName": "Occupation (2018)",
