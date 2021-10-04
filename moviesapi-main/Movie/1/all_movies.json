@@ -2560,5 +2560,41 @@
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/images-2.jpg"
       }
     ]
+  },
+  {
+    "categoryId": "13",
+    "categoryTitle": "Pirates of the Caribbean",
+    "categoryItemList": [
+      {
+        "id": "5",
+        "movieName": "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pirates%20Of%20The%20Caribbean%20-%20Dead%20Men%20Tell%20No%20Tales%20%5B2017%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/scale-1140x570.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Pirates of the Caribbean: On Stranger Tides (2011)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pirates%20Of%20The%20Caribbean%20-%20On%20Stranger%20Tides%20%5B2011%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/maxresdefault-3-2-1140x570.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Pirates of the Caribbean: At World’s End (2007)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pirates%20Of%20The%20Caribbean%20-%20At%20World's%20End%20%5B2007%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/TVNBUENAVISTAHD.COM_TVNH0010416901126331-1140x570.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Pirates of the Caribbean: Dead Man’s Chest (2006)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pirates%20Of%20The%20Caribbean%20-%20Dead%20Man's%20Chest%20%5B2006%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/c2d7e2d4b7ed2d93b6b9ceb46bdc0de402b94b69-1140x570.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Pirates%20Of%20The%20Caribbean%20-%20The%20Curse%20Of%20Black%20Pearl%20%5B2003%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/maxresdefault-2-3-1140x570.jpg"
+      }
+    ]
   }
 ]
