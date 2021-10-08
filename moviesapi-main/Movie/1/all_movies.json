@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "32",
+        "movieName": "Free Guy (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Free_Guy_2021/Free_Guy_2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7430.jpg"
+      },
+      {
         "id": "31",
         "movieName": "Black Panther (2018) MCU",
         "fileUrl": "https://omgzone.b-cdn.net/18.%20(CM)%20Black%20Panther%20(2018)%20%5BFHD%5D.mp4",
