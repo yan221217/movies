@@ -4,6 +4,30 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "36",
+        "movieName": "Pig",
+        "fileUrl": "https://mycinema.asia/media/films/Pig.2021.360/Pig.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7587.jpg"
+      },
+      {
+        "id": "35",
+        "movieName": "Candyman",
+        "fileUrl": "https://mycinema.asia/media/films/Candyman.2021.360P/Candyman.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7581.jpg"
+      },
+      {
+        "id": "34",
+        "movieName": "Kate (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Kate_2021_360/Kate_2021_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7344.jpg"
+      },
+      {
+        "id": "33",
+        "movieName": "Midnight in the Switchgrass",
+        "fileUrl": "https://mycinema.asia/media/films/Midnight.In.The.Switchgrass.2021.360p/Midnight.In.The.Switchgrass.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7381.jpg"
+      },
+      {
         "id": "32",
         "movieName": "Free Guy (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Free_Guy_2021/Free_Guy_2021.m3u8",
@@ -201,6 +225,12 @@
     "categoryId": "2",
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
+      {
+        "id": "54",
+        "movieName": "Hard Hit",
+        "fileUrl": "https://mycinema.asia/media/films/HARD.HIT.2021.360/HARD.HIT.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7503.jpg"
+      },
       {
         "id": "53",
         "movieName": "Sinkhole (2021)",
@@ -1473,6 +1503,12 @@
     "categoryId": "9",
     "categoryTitle": "Horror",
     "categoryItemList": [
+      {
+        "id": "44",
+        "movieName": "Malignant (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Malignant_2021_360/Malignant_2021_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7401.jpg"
+      },
       {
         "id": "43",
         "movieName": "The BFG (2016)",
