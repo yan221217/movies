@@ -4,6 +4,12 @@
     "categoryTitle": "Katuri Cartoon",
     "categoryItemList": [
       {
+        "id": "10",
+        "movieName": "Luca (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Luca.2021.360/Luca.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6741.jpg"
+      },
+      {
         "id": "1",
         "movieName": "Katuri Cartoon(Episode 1-3)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210823/c751c1eca4524c0.mp4",
