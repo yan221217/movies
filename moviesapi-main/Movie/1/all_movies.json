@@ -1042,6 +1042,18 @@
     "categoryTitle": "All Movies",
     "categoryItemList": [
       {
+        "id": "31",
+        "movieName": "American Sniper (2014)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/American_Sniper_9489.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2020/12/american-sniper-1-512x288-1.jpg"
+      },
+      {
+        "id": "30",
+        "movieName": "Captain Phillips (2013)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Phillips%20%5B2013%5D%20(MM%20Sub).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/download-3.jpg"
+      },
+      {
         "id": "29",
         "movieName": "Point Break (2015)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/Point%20Break%20%5B2015%5D%20(MM%20Sub).mp4",
