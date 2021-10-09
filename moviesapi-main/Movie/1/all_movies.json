@@ -226,6 +226,24 @@
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
       {
+        "id": "57",
+        "movieName": "Sinkhole (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/SINKHOLE.2021.720p.FHDRip.H264.AAC.CM.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/09/0184320937d140c1aa3e9c1f83e31e5c-900x570.jpeg"
+      },
+      {
+        "id": "56",
+        "movieName": "Hostage: Missing Celebrity (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/Hostage%20Missing%20Celebrity.(2021).WEB-DL.720P.PP.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/10/5cu9vg4JF5oBebXE2WbkRjHfg7G-1140x570.jpg"
+      },
+      {
+        "id": "55",
+        "movieName": "The Basement (2021)",
+        "fileUrl": "https://mmtv.b-cdn.net/(S%20124)%20Oh%20my%20Ghost/(Alpha)%20The%20Basement%20(2021)%20720p.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/10/the-basement-2021-korean-1-720x570.jpg"
+      },
+      {
         "id": "54",
         "movieName": "Hard Hit",
         "fileUrl": "https://mycinema.asia/media/films/HARD.HIT.2021.360/HARD.HIT.2021.360.m3u8",
