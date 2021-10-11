@@ -4,16 +4,10 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
-        "id": "38",
+        "id": "37",
         "movieName": "Edge of the World",
         "fileUrl": "https://mycinema.asia/media/films/Edge.Of.The.World.2021.360P/Edge.Of.The.World.2021.360P.m3u8",
         "imageUrl": "https://mycinema.asia/image/banner_7610.jpg"
-      },
-      {
-        "id": "37",
-        "movieName": "The Falcon and the Winter Soldier (2021)",
-        "fileUrl": "https://mycinema.asia/media/series/The.Falcon.And.The.Winter.Soldier/The.Falcon.And.The.Winter.Soldier.S01e01.360/The.Falcon.And.The.Winter.Soldier.S01e01.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/banner_7605.jpg"
       },
       {
         "id": "36",
