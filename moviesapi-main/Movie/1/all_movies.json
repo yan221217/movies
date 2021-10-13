@@ -1546,6 +1546,12 @@
     "categoryTitle": "Horror",
     "categoryItemList": [
       {
+        "id": "45",
+        "movieName": "Nightbooks",
+        "fileUrl": "https://mycinema.asia/media/films/Nightbooks.2021.360P/Nightbooks.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7665.jpg"
+      },
+      {
         "id": "44",
         "movieName": "Malignant (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Malignant_2021_360/Malignant_2021_360.m3u8",
@@ -2427,6 +2433,12 @@
     "categoryId": "13",
     "categoryTitle": "WAR Movies",
     "categoryItemList": [
+      {
+        "id": "24",
+        "movieName": "Shershaah (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Shershaah.2021.360/Shershaah.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7641.jpg"
+      },
       {
         "id": "23",
         "movieName": "Railroad Tigers (2016)",
