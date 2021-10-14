@@ -36,6 +36,18 @@
     ]
   },
   {
+    "categoryId": "13",
+    "categoryTitle": "Descendants of the Sun",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Descendants of the Sun",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep1_360/DOTS_ep1_360.m3u8","series/DOTS/DOTS_ep1_720/DOTS_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "2",
     "categoryTitle": "Tail of the Nine Tailed(2020)",
     "categoryItemList": [
