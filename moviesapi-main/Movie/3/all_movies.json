@@ -24,6 +24,18 @@
     ]
   },
   {
+    "categoryId": "12",
+    "categoryTitle": "Game of Thrones: Season 3",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Game of Thrones: Season 3",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S03/Game_of_Thrones_S03E01/Game_of_Thrones_S03E01.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_873.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "2",
     "categoryTitle": "Tail of the Nine Tailed(2020)",
     "categoryItemList": [
