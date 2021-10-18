@@ -37,13 +37,103 @@
   },
   {
     "categoryId": "14",
-    "categoryTitle": "Game of Thrones: Season 3",
+    "categoryTitle": "Crash Landing on You",
     "categoryItemList": [
       {
+        "id": "16",
+        "movieName": "Crash Landing on You EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep16_720/ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Crash Landing on You EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep15_720/ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Crash Landing on You EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep14_720/ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Crash Landing on You EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep13_720/ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Crash Landing on You EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep12_720/ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Crash Landing on You EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep11_720/ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Crash Landing on You EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep10_720/ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Crash Landing on You EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep9_720/ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Crash Landing on You EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep8_720/ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Crash Landing on You EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep7_720/ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Crash Landing on You EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep6_720/ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Crash Landing on You EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep5_720/ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Crash Landing on You EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep4_720/ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Crash Landing on You EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep3_720/ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Crash Landing on You EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep2_720/ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
+      },
+      {
         "id": "1",
-        "movieName": "Game of Thrones: Season 3",
-        "fileUrl": "http://media1.mytel.com.mm/.../20210527/e6c7fa51bae44cc.mp4",
-        "imageUrl": "https://mycinema.asia/image/banner_873.jpg"
+        "movieName": "Crash Landing on You EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep1_720/ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1591.jpg"
       }
     ]
   },
