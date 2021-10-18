@@ -24,6 +24,108 @@
     ]
   },
   {
+    "categoryId": "17",
+    "categoryTitle": "Dinner Mate",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Dinner Mate EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep16_720/Dinner_Mate_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Dinner Mate EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep15_720/Dinner_Mate_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      }
+      {
+        "id": "14",
+        "movieName": "Dinner Mate EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep14_720/Dinner_Mate_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Dinner Mate EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep13_720/Dinner_Mate_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Dinner Mate EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep12_720/Dinner_Mate_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      }
+      {
+        "id": "11",
+        "movieName": "Dinner Mate EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep11_720/Dinner_Mate_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Dinner Mate EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep10_720/Dinner_Mate_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Dinner Mate EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep9_720/Dinner_Mate_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Dinner Mate EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep8_720/Dinner_Mate_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Dinner Mate EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep7_720/Dinner_Mate_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      }
+      {
+        "id": "6",
+        "movieName": "Dinner Mate EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep6_720/Dinner_Mate_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Dinner Mate EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep5_720/Dinner_Mate_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Dinner Mate EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep4_720/Dinner_Mate_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Dinner Mate EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep3_720/Dinner_Mate_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      }
+      {
+        "id": "2",
+        "movieName": "Dinner Mate EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep2_720/Dinner_Mate_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Dinner Mate EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Dinner_Mate/Dinner_Mate_ep1_720/Dinner_Mate_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2601.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "16",
     "categoryTitle": "Rugal",
     "categoryItemList": [
