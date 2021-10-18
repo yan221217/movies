@@ -40,8 +40,98 @@
     "categoryTitle": "Descendants of the Sun",
     "categoryItemList": [
       {
+        "id": "16",
+        "movieName": "Descendants of the Sun EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep16_720/DOTS_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Descendants of the Sun EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep15_720/DOTS_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Descendants of the Sun EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep14_720/DOTS_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Descendants of the Sun EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep13_720/DOTS_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Descendants of the Sun EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep12_720/DOTS_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Descendants of the Sun EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep11_720/DOTS_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Descendants of the Sun EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep10_720/DOTS_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Descendants of the Sun EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep9_720/DOTS_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Descendants of the Sun EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep8_720/DOTS_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Descendants of the Sun EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep7_720/DOTS_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Descendants of the Sun EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep6_720/DOTS_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Descendants of the Sun EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep5_720/DOTS_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Descendants of the Sun EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep4_720/DOTS_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Descendants of the Sun EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep3_720/DOTS_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Descendants of the Sun EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep2_720/DOTS_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
+      },
+      {
         "id": "1",
-        "movieName": "Descendants of the Sun",
+        "movieName": "Descendants of the Sun EP 1",
         "fileUrl": "https://mycinema.asia/media/series/DOTS/DOTS_ep1_720/DOTS_ep1_720.m3u8",
         "imageUrl": "https://mycinema.asia/image/banner_1941.jpg"
       }
