@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "39",
+        "movieName": "Boys from County Hell",
+        "fileUrl": "https://mycinema.asia/media/films/Boys.From.County.Hell.2020.360p/Boys.From.County.Hell.2020.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7767.jpg"
+      },
+      {
         "id": "38",
         "movieName": "The Legend Of Muye:Tomb Seeking Master (2021)",
         "fileUrl": "https://omgzone.b-cdn.net/(CM)The.Legend.Of.Muye.Tomb.Seeking.Master.2021.720p.WEB-DL.H265.DDP2.0-OurTV.mp4",
@@ -1552,6 +1558,12 @@
     "categoryTitle": "Horror",
     "categoryItemList": [
       {
+        "id": "46",
+        "movieName": "No One Gets Out Alive",
+        "fileUrl": "https://mycinema.asia/media/films/No.One.Gets.Out.Alive.2021.360/No.One.Gets.Out.Alive.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7761.jpg"
+      },
+      {
         "id": "45",
         "movieName": "Nightbooks",
         "fileUrl": "https://mycinema.asia/media/films/Nightbooks.2021.360P/Nightbooks.2021.360P.m3u8",
@@ -2067,6 +2079,12 @@
     "categoryId": "11",
     "categoryTitle": "Thriller Movies",
     "categoryItemList": [
+      {
+        "id": "22",
+        "movieName": "Old",
+        "fileUrl": "https://mycinema.asia/media/films/Old.2021.360p/Old.2021.360p.m3u8",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/01/kNeswK8h4LEdKqu4sIlnoHTaRSP.jpg"
+      },
       {
         "id": "21",
         "movieName": "Seventh Son (2014)",
