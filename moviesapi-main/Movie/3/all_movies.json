@@ -25,13 +25,103 @@
   },
   {
     "categoryId": "12",
-    "categoryTitle": "Game of Thrones: Season 3",
+    "categoryTitle": "Hotel Del Luna",
     "categoryItemList": [
       {
+        "id": "16",
+        "movieName": "Hotel Del Luna EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep16_720/Hotel_Del_Luna_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Hotel Del Luna EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep15_720/Hotel_Del_Luna_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Hotel Del Luna EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep14_720/Hotel_Del_Luna_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Hotel Del Luna EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep13_720/Hotel_Del_Luna_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Hotel Del Luna EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep12_720/Hotel_Del_Luna_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Hotel Del Luna EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep11_720/Hotel_Del_Luna_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Hotel Del Luna EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep10_720/Hotel_Del_Luna_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Hotel Del Luna EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep9_720/Hotel_Del_Luna_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Hotel Del Luna EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep8_720/Hotel_Del_Luna_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Hotel Del Luna EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep7_720/Hotel_Del_Luna_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Hotel Del Luna EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep6_720/Hotel_Del_Luna_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Hotel Del Luna EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep5_720/Hotel_Del_Luna_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Hotel Del Luna EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep4_720/Hotel_Del_Luna_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Hotel Del Luna EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep3_720/Hotel_Del_Luna_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Hotel Del Luna EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep2_720/Hotel_Del_Luna_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
+      },
+      {
         "id": "1",
-        "movieName": "Game of Thrones: Season 3",
-        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S03/Game_of_Thrones_S03E01/Game_of_Thrones_S03E01.m3u8",
-        "imageUrl": "https://mycinema.asia/image/banner_873.jpg"
+        "movieName": "Hotel Del Luna EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Hotel_Del_Luna/Hotel_Del_Luna_ep1_720/Hotel_Del_Luna_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3382.jpg"
       }
     ]
   },
