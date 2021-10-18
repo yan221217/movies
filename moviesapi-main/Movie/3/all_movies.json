@@ -24,6 +24,108 @@
     ]
   },
   {
+    "categoryId": "16",
+    "categoryTitle": "Rugal",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Rugal EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep16_720/Rugal_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Rugal EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep15_720/Rugal_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Rugal EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep14_720/Rugal_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Rugal EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep13_720/Rugal_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Rugal EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep12_720/Rugal_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Rugal EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep11_720/Rugal_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Rugal EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep10_720/Rugal_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Rugal EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep9_720/Rugal_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Rugal EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep8_720/Rugal_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Rugal EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep7_720/Rugal_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Rugal EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep6_720/Rugal_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Rugal EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep5_720/Rugal_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Rugal EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep4_720/Rugal_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Rugal EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep3_720/Rugal_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Rugal EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep2_720/Rugal_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Rugal EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Rugal/Rugal_ep1_720/Rugal_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2227.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "15",
     "categoryTitle": "The World of the Married",
     "categoryItemList": [
