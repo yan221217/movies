@@ -24,6 +24,108 @@
     ]
   },
   {
+    "categoryId": "18",
+    "categoryTitle": "Alice",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Alice Ep16",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep16_720/Alice_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Alice Ep15",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep15_720/Alice_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Alice Ep14",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep14_720/Alice_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Alice Ep13",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep13_720/Alice_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Alice Ep12",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep12_720/Alice_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Alice Ep11",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep11_720/Alice_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Alice Ep10",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep10_720/Alice_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Alice Ep9",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep9_720/Alice_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Alice Ep8",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep8_720/Alice_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Alice Ep7",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep7_720/Alice_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Alice Ep6",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep6_720/Alice_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Alice Ep5",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep5_720/Alice_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Alice Ep4",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep4_720/Alice_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Alice Ep3",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep3_720/Alice_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Alice Ep2",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep2_720/Alice_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Alice Ep1",
+        "fileUrl": "https://mycinema.asia/media/series/Alice/Alice_ep1_720/Alice_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3945.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "17",
     "categoryTitle": "Dinner Mate",
     "categoryItemList": [
