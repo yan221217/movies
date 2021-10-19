@@ -24,6 +24,84 @@
     ]
   },
   {
+    "categoryId": "19",
+    "categoryTitle": "Hospital playlist",
+    "categoryItemList": [
+      {
+        "id": "12",
+        "movieName": "Hospital playlist EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep12_720/Hospital_playlist_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Hospital playlist EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep11_720/Hospital_playlist_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Hospital playlist EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep10_720/Hospital_playlist_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Hospital playlist EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep9_720/Hospital_playlist_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Hospital playlist EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep8_720/Hospital_playlist_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Hospital playlist EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep7_720/Hospital_playlist_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Hospital playlist EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep6_720/Hospital_playlist_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Hospital playlist EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep5_720/Hospital_playlist_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Hospital playlist EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep4_720/Hospital_playlist_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Hospital playlist EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep3_720/Hospital_playlist_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Hospital playlist EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep2_720/Hospital_playlist_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Hospital playlist EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Hospital_playlist/Hospital_playlist_ep1_720/Hospital_playlist_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2501.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "18",
     "categoryTitle": "Alice",
     "categoryItemList": [
