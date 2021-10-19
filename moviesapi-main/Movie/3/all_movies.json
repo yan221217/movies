@@ -24,6 +24,288 @@
     ]
   },
   {
+    "categoryId": "21",
+    "categoryTitle": "The Tale of Nokdu",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "The Tale of Nokdu EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep16_720/ep16_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "The Tale of Nokdu EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep15_720/ep15_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "The Tale of Nokdu EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep14_720/ep14_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "The Tale of Nokdu EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep13_720/ep13_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "The Tale of Nokdu EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep12_720/ep12_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "The Tale of Nokdu EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep11_720/ep11_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "The Tale of Nokdu EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep10_720/ep10_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "The Tale of Nokdu EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep9_720/ep9_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "The Tale of Nokdu EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep8_720/ep8_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Tale of Nokdu EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep7_720/ep7_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "The Tale of Nokdu EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep6_720/ep6_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "The Tale of Nokdu EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep5_720/ep5_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Tale of Nokdu EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep4_720/ep4_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "The Tale of Nokdu EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep3_720/ep3_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "The Tale of Nokdu EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep2_720/ep2_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "The Tale of Nokdu EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/The_Tale_of_Nokdu/ep1_720/ep1_720.m3u8",
+        "imageUrl": "https://wiki.d-addicts.com/images/d/d3/The_Tale_of_Nokdu_OST_Part_1.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "20",
+    "categoryTitle": "Record of Youth",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Record of Youth EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep16_720/Record_of_Youth_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Record of Youth EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep15_720/Record_of_Youth_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Record of Youth EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep14_720/Record_of_Youth_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Record of Youth EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep13_720/Record_of_Youth_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Record of Youth EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep12_720/Record_of_Youth_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Record of Youth EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep11_720/Record_of_Youth_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Record of Youth EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep10_720/Record_of_Youth_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Record of Youth EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep9_720/Record_of_Youth_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Record of Youth EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep8_720/Record_of_Youth_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Record of Youth EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep7_720/Record_of_Youth_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Record of Youth EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep6_720/Record_of_Youth_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Record of Youth EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep5_720/Record_of_Youth_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Record of Youth EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep4_720/Record_of_Youth_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Record of Youth EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep3_720/Record_of_Youth_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Record of Youth EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep2_720/Record_of_Youth_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Record of Youth EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Record_of_Youth/Record_of_Youth_ep1_720/Record_of_Youth_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4245.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "20",
+    "categoryTitle": "Train",
+    "categoryItemList": [
+      {
+        "id": "12",
+        "movieName": "Train EP 12",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep12_720/Train_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Train EP 11",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep11_720/Train_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Train EP 10",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep10_720/Train_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Train EP 9",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep9_720/Train_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Train EP 8",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep8_720/Train_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Train EP 7",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep7_720/Train_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Train EP 6",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep6_720/Train_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Train EP 5",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep5_720/Train_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Train EP 4",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep4_720/Train_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Train EP 3",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep3_720/Train_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Train EP 2",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep2_720/Train_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Train EP 1",
+        "fileUrl": "https://mycinema.🇰🇷asia/media/series/Train/Train_ep1_720/Train_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3865.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "19",
     "categoryTitle": "Hospital playlist",
     "categoryItemList": [
