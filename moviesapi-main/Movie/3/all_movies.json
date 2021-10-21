@@ -24,6 +24,30 @@
     ]
   },
   {
+    "categoryId": "1",
+    "categoryTitle": "It's Okay to Not be Okay(2020)",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "It's Okay to Not be Okay Ep1-6",
+        "fileUrl": "http://202.191.109.134:80/.../20210429/62b65f66d6d744f.mp4",
+        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+      },
+      {
+        "id": "2",
+        "movieName": "It's Okay to Not be Okay Ep7-11",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/ecdb40ad0cfa44c.mp4",
+        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+      },
+      {
+        "id": "3",
+        "movieName": "It's Okay to Not be Okay Ep12-16",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
+        "imageUrl": "https://i2.wp.com/the-art-of-autism.com/wp-content/uploads/2020/11/Itsokay.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "23",
     "categoryTitle": "Hometown Cha-Cha-Cha 2021",
     "categoryItemList": [
