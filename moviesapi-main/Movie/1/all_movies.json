@@ -4,6 +4,24 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "42",
+        "movieName": "Escape Room: Tournament of Champions",
+        "fileUrl": "https://mycinema.asia/media/films/Escape.Room.Tournament.Of.Champions.2021.360p/Escape.Room.Tournament.Of.Champions.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7814.jpg"
+      },
+      {
+        "id": "41",
+        "movieName": "Coming Home in the Dark",
+        "fileUrl": "https://mycinema.asia/media/films/Coming.Home.In.The.Dark.2021.360p/Coming.Home.In.The.Dark.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7810.jpg"
+      },
+      {
+        "id": "40",
+        "movieName": "Prisoners of the Ghostland",
+        "fileUrl": "https://mycinema.asia/media/films/Prisoners.Of.The.Ghostland.2021.360P/Prisoners.Of.The.Ghostland.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7777.jpg"
+      },
+      {
         "id": "39",
         "movieName": "Boys from County Hell",
         "fileUrl": "https://mycinema.asia/media/films/Boys.From.County.Hell.2020.360p/Boys.From.County.Hell.2020.360p.m3u8",
@@ -1378,6 +1396,18 @@
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
       {
+        "id": "31",
+        "movieName": "Old Henry",
+        "fileUrl": "https://mycinema.asia/media/films/Old.Henry.2021.360p/Old.Henry.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7841.jpg"
+      },
+      {
+        "id": "30",
+        "movieName": "Martyrs Lane",
+        "fileUrl": "https://mycinema.asia/media/films/Martyrs.Lane.2021.360p/Martyrs.Lane.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7828.jpg"
+      },
+      {
         "id": "29",
         "movieName": "Underworld: Blood War (2016)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/Underworld%20-%20Blood%20War%20%5B2016%5D%20(MM%20Sub).mp4",
@@ -1559,9 +1589,9 @@
     "categoryItemList": [
       {
         "id": "46",
-        "movieName": "No One Gets Out Alive",
-        "fileUrl": "https://mycinema.asia/media/films/No.One.Gets.Out.Alive.2021.360/No.One.Gets.Out.Alive.2021.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/banner_7761.jpg"
+        "movieName": "The Night House",
+        "fileUrl": "https://mycinema.asia/media/films/The.Night.House.2021.360p/The.Night.House.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7847.jpg"
       },
       {
         "id": "45",
