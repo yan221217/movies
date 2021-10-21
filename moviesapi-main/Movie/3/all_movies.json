@@ -24,26 +24,56 @@
     ]
   },
   {
-    "categoryId": "1",
-    "categoryTitle": "It's Okay to Not be Okay(2020)",
+    "categoryId": "24",
+    "categoryTitle": "Girl From Nowhere ss1🇹🇭(2018)",
     "categoryItemList": [
       {
-        "id": "1",
-        "movieName": "It's Okay to Not be Okay Ep1-6",
-        "fileUrl": "http://202.191.109.134:80/.../20210429/62b65f66d6d744f.mp4",
-        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+        "id": "8",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.08.360/Girl.From.Nowhere.08.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
       },
       {
-        "id": "2",
-        "movieName": "It's Okay to Not be Okay Ep7-11",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/ecdb40ad0cfa44c.mp4",
-        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+        "id": "7",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.07.360/Girl.From.Nowhere.07.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.06.360/Girl.From.Nowhere.06.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.05.360/Girl.From.Nowhere.05.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.04.360/Girl.From.Nowhere.04.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
       },
       {
         "id": "3",
-        "movieName": "It's Okay to Not be Okay Ep12-16",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-        "imageUrl": "https://i2.wp.com/the-art-of-autism.com/wp-content/uploads/2020/11/Itsokay.jpg"
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.03.360/Girl.From.Nowhere.03.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.02.360/Girl.From.Nowhere.02.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Girl From Nowhere ss1🇹🇭(2018) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Girl.From.Nowhere/Girl.From.Nowhere.01.360/Girl.From.Nowhere.01.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZjOTg3MWQtMjE0NC00ZGJhLTg3NzAtNWRlZmY2Y2QwYTYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg"
       }
     ]
   },
