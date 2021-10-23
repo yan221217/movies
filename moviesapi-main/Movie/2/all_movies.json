@@ -42,6 +42,108 @@
     ]
   },
   {
+    "categoryId": "15",
+    "categoryTitle": "Shadow and Bone SS1🇺🇲(2021)",
+    "categoryItemList": [
+      {
+        "id": "8",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E08/Shadow.and.Bone.S01E08.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E07/Shadow.and.Bone.S01E07.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E06/Shadow.and.Bone.S01E06.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E05/Shadow.and.Bone.S01E05.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E04/Shadow.and.Bone.S01E04.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E03/Shadow.and.Bone.S01E03.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E02/Shadow.and.Bone.S01E02.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Shadow and Bone SS1🇺🇲(2021) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Shadow.and.Bone/Shadow.and.Bone.S01E01/Shadow.and.Bone.S01E01.m3u8",
+        "imageUrl": "https://trueid-ugc-prod.b-cdn.net/partner_files/trueidintrend/216462/cover_image/shadowcover.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "14",
+    "categoryTitle": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020)",
+    "categoryItemList": [
+      {
+        "id": "7",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep7_720/TheQueen'sGambit_ep7_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      },
+      {
+        "id": "6",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep6_720/TheQueen'sGambit_ep6_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      },
+      {
+        "id": "5",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep5_720/TheQueen'sGambit_ep5_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      },
+      {
+        "id": "4",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep4_720/TheQueen'sGambit_ep4_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      },
+      {
+        "id": "3",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep3_720/TheQueen'sGambit_ep3_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      },
+      {
+        "id": "2",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep2_720/TheQueen'sGambit_ep2_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      },
+      {
+        "id": "1",
+        "movieName": "The Queen's Gambit 🏴󠁧󠁢󠁥󠁮󠁧󠁿(2020) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/The_Queen's_Gambit/TheQueen'sGambit_ep1_720/TheQueen'sGambit_ep1_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Queen%27s_Gambit_%28miniseries%29.png"
+      }
+    ]
+  },
+  {
     "categoryId": "13",
     "categoryTitle": "The Falcon and the Winter Soldier🇺🇲 (2021)",
     "categoryItemList": [
