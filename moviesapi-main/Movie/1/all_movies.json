@@ -4,6 +4,18 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "44",
+        "movieName": "Snake Eyes: G.I. Joe Origins (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Snake.Eyes.G.I.Joe.Origins.2021/Snake.Eyes.G.I.Joe.Origins.2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7898.jpg"
+      },
+      {
+        "id": "43",
+        "movieName": "Homunculus (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/Homunculus%20(2021)%20720p.CM.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/10/Homunculus-netflix-1200x900-1-1140x570.jpg"
+      },
+      {
         "id": "42",
         "movieName": "Escape Room: Tournament of Champions",
         "fileUrl": "https://mycinema.asia/media/films/Escape.Room.Tournament.Of.Champions.2021.360p/Escape.Room.Tournament.Of.Champions.2021.360p.m3u8",
