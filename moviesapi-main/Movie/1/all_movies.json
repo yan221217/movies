@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "45",
+        "movieName": "The Stronghold",
+        "fileUrl": "https://mycinema.asia/media/films/The.Stronghold.2021.360p/The.Stronghold.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7921.jpg"
+      },
+      {
         "id": "44",
         "movieName": "Snake Eyes: G.I. Joe Origins (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Snake.Eyes.G.I.Joe.Origins.2021/Snake.Eyes.G.I.Joe.Origins.2021.m3u8",
@@ -1599,6 +1605,18 @@
     "categoryId": "9",
     "categoryTitle": "Horror",
     "categoryItemList": [
+      {
+        "id": "48",
+        "movieName": "Guardians",
+        "fileUrl": "https://mycinema.asia/media/films/The_Guardians_2017_360/The_Guardians_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3372.jpg"
+      },
+      {
+        "id": "47",
+        "movieName": "VHS 94",
+        "fileUrl": "https://mycinema.asia/media/films/V.H.S.94.2021.360p/V.H.S.94.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7926.jpg"
+      },
       {
         "id": "46",
         "movieName": "The Night House",
