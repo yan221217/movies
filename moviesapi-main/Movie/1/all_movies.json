@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "46",
+        "movieName": "Copshop",
+        "fileUrl": "https://mycinema.asia/media/films/Copshop.2021.360p/Copshop.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7943.jpg"
+      },
+      {
         "id": "45",
         "movieName": "The Stronghold",
         "fileUrl": "https://mycinema.asia/media/films/The.Stronghold.2021.360p/The.Stronghold.2021.360p.m3u8",
