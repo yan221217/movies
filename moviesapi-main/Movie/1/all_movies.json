@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "47",
+        "movieName": "Injustice",
+        "fileUrl": "https://mycinema.asia/media/films/Injustice.2021.360p/Injustice.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7965.jpg"
+      },
+      {
         "id": "46",
         "movieName": "Copshop",
         "fileUrl": "https://mycinema.asia/media/films/Copshop.2021.360p/Copshop.2021.360p.m3u8",
@@ -1420,6 +1426,12 @@
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
       {
+        "id": "32",
+        "movieName": "The Alpines",
+        "fileUrl": "https://mycinema.asia/media/films/The.Alpines.2021.360p/The.Alpines.2021.360p.m3u8"",
+        "imageUrl": "https://mycinema.asia/image/banner_7961.jpg"
+      },
+      {
         "id": "31",
         "movieName": "Old Henry",
         "fileUrl": "https://mycinema.asia/media/films/Old.Henry.2021.360p/Old.Henry.2021.360p.m3u8",
@@ -1611,6 +1623,12 @@
     "categoryId": "9",
     "categoryTitle": "Horror",
     "categoryItemList": [
+      {
+        "id": "49",
+        "movieName": "Halloween Kills",
+        "fileUrl": "https://mycinema.asia/media/films/Halloween.Kills.2021.360p/Halloween.Kills.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7953.jpg"
+      },
       {
         "id": "48",
         "movieName": "Guardians",
@@ -1911,6 +1929,12 @@
     "categoryId": "10",
     "categoryTitle": "SC-FI Movies",
     "categoryItemList": [
+      {
+        "id": "40",
+        "movieName": "Shang-Chi and the Legend of the Ten Rings (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021_CAM/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021_CAM.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7951.jpg"
+      },
       {
         "id": "39",
         "movieName": "Guardians 🇷🇺(2017)",
