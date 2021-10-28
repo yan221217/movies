@@ -640,6 +640,12 @@
     "categoryTitle": "Bollywood",
     "categoryItemList": [
       {
+        "id": "52",
+        "movieName": "Sanak",
+        "fileUrl": "https://mycinema.asia/media/films/Sanak.2021.360p/Sanak.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7987.jpg"
+      },
+      {
         "id": "51",
         "movieName": "Wild Dog (2021)",
         "fileUrl": "https://mmtv.b-cdn.net/Wild.Dog.2021.720P.Web-DL.H264%5Bmmsubtitles.co%5D.mp4",
@@ -1623,6 +1629,12 @@
     "categoryId": "9",
     "categoryTitle": "Horror",
     "categoryItemList": [
+      {
+        "id": "50",
+        "movieName": "Night Teeth",
+        "fileUrl": "https://mycinema.asia/media/films/Night.Teeth.2021.360p/Night.Teeth.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7981.jpg"
+      },
       {
         "id": "49",
         "movieName": "Halloween Kills",
