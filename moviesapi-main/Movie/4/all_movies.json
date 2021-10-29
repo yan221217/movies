@@ -154,6 +154,12 @@
     "categoryTitle": "Cartoon Movies",
     "categoryItemList": [
       {
+        "id": "31",
+        "movieName": "Star Wars: Visions 2021",
+        "fileUrl": "https://mycinema.asia/media/series/Star.Wars.Visions/Star.Wars.Visions.S01E01.The.Duel.360/Star.Wars.Visions.S01E01.The.Duel.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8003.jpg"
+      },
+      {
         "id": "30",
         "movieName": "Ice Age: Collision Course",
         "fileUrl": "https://mycinema.asia/media/films/Ice_Age_Collision_Course_2016/Ice_Age_Collision_Course_2016.m3u8",
