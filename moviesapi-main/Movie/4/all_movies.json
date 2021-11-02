@@ -4,6 +4,12 @@
     "categoryTitle": "Katuri Cartoon",
     "categoryItemList": [
       {
+        "id": "11",
+        "movieName": "Muppets Haunted Mansion (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/Muppets.Haunted.Mansion.2021.720p.WEBRip%5BCM%5D.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/10/ytght67tyugr1-1140x570.jpg"
+      },
+      {
         "id": "10",
         "movieName": "Luca (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Luca.2021.360/Luca.2021.360.m3u8",
