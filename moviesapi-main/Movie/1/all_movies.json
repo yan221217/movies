@@ -658,6 +658,96 @@
     "categoryTitle": "Bollywood",
     "categoryItemList": [
       {
+        "id": "67",
+        "movieName": "The Night 🇮🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Night.2020.360p/The.Night.2020.360p.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGMwNjA3YTMtMWRjZC00ZWQ4LThkMDctMzRkNGFkOGE1OTkxXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg"
+      },
+      {
+        "id": "66",
+        "movieName": "The Night 🇮🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Night.2020.360p/The.Night.2020.360p.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGMwNjA3YTMtMWRjZC00ZWQ4LThkMDctMzRkNGFkOGE1OTkxXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg"
+      },
+      {
+        "id": "65",
+        "movieName": "Karnan🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/karnan2021_360/karnan2021_360.m3u8",
+        "imageUrl": "https://otakukart.com/wp-content/uploads/2021/05/Karnan-Movie-1024x512-1.jpg"
+      },
+      {
+        "id": "64",
+        "movieName": "Karnan🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/karnan2021_360/karnan2021_360.m3u8",
+        "imageUrl": "https://otakukart.com/wp-content/uploads/2021/05/Karnan-Movie-1024x512-1.jpg"
+      },
+      {
+        "id": "63",
+        "movieName": "Ajeeb Daastaans 🇮🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Ajeeb.Daastaans.2021.360P 00_00_13-02_22_04/Ajeeb.Daastaans.2021.360P 00_00_13-02_22_04.m3u8",
+        "imageUrl": "https://playfilm.to/wp-content/uploads/2021/04/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg"
+      },
+      {
+        "id": "62",
+        "movieName": "Toofaan (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Toofaan.2021.360/Toofaan.2021.360.m3u8",
+        "imageUrl": "https://thmoviehdd.com/wp-content/uploads/2021/08/Toofaan-2021.jpg"
+      },
+      {
+        "id": "61",
+        "movieName": "Wanted Bhai 🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Radhe.Your.Most.Wanted.Bhai.2021.360P/Radhe.Your.Most.Wanted.Bhai.2021.360P.m3u8",
+        "imageUrl": "https://www.filmibeat.com/fanimg/movie/18805/radhe-your-most-wanted-bhai-photos-images-73336.jpg"
+      },
+      {
+        "id": "60",
+        "movieName": "Silence🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Silence.Can You.Hear.It.360P/Silence.Can You.Hear.It.360P.m3u8",
+        "imageUrl": "https://i2.cinestaan.com/image-bank/1500-1500/183001-184000/183778.jpg"
+      },
+      {
+        "id": "59",
+        "movieName": "99 Songs 🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/99_Songs_360/99_Songs_360.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/DYxbNLcC3eA/sddefault.jpg"
+      },
+      {
+        "id": "58",
+        "movieName": "Haseen Dillruba🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Haseen.Dillruba.2021.360p/Haseen.Dillruba.2021.360p.m3u8",
+        "imageUrl": "https://www.nowrunning.com/content/movie/2020/hasee-24697/bg_banner.jpg"
+      },
+      {
+        "id": "57",
+        "movieName": "Sulthan 🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Sulthan.2021.360P/Sulthan.2021.360P.m3u8",
+        "imageUrl": "https://images.indianexpress.com/2021/03/sulthan.jpg"
+      },
+      {
+        "id": "56",
+        "movieName": "Sherni 🇮🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Sherni.2021.360P/Sherni.2021.360P.m3u8",
+        "imageUrl": "https://cdn.lifestyleasia.com/wp-content/uploads/sites/7/2021/06/17201028/Sherni-Movie-amazon-prime.png"
+      },
+      {
+        "id": "55",
+        "movieName": "Uri: The Surgical Strike",
+        "fileUrl": "https://mycinema.asia/media/films/Uri_The_Surgical_Strike_2019_360/Uri_The_Surgical_Strike_2019_360.m3u8",
+        "imageUrl": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2019/01/uri-the-surgical-strike-movie-review-1.jpg"
+      },
+      {
+        "id": "54",
+        "movieName": "SUPER OVER 🇮🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/SUPER.OVER.2021.360/SUPER.OVER.2021.360.m3u8",
+        "imageUrl": "https://www.filmibeat.com/img/2021/01/superover-1611302015.jpg"
+      },
+      {
+        "id": "53",
+        "movieName": "NAYATTU 🇮🇳(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Nayattu.2021.360/Nayattu.2021.360.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTdhMWQ5YTYtNTNkMy00NGIzLWE2NjItYjhkYjQwMjljMDU1XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+      },
+      {
         "id": "52",
         "movieName": "Sanak",
         "fileUrl": "https://mycinema.asia/media/films/Sanak.2021.360p/Sanak.2021.360p.m3u8",
@@ -1329,6 +1419,12 @@
     "categoryId": "6",
     "categoryTitle": "Thailand",
     "categoryItemList": [
+      {
+        "id": "13",
+        "movieName": "Low Season🇹🇭(2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Low.Season.2020_720/Low.Season.2020_720.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2NlYWZmYTAtMmUwNC00NmRlLWE2N2YtYzUwNmRmZWE4OGZhXkEyXkFqcGdeQXVyODgwNDE1NzE@._V1_.jpg"
+      },
       {
         "id": "1",
         "movieName": "Ghost Lab",
