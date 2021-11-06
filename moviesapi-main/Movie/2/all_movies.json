@@ -42,6 +42,312 @@
     ]
   },
   {
+    "categoryId": "18",
+    "categoryTitle": "Flower of Evil",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Flower of Evil EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep16_720/Flower_of_evil_2020_ep16_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Flower of Evil EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep15_720/Flower_of_evil_2020_ep15_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Flower of Evil EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep14_720/Flower_of_evil_2020_ep14_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Flower of Evil EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep13_720/Flower_of_evil_2020_ep13_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Flower of Evil EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep12_720/Flower_of_evil_2020_ep12_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Flower of Evil EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep11_720/Flower_of_evil_2020_ep11_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Flower of Evil EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep10_720/Flower_of_evil_2020_ep10_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Flower of Evil EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep9_720/Flower_of_evil_2020_ep9_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Flower of Evil EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep8_720/Flower_of_evil_2020_ep8_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Flower of Evil EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep7_720/Flower_of_evil_2020_ep7_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Flower of Evil EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep6_720/Flower_of_evil_2020_ep6_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Flower of Evil EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep5_720/Flower_of_evil_2020_ep5_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Flower of Evil EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep4_720/Flower_of_evil_2020_ep4_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Flower of Evil EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep3_720/Flower_of_evil_2020_ep3_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Flower of Evil EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep2_720/Flower_of_evil_2020_ep2_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Flower of Evil EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Flower_of_evil_2020/Flower_of_evil_2020_ep1_720/Flower_of_evil_2020_ep1_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/09/flower-of-evil-review.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "17",
+    "categoryTitle": "Vagabond",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Vagabond EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep16_720/Vagabond_2019_ep16_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Vagabond EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep15_720/Vagabond_2019_ep15_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Vagabond EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep14_720/Vagabond_2019_ep14_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Vagabond EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep13_720/Vagabond_2019_ep13_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Vagabond EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep12_720/Vagabond_2019_ep12_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Vagabond EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep11_720/Vagabond_2019_ep11_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Vagabond EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep10_720/Vagabond_2019_ep10_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Vagabond EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep9_720/Vagabond_2019_ep9_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Vagabond EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep8_720/Vagabond_2019_ep8_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Vagabond EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep7_720/Vagabond_2019_ep7_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Vagabond EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep6_720/Vagabond_2019_ep6_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Vagabond EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep5_720/Vagabond_2019_ep5_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Vagabond EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep4_720/Vagabond_2019_ep4_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Vagabond EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep3_720/Vagabond_2019_ep3_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Vagabond EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep2_720/Vagabond_2019_ep2_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Vagabond EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Vagabond_2019/Vagabond_2019_ep1_720/Vagabond_2019_ep1_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/ud/18/90841/90841-thumbnail.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "16",
+    "categoryTitle": "The Good Detective 🇰🇷(2020)",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep16_720/The.Good.Detective_ep16_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep15_720/The.Good.Detective_ep15_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep14_720/The.Good.Detective_ep14_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep13_720/The.Good.Detective_ep13_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep12_720/The.Good.Detective_ep12_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep11_720/The.Good.Detective_ep11_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep10_720/The.Good.Detective_ep10_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep9_720/The.Good.Detective_ep9_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep8_720/The.Good.Detective_ep8_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep7_720/The.Good.Detective_ep7_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep6_720/The.Good.Detective_ep6_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep5_720/The.Good.Detective_ep5_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep4_720/The.Good.Detective_ep4_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep3_720/The.Good.Detective_ep3_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep2_720/The.Good.Detective_ep2_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "The Good Detective 🇰🇷(2020) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/The.Good.Detective/The.Good.Detective_ep1_720/The.Good.Detective_ep1_720.m3u8",
+        "imageUrl": "https://www.korseries.com/wp-content/uploads/2020/06/TheGoodDetective-Cover01.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "15",
     "categoryTitle": "Shadow and Bone SS1🇺🇲(2021)",
     "categoryItemList": [
