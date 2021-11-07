@@ -1054,6 +1054,114 @@
     "categoryTitle": "Chinese Movies",
     "categoryItemList": [
       {
+        "id": "43",
+        "movieName": "The Great Wall (2016)",
+        "fileUrl": "https://mycinema.asia/media/films/The_Great_Wall_2016_720/The_Great_Wall_2016_720.m3u8",
+        "imageUrl": "https://d3tvwjfge35btc.cloudfront.net/Assets/51/026/L_p0068402651.jpg"
+      },
+      {
+        "id": "42",
+        "movieName": "Eighteen Arhats of Shaolin Temple🇨🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Eighteen.Arhats.of.Shaolin.Temple.360/Eighteen.Arhats.of.Shaolin.Temple.360.m3u8",
+        "imageUrl": "https://pics.filmaffinity.com/Eighteen_Arhats_of_Shaolin_Temple-310284835-large.jpg"
+      },
+      {
+        "id": "41",
+        "movieName": "The Paper Tigers 🇺🇲 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Paper.Tigers.2021.360P/The.Paper.Tigers.2021.360P.m3u8",
+        "imageUrl": "https://www.wellgousa.com/sites/default/files/2021-03/ThePaperTiger-1382x2048.jpg"
+      },
+      {
+        "id": "40",
+        "movieName": "Shanghai Fortress",
+        "fileUrl": "https://mycinema.asia/media/films/Shanghai_Fortress_2019_720/Shanghai_Fortress_2019_720.m3u8",
+        "imageUrl": "https://video.cgtn.com/news/3d63444e316b7a4e3351444f346b444d32556a4e31457a6333566d54/video/db191001be6a4d9698505b409a31c8fd/db191001be6a4d9698505b409a31c8fd.jpg"
+      },
+      {
+        "id": "39",
+        "movieName": "The Rookies 🇨🇳(2019)",
+        "fileUrl": "https://mycinema.asia/media/films/The_Rookies_2019_720/The_Rookies_2019_720.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDgxNGMwNDYtM2YwNy00Zjg0LWEwNDktZGQ4MGM4YTgyMWRlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": "38",
+        "movieName": "The Legend of Lv Bu",
+        "fileUrl": "https://mycinema.asia/media/films/The_Legend_of_Lv_Bu_2020_720/The_Legend_of_Lv_Bu_2020_720.m3u8",
+        "imageUrl": "https://i.mydramalist.com/1zDyK_4f.jpg"
+      },
+      {
+        "id": "37",
+        "movieName": "The Legend Of Yang Jian",
+        "fileUrl": "https://mycinema.asia/media/films/The_Legend_Of_Yang_Jian_2018_720/The_Legend_Of_Yang_Jian_2018_720.m3u8",
+        "imageUrl": "https://asiental.com/wp-content/uploads/2021/08/The-Legend-of-Yang-Jian-Landscape.jpg"
+      },
+      {
+        "id": "36",
+        "movieName": "Taoist Master (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Taoist.Master.2020_720/Taoist.Master.2020_720.m3u8",
+        "imageUrl": "https://www.themoviedb.org/t/p/w780/g8dCI3ghNNHq6BGbvPVXqVxlLEw.jpg"
+      },
+      {
+        "id": "35",
+        "movieName": "Mulan 🇨🇳(2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Mulan.2020_720/Mulan.2020_720.m3u8",
+        "imageUrl": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/08/live-action-mulan-disney.jpg"
+      },
+      {
+        "id": "34",
+        "movieName": "Vanguard 🇭🇰(2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Vanguard.2020.360/Vanguard.2020.360.m3u8",
+        "imageUrl": "https://www.veryfastmovie.com/wp-content/uploads/2021/10/Vanguard-2020_6869688.jpg"
+      },
+      {
+        "id": "33",
+        "movieName": "Blood - 13 ",
+        "fileUrl": "https://mycinema.asia/media/films/Blood_13_2017_720/Blood_13_2017_720.m3u8",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Blood_13_poster.jpg/220px-Blood_13_poster.jpg"
+      },
+      {
+        "id": "32",
+        "movieName": "Rat Disaster 🇨🇳 (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Rat.Disaster.360/Rat.Disaster.360.m3u8",
+        "imageUrl": "https://filmyreveal.com/wp-content/uploads/2021/07/Rat-Disaster.jpg"
+      },
+      {
+        "id": "31",
+        "movieName": "Super Me ",
+        "fileUrl": "https://mycinema.asia/media/films/Super.Me.2019.360p/Super.Me.2019.360p.m3u8",
+        "imageUrl": "https://khotdeemoviee.com/wp-content/uploads/2021/05/super-me-netflix.jpg"
+      },
+      {
+        "id": "30",
+        "movieName": "Wolf Warrior 1",
+        "fileUrl": "https://mycinema.asia/media/films/Wolf_Warrior_2015_720/Wolf_Warrior_2015_720.m3u8",
+        "imageUrl": "https://movie037hd.com/wp-content/uploads/2020/05/pic21.jpg"
+      },
+      {
+        "id": "29",
+        "movieName": "Wolf Warrior 2",
+        "fileUrl": "https://mycinema.asia/media/films/Wolf_Warrior_2_2017_720/Wolf_Warrior_2_2017_720.m3u8",
+        "imageUrl": "https://s.isanook.com/mv/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMTQvNzI3ODkvNzI3ODktdGh1bWJuYWlsLmpwZw==.jpg"
+      },
+      {
+        "id": "28",
+        "movieName": "The War of Loong",
+        "fileUrl": "https://mycinema.asia/media/films/The_War_Of_Loong_2017_720/The_War_Of_Loong_2017_720.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTY4ZTBiZDItY2Q0YS00ZDAyLWI4N2EtMjA1YjMwOTYyNWQ3XkEyXkFqcGdeQXVyNzc1ODkyMDQ@._V1_.jpg"
+      },
+      {
+        "id": "27",
+        "movieName": "Chasing the Dragon",
+        "fileUrl": "https://mycinema.asia/media/films/Chasing_the_Dragon_2017_360/Chasing_the_Dragon_2017_360.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/M4wgRRNsR64/mqdefault.jpg"
+      },
+      {
+        "id": "26",
+        "movieName": "Detective Dee: Solitary Skies Killer🇨🇳(2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Detective_Dee_Solitary_Skies_Killer_2020_360/Detective_Dee_Solitary_Skies_Killer_2020_360.m3u8",
+        "imageUrl": "https://i.imgur.com/VBlgjSM.jpg"
+      },
+      {
         "id": "25",
         "movieName": "Mutation on Mars",
         "fileUrl": "https://mycinema.asia/media/films/Mutation.On.Mars.2021.Chinese.360P/Mutation.On.Mars.2021.Chinese.360P.m3u8",
