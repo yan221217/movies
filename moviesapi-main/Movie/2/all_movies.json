@@ -42,6 +42,60 @@
     ]
   },
   {
+    "categoryId": "19",
+    "categoryTitle": "The Walking Dead (Season 11) (2021)",
+    "categoryItemList": [
+      {
+        "id": "8",
+        "movieName": "The Walking Dead (Season 11) EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E08/TWD_S11E08.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "The Walking Dead (Season 11) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E07/TWD_S11E07.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "The Walking Dead (Season 11) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E06/TWD_S11E06.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "The Walking Dead (Season 11) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E05/TWD_S11E05.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Walking Dead (Season 11) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E04/TWD_S11E04.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "The Walking Dead (Season 11) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E03/TWD_S11E03.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "The Walking Dead (Season 11) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E02/TWD_S11E02.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "The Walking Dead (Season 11) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/TWD/TWD_S11/TWD_S11E01/TWD_S11E01.m3u8",
+        "imageUrl": "https://i.ytimg.com/vi/F4ALaMgXA0w/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "18",
     "categoryTitle": "Flower of Evil",
     "categoryItemList": [
