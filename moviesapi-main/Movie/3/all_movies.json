@@ -28,6 +28,24 @@
     "categoryTitle": "Game of Thrones",
     "categoryItemList": [
       {
+        "id": "10",
+        "movieName": "Game of Thrones: Season 10",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S03/Game_of_Thrones_S03E10/Game_of_Thrones_S03E10.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2043.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Game of Thrones: Season 9",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S03/Game_of_Thrones_S03E09/Game_of_Thrones_S03E09.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1928.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Game of Thrones: Season 8",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S03/Game_of_Thrones_S03E08/Game_of_Thrones_S03E08.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1873.jpg"
+      },
+      {
         "id": "7",
         "movieName": "Game of Thrones: Season 7",
         "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S07/GOT_S07E01_360/GOT_S07E01_360.m3u8",
