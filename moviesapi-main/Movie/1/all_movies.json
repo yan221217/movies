@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "48",
+        "movieName": "Shang-Chi and the Legend of the Ten Rings (2021)",
+        "fileUrl": "https://mdrive.b-cdn.net/Movie/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.720p.BluRay%5BCM%5D.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/shang-chi-marvel-studios-mcu-1140x570.jpg"
+      },
+      {
         "id": "47",
         "movieName": "Injustice",
         "fileUrl": "https://mycinema.asia/media/films/Injustice.2021.360p/Injustice.2021.360p.m3u8",
@@ -291,6 +297,18 @@
     "categoryId": "2",
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
+      {
+        "id": "62",
+        "movieName": "Cloudy Mountain (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/Cloudy.Mountain.2021.720p.WEB-DL.H264.DDP5.1.CM%20(1).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/Cloudy-Mountain-film-zhu-yilong-poster.jpg"
+      },
+      {
+        "id": "61",
+        "movieName": "On the Line (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/On.the.Line.2021.720p.FHDRip.CM.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/On_the_Line-p1-1140x570.jpg"
+      },
       {
         "id": "60",
         "movieName": "The Labyrinth (2021)",
@@ -1054,6 +1072,12 @@
     "categoryTitle": "Chinese Movies",
     "categoryItemList": [
       {
+        "id": "44",
+        "movieName": "Nanquan-The Rise of Heroes ( 2021 )",
+        "fileUrl": "https://omgzone.b-cdn.net/Nanquan-The.Rise.of.Heroes.2020.HD1080P(CM).mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/Nanquan-The-Rise-of-the-Heroes-Landscape-1140x570.jpg"
+      },
+      {
         "id": "43",
         "movieName": "The Great Wall (2016)",
         "fileUrl": "https://mycinema.asia/media/films/The_Great_Wall_2016_720/The_Great_Wall_2016_720.m3u8",
@@ -1641,6 +1665,12 @@
     "categoryId": "8",
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
+      {
+        "id": "33",
+        "movieName": "Lamb (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Lamb.2021.360/Lamb.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8161.jpg"
+      },
       {
         "id": "32",
         "movieName": "The Alpines",
