@@ -4,10 +4,16 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
-        "id": "48",
-        "movieName": "Shang-Chi and the Legend of the Ten Rings (2021)",
+        "id": "49",
+        "movieName": "𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝙣 𝘿𝙧𝙚𝙖𝙢 🇺🇲（𝟐𝟎𝟐𝟏）",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.720p.BluRay%5BCM%5D.mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/shang-chi-marvel-studios-mcu-1140x570.jpg"
+      },
+      {
+        "id": "48",
+        "movieName": "Shang-Chi and the Legend of the Ten Rings (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/American_Dream_2021_360p/American_Dream_2021_360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6102.jpg"
       },
       {
         "id": "47",
@@ -1869,6 +1875,18 @@
     "categoryId": "9",
     "categoryTitle": "Horror",
     "categoryItemList": [
+      {
+        "id": "52",
+        "movieName": "𝙄𝙣𝙞𝙩𝙞𝙖𝙩𝙞𝙤𝙣 🇺🇲 （𝟐𝟎𝟐𝟏）",
+        "fileUrl": "https://mycinema.asia/media/films/Initiation_2020_360/Initiation_2020_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6061.jpg"
+      },
+      {
+        "id": "51",
+        "movieName": "Baphomet 🇺🇲(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Baphomet.2021.360/Baphomet.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6730.jpg"
+      },
       {
         "id": "50",
         "movieName": "Night Teeth",
