@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "50",
+        "movieName": "Dune (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Dune.2021/Dune.2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8181.jpg"
+      },
+      {
         "id": "49",
         "movieName": "𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝙣 𝘿𝙧𝙚𝙖𝙢 🇺🇲（𝟐𝟎𝟐𝟏）",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.720p.BluRay%5BCM%5D.mp4",
@@ -303,6 +309,12 @@
     "categoryId": "2",
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
+      {
+        "id": "63",
+        "movieName": "Operation Sniping (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/(CM)Operation.Sniping.2021.720p.WEB-DL.H265.DDP2.0-OurTV.mp4",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/20211015101854551643-1.jpg"
+      },
       {
         "id": "62",
         "movieName": "Cloudy Mountain (2021)",
@@ -2446,6 +2458,18 @@
     "categoryTitle": "Thriller Movies",
     "categoryItemList": [
       {
+        "id": "24",
+        "movieName": "Lamb (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Lamb.2021.360/Lamb.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8161.jpg"
+      },
+      {
+        "id": "23",
+        "movieName": "Venom 2 (2021)",
+        "fileUrl": "https://omgzone.b-cdn.net/(CM)Venom%202%20(2021)%20HDRip%20-%201080p%20HEVC%20Cam%20Audio%20%20(1).mkv",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/11/Venom-Let-There-Be-Carnage.jpeg"
+      },
+      {
         "id": "22",
         "movieName": "Old",
         "fileUrl": "https://mycinema.asia/media/films/Old.2021.360p/Old.2021.360p.m3u8",
@@ -2973,6 +2997,12 @@
     "categoryId": "11",
     "categoryTitle": "007",
     "categoryItemList": [
+      {
+        "id": "13",
+        "movieName": "No Time to Die (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/No.Time.To.Die.2021.1080p.WEB 00_01_08-02_43_32/No.Time.To.Die.2021.1080p.WEB 00_01_08-02_43_32.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8202.jpg"
+      },
       {
         "id": "12",
         "movieName": "The Man from U.N.C.L.E. (2015)",
