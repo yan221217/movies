@@ -2458,12 +2458,6 @@
     "categoryTitle": "Thriller Movies",
     "categoryItemList": [
       {
-        "id": "24",
-        "movieName": "Lamb (2021)",
-        "fileUrl": "https://mycinema.asia/media/films/Lamb.2021.360/Lamb.2021.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/banner_8161.jpg"
-      },
-      {
         "id": "23",
         "movieName": "Venom 2 (2021)",
         "fileUrl": "https://omgzone.b-cdn.net/(CM)Venom%202%20(2021)%20HDRip%20-%201080p%20HEVC%20Cam%20Audio%20%20(1).mkv",
