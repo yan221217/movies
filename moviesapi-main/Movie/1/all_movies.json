@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "52",
+        "movieName": "Sniper: Assassins End",
+        "fileUrl": "https://mycinema.asia/media/films/Sniper.Assassins.End.2020_360/Sniper.Assassins.End.2020_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2701.jpg"
+      },
+      {
         "id": "51",
         "movieName": "𝙄 𝘼𝙢 𝘼𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 (2021)",
         "fileUrl": "https://mycinema.asia/media/films/I.am.all.girls.2021.360/I.am.all.girls.2021.360.m3u8",
