@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "53",
+        "movieName": "Red Notice (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Red.Notice_2021/Red.Notice_2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8221.jpg"
+      },
+      {
         "id": "52",
         "movieName": "Sniper: Assassins End",
         "fileUrl": "https://mycinema.asia/media/films/Sniper.Assassins.End.2020_360/Sniper.Assassins.End.2020_360.m3u8",
