@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "54",
+        "movieName": "𝙊𝙪𝙩 𝙤𝙛 𝘿𝙚𝙖𝙩𝙝 🇺🇲 （𝟐𝟎𝟐𝟏）",
+        "fileUrl": "https://mycinema.asia/media/films/Out.Of.Death.2021.360p/Out.Of.Death.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7064.jpg"
+      },
+      {
         "id": "53",
         "movieName": "Red Notice (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Red.Notice_2021/Red.Notice_2021.m3u8",
@@ -2613,6 +2619,18 @@
     "categoryId": "12",
     "categoryTitle": "Drama Movies",
     "categoryItemList": [
+      {
+        "id": "40",
+        "movieName": "𝙇𝙤𝙫𝙚 𝙎𝙩𝙤𝙧𝙮 🇮🇳（𝟐𝟎𝟐𝟏）",
+        "fileUrl": "https://mycinema.asia/media/films/Love.Story.2021.360/Love.Story.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8241.jpg"
+      },
+      {
+        "id": "39",
+        "movieName": "𝙃𝙤𝙡𝙡𝙚𝙧 🇺🇲（𝟐𝟎𝟐𝟎）",
+        "fileUrl": "https://mycinema.asia/media/films/Holler.2021.360p/Holler.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7060.jpg"
+      },
       {
         "id": "38",
         "movieName": "Daisy ( 2006 )",
