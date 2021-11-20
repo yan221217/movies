@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "55",
+        "movieName": "𝙍𝙞𝙙𝙚𝙧 𝙊𝙛 𝙅𝙪𝙨𝙩𝙞𝙘𝙚 🇩🇰（𝟐𝟎𝟐𝟏）",
+        "fileUrl": "https://mycinema.asia/media/films/Riders.Of.Justice.2021_360/Riders.Of.Justice.2021_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6265.jpg"
+      },
+      {
         "id": "54",
         "movieName": "𝙊𝙪𝙩 𝙤𝙛 𝘿𝙚𝙖𝙩𝙝 🇺🇲 （𝟐𝟎𝟐𝟏）",
         "fileUrl": "https://mycinema.asia/media/films/Out.Of.Death.2021.360p/Out.Of.Death.2021.360p.m3u8",
@@ -1390,6 +1396,12 @@
     "categoryTitle": "All Movies",
     "categoryItemList": [
       {
+        "id": "32",
+        "movieName": "𝙏𝙝𝙚 𝘽𝙞𝙜 𝙐𝙜𝙡𝙮 🇺🇲 （𝟐𝟎𝟐𝟎）",
+        "fileUrl": "https://mycinema.asia/media/films/The.Big.Ugly.2020_720/The.Big.Ugly.2020_720.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/I/91k5lUFtwWL._AC_SL1500_.jpg"
+      },
+      {
         "id": "31",
         "movieName": "American Sniper(2014)",
         "fileUrl": "https://mdrive.b-cdn.net/Movie/American_Sniper_9489.mp4",
@@ -2619,6 +2631,12 @@
     "categoryId": "12",
     "categoryTitle": "Drama Movies",
     "categoryItemList": [
+      {
+        "id": "41",
+        "movieName": "𝙏𝙝𝙚 𝘽𝙮𝙜𝙤𝙣𝙚 🇺🇲（𝟐𝟎𝟏𝟗）",
+        "fileUrl": "https://mycinema.asia/media/films/The_Bygone_2019_720/The_Bygone_2019_720.m3u8",
+        "imageUrl": "https://productimages.worldofbooks.com/B08B6J7YBG.jpg"
+      },
       {
         "id": "40",
         "movieName": "𝙇𝙤𝙫𝙚 𝙎𝙩𝙤𝙧𝙮 🇮🇳（𝟐𝟎𝟐𝟏）",
