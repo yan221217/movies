@@ -24,6 +24,42 @@
     ]
   },
   {
+    "categoryId": "30",
+    "categoryTitle": "Lupin",
+    "categoryItemList": [
+      {
+        "id": "5",
+        "movieName": "Lupin EP 5",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210617/35425884783f44d.mp4",
+        "imageUrl": "https://www.kwanmanie.com/wp-content/uploads/2021/06/lupin2.jpeg"
+      },
+      {
+        "id": "4",
+        "movieName": "Lupin EP 4",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210617/ecfeb44c4f4d440.mp4",
+        "imageUrl": "https://www.kwanmanie.com/wp-content/uploads/2021/06/lupin2.jpeg"
+      },
+      {
+        "id": "3",
+        "movieName": "Lupin EP 3",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210617/8c0a2294670a461.mp4",
+        "imageUrl": "https://www.kwanmanie.com/wp-content/uploads/2021/06/lupin2.jpeg"
+      },
+      {
+        "id": "2",
+        "movieName": "Lupin EP 2",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210617/7b8244ad80fc40b.mp4",
+        "imageUrl": "https://www.kwanmanie.com/wp-content/uploads/2021/06/lupin2.jpeg"
+      },
+      {
+        "id": "1",
+        "movieName": "Lupin EP 1",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210617/e55f220da6d9468.mp4",
+        "imageUrl": "https://www.kwanmanie.com/wp-content/uploads/2021/06/lupin2.jpeg"
+      }
+    ]
+  },
+  {
     "categoryId": "29",
     "categoryTitle": "Game of Thrones",
     "categoryItemList": [
