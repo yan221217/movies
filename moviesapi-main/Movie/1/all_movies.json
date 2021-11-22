@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "56",
+        "movieName": "Skyscraper 🇺🇲 (2018)",
+        "fileUrl": "https://mycinema.asia/media/films/Skyscraper_2018_720/Skyscraper_2018_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3405.jpg"
+      },
+      {
         "id": "55",
         "movieName": "𝙍𝙞𝙙𝙚𝙧 𝙊𝙛 𝙅𝙪𝙨𝙩𝙞𝙘𝙚 🇩🇰（𝟐𝟎𝟐𝟏）",
         "fileUrl": "https://mycinema.asia/media/films/Riders.Of.Justice.2021_360/Riders.Of.Justice.2021_360.m3u8",
@@ -1719,6 +1725,12 @@
     "categoryId": "8",
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
+      {
+        "id": "34",
+        "movieName": "Home Sweet Home Alone (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Home.Sweet.Home.Alone.2021.360/Home.Sweet.Home.Alone.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8281.jpg"
+      },
       {
         "id": "33",
         "movieName": "Lamb (2021)",
