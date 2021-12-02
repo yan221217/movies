@@ -4,6 +4,24 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "59",
+        "movieName": "The Purge ",
+        "fileUrl": "https://mycinema.asia/media/films/The.Purge.2013.360/The.Purge.2013.360.m3u8",
+        "imageUrl": "https://flxt.tmsimg.com/assets/p9622770_p_v10_ab.jpg"
+      },
+      {
+        "id": "58",
+        "movieName": "Jolt (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jolt_2021_360/Jolt_2021_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7210.jpg"
+      },
+      {
+        "id": "57",
+        "movieName": "Mortal Kombat",
+        "fileUrl": "https://mycinema.asia/media/films/Mortal_Kombat_2021/Mortal_Kombat_2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_5921.jpg"
+      },
+      {
         "id": "56",
         "movieName": "Skyscraper 🇺🇲 (2018)",
         "fileUrl": "https://mycinema.asia/media/films/Skyscraper_2018_720/Skyscraper_2018_720.m3u8",
@@ -345,6 +363,18 @@
     "categoryId": "2",
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
+      {
+        "id": "65",
+        "movieName": "Train to Busan",
+        "fileUrl": "https://mycinema.asia/media/films/Train.to.Busan.2016_720/Train.to.Busan.2016_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1321.jpg"
+      },
+      {
+        "id": "64",
+        "movieName": "Peninsula – Train to Busan 2",
+        "fileUrl": "https://mycinema.asia/media/films/Train.to.Busan.2.Peninsula.2020_720/Train.to.Busan.2.Peninsula.2020_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3989.jpg"
+      },
       {
         "id": "63",
         "movieName": "Operation Sniping (2021)",
@@ -729,6 +759,18 @@
     "categoryId": "3",
     "categoryTitle": "Bollywood",
     "categoryItemList": [
+      {
+        "id": "67",
+        "movieName": "Baahubali 2: The Conclusion",
+        "fileUrl": "https://mycinema.asia/media/films/Baahubali_2_The_Conclusion_2017/Baahubali_2_The_Conclusion_2017.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_136.jpg"
+      },
+      {
+        "id": "66",
+        "movieName": "Baahubali: The Beginning 1",
+        "fileUrl": "https://mycinema.asia/media/films/Bahubali_The_Beginning_2015/Bahubali_The_Beginning_2015.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_407.jpg"
+      },
       {
         "id": "65",
         "movieName": "The Night 🇮🇳 (2021)",
@@ -1726,6 +1768,24 @@
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
       {
+        "id": "37",
+        "movieName": "The Paper Tigers",
+        "fileUrl": "https://mycinema.asia/media/films/The.Paper.Tigers.2021.360P/The.Paper.Tigers.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6888.jpg"
+      },
+      {
+        "id": "36",
+        "movieName": "Kate (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Kate.2021.360/Kate.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7344.jpg"
+      },
+      {
+        "id": "35",
+        "movieName": "Winter on Fire: Ukraine’s Fight for Freedom (2015)",
+        "fileUrl": "https://mycinema.asia/media/films/Winter.on.Fire.2015.360/Winter.on.Fire.2015.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6846.jpg"
+      },
+      {
         "id": "34",
         "movieName": "Home Sweet Home Alone (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Home.Sweet.Home.Alone.2021.360/Home.Sweet.Home.Alone.2021.360.m3u8",
@@ -2505,6 +2565,12 @@
     "categoryId": "11",
     "categoryTitle": "Thriller Movies",
     "categoryItemList": [
+      {
+        "id": "23",
+        "movieName": "Flashback 2020",
+        "fileUrl": "https://mycinema.asia/media/films/Flashback.2020.360/Flashback.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6521.jpg"
+      },
       {
         "id": "22",
         "movieName": "Old",
