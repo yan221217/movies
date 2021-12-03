@@ -72,66 +72,6 @@
     ]
   },
   {
-    "categoryId": "5",
-    "categoryTitle": "What If…? (2021)",
-    "categoryItemList": [
-      {
-        "id": "9",
-        "movieName": "What If…? (2021) EP 9",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E09.360/What.If.S01E09.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "8",
-        "movieName": "What If…? (2021) EP 8",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E08.360/What.If.S01E08.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "7",
-        "movieName": "What If…? (2021) EP 7",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E07.360/What.If.S01E07.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "6",
-        "movieName": "What If…? (2021) EP 6",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E06.360/What.If.S01E06.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "5",
-        "movieName": "What If…? (2021) EP 5",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E05.360/What.If.S01E05.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "4",
-        "movieName": "What If…? (2021) EP 4",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E04.360/What.If.S01E04.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "3",
-        "movieName": "What If…? (2021) EP 3",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E03.360/What.If.S01E03.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "2",
-        "movieName": "What If…? (2021) EP 2",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E02.360/What.If.S01E02.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      },
-      {
-        "id": "1",
-        "movieName": "What If…? (2021) EP 1",
-        "fileUrl": "https://mycinema.asia/media/series/What.if.2021/What.If.S01E01.360/What.If.S01E01.360.m3u8",
-        "imageUrl": "https://mycinema.asia/image/avatar_7881.jpg"
-      }
-    ]
-  },
-  {
     "categoryId": "4",
     "categoryTitle": "Kung Fu Panda",
     "categoryItemList": [
