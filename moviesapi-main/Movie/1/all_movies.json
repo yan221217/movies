@@ -2332,6 +2332,12 @@
     "categoryTitle": "SC-FI Movies",
     "categoryItemList": [
       {
+        "id": "41",
+        "movieName": "Venom: Let There Be Carnage (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Venom_Let_There_Be_Carnage_2021/Venom_Let_There_Be_Carnage_2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8427.jpg"
+      },
+      {
         "id": "40",
         "movieName": "Shang-Chi and the Legend of the Ten Rings (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021_CAM/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021_CAM.m3u8",
