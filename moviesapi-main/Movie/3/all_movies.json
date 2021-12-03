@@ -4,22 +4,100 @@
     "categoryTitle": "It's Okay to Not be Okay(2020)",
     "categoryItemList": [
       {
-        "id": "1",
-        "movieName": "It's Okay to Not be Okay Ep1-6",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/f60218df643c454.mp4",
-        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+        "id": "16",
+        "movieName": "It's Okay to Not be Okay Ep 16",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep16_360/ep16_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
       },
       {
-        "id": "2",
-        "movieName": "It's Okay to Not be Okay Ep7-11",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/ecdb40ad0cfa44c.mp4",
-        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+        "id": "15",
+        "movieName": "It's Okay to Not be Okay Ep 15",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep15_360/ep15_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "It's Okay to Not be Okay Ep 14",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep14_360/ep14_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "It's Okay to Not be Okay Ep 13",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep13_360/ep13_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "It's Okay to Not be Okay Ep 12",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep12_360/ep12_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "It's Okay to Not be Okay Ep 11",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep11_360/ep11_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "It's Okay to Not be Okay Ep 10",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep10_360/ep10_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "It's Okay to Not be Okay Ep 9",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep9_360/ep9_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "It's Okay to Not be Okay Ep 8",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep8_360/ep8_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "It's Okay to Not be Okay Ep 7",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep7_360/ep7_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "It's Okay to Not be Okay Ep 6",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep6_360/ep6_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "It's Okay to Not be Okay Ep 5",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep5_360/ep5_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "It's Okay to Not be Okay Ep 4",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep4_360/ep4_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
       },
       {
         "id": "3",
-        "movieName": "It's Okay to Not be Okay Ep12-16",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-        "imageUrl": "https://i2.wp.com/the-art-of-autism.com/wp-content/uploads/2020/11/Itsokay.jpg"
+        "movieName": "It's Okay to Not be Okay Ep 3",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep2_360/ep2_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "It's Okay to Not be Okay Ep 2",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep2_360/ep2_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "It's Okay to Not be Okay Ep 1",
+        "fileUrl": "https://mycinema.asia/media/series/Its_Okay_To_Not_Be_Okay/ep1_360/ep1_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2772.jpg"
       }
     ]
   },
