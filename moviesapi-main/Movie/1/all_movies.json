@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "60",
+        "movieName": "American Night (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/American.Night.2021/American.Night.2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8421.jpg"
+      },
+      {
         "id": "59",
         "movieName": "The Purge ",
         "fileUrl": "https://mycinema.asia/media/films/The.Purge.2013.360/The.Purge.2013.360.m3u8",
@@ -1443,6 +1449,12 @@
     "categoryId": "5",
     "categoryTitle": "All Movies",
     "categoryItemList": [
+      {
+        "id": "33",
+        "movieName": "Home Sweet Home Alone (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Home.Sweet.Home.Alone.2021.360/Home.Sweet.Home.Alone.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8281.jpg"
+      },
       {
         "id": "32",
         "movieName": "𝙏𝙝𝙚 𝘽𝙞𝙜 𝙐𝙜𝙡𝙮 🇺🇲 （𝟐𝟎𝟐𝟎）",
