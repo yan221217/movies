@@ -24,6 +24,108 @@
     ]
   },
   {
+    "categoryId": "33",
+    "categoryTitle": "Undercover",
+    "categoryItemList": [
+      {
+        "id": "10",
+        "movieName": "Undercover Ep-10",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_10_360/Undercover_10_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Undercover Ep-9",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_09_360/Undercover_09_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Undercover Ep-8",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_08_360/Undercover_08_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Undercover Ep-7",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_07_360/Undercover_07_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Undercover Ep-6",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_06_360/Undercover_06_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Undercover Ep-5",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_05_360/Undercover_05_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Undercover Ep-4",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_04_360/Undercover_04_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Undercover Ep-3",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_03_360/Undercover_03_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Undercover Ep-2",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_02_360/Undercover_02_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Undercover Ep-1",
+        "fileUrl": "https://mycinema.asia/media/series/Undercover/Undercover_01_360/Undercover_01_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6081.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "32",
+    "categoryTitle": "Oh My Ladylord 2021",
+    "categoryItemList": [
+      {
+        "id": "5",
+        "movieName": "Oh My Ladylord Ep-5",
+        "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_05_360/Oh_My_Ladylord_2021_05_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6282.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Oh My Ladylord Ep-4",
+        "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_04_360/Oh_My_Ladylord_2021_04_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6282.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Oh My Ladylord Ep-3",
+        "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_03_360/Oh_My_Ladylord_2021_03_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6282.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Oh My Ladylord Ep-2",
+        "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_02_360/Oh_My_Ladylord_2021_02_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6282.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Oh My Ladylord Ep-1",
+        "fileUrl": "https://mycinema.asia/media/series/Oh.my.ladylord/Oh_My_Ladylord_2021_01_360/Oh_My_Ladylord_2021_01_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6282.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "31",
     "categoryTitle": "Hellbound: Season 1 (2021)",
     "categoryItemList": [
@@ -1954,27 +2056,123 @@
     "categoryTitle": "Vicenzo(2021)",
     "categoryItemList": [
       {
-        "id": "1",
-        "movieName": "Vicenzo Ep(1-5)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210505/d7b04c435cf3458.mp4",
+        "id": "20",
+        "movieName": "Vicenzo Ep 20",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP20_360/Vincenzo.2021.EP20_360.m3u8",
         "imageUrl": "https://free-movies.to/wp-content/uploads/2021/03/vincenzo.2020.netflix.series.jpg"
       },
       {
-        "id": "2",
-        "movieName": "Vicenzo Ep(6-10)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210505/4555fe44f67e4a9.mp4",
+        "id": "19",
+        "movieName": "Vicenzo Ep 19",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP19_360/Vincenzo.2021.EP19_360.m3u8",
         "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
       },
       {
-        "id": "3",
-        "movieName": "Vicenzo Ep(11-15)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210505/f9bcef93889d4d9.mp4",
+        "id": "18",
+        "movieName": "Vicenzo Ep 18",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP18_360/Vincenzo.2021.EP18_360.m3u8",
         "imageUrl": "https://cheesecake.articleassets.meaww.com/519273/uploads/db315560-6130-11eb-b65d-9bbcaaf94fe6_800_420.jpeg"
       },
       {
+        "id": "17",
+        "movieName": "Vicenzo Ep 17",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP17_360/Vincenzo.2021.EP17_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "16",
+        "movieName": "Vicenzo Ep 16",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP16_360/Vincenzo.2021.EP16_360.m3u8",
+        "imageUrl": "https://free-movies.to/wp-content/uploads/2021/03/vincenzo.2020.netflix.series.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Vicenzo Ep 15",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP15_360/Vincenzo.2021.EP15_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Vicenzo Ep 14",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP14_360/Vincenzo.2021.EP14_360.m3u8",
+        "imageUrl": "https://cheesecake.articleassets.meaww.com/519273/uploads/db315560-6130-11eb-b65d-9bbcaaf94fe6_800_420.jpeg"
+      },
+      {
+        "id": "13",
+        "movieName": "Vicenzo Ep 13",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP13_360/Vincenzo.2021.EP13_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Vicenzo Ep 12",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP12_360/Vincenzo.2021.EP12_360.m3u8",
+        "imageUrl": "https://free-movies.to/wp-content/uploads/2021/03/vincenzo.2020.netflix.series.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Vicenzo Ep 11",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP11_360/Vincenzo.2021.EP11_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Vicenzo Ep 10",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP10_360/Vincenzo.2021.EP10_360.m3u8",
+        "imageUrl": "https://cheesecake.articleassets.meaww.com/519273/uploads/db315560-6130-11eb-b65d-9bbcaaf94fe6_800_420.jpeg"
+      },
+      {
+        "id": "9",
+        "movieName": "Vicenzo Ep 9",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP9_360/Vincenzo.2021.EP9_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Vicenzo Ep 8",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP8_360/Vincenzo.2021.EP8_360.m3u8",
+        "imageUrl": "https://free-movies.to/wp-content/uploads/2021/03/vincenzo.2020.netflix.series.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Vicenzo Ep 7",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP7_360/Vincenzo.2021.EP7_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Vicenzo Ep 6",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP6_360/Vincenzo.2021.EP6_360.m3u8",
+        "imageUrl": "https://cheesecake.articleassets.meaww.com/519273/uploads/db315560-6130-11eb-b65d-9bbcaaf94fe6_800_420.jpeg"
+      },
+      {
+        "id": "5",
+        "movieName": "Vicenzo Ep 5",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP5_360/Vincenzo.2021.EP5_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
         "id": "4",
-        "movieName": "Vicenzo Ep(16-20)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210505/a997b0da13bb4cf.mp4",
+        "movieName": "Vicenzo Ep 4",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP4_360/Vincenzo.2021.EP4_360.m3u8",
+        "imageUrl": "https://free-movies.to/wp-content/uploads/2021/03/vincenzo.2020.netflix.series.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Vicenzo Ep 3",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP3_360/Vincenzo.2021.EP3_360.m3u8",
+        "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Vicenzo Ep 2",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP2_360/Vincenzo.2021.EP2_360.m3u8",
+        "imageUrl": "https://cheesecake.articleassets.meaww.com/519273/uploads/db315560-6130-11eb-b65d-9bbcaaf94fe6_800_420.jpeg"
+      },
+      {
+        "id": "1",
+        "movieName": "Vicenzo Ep 1",
+        "fileUrl": "https://mycinema.asia/media/series/Vincenzo.2021/Vincenzo.2021.EP1_360/Vincenzo.2021.EP1_360.m3u8",
         "imageUrl": "https://www.allkpop.com/upload/2021/05/content/041655/web_data/allkpop_1620161845_vincenzogun.jpg"
       }
     ]
