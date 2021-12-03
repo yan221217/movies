@@ -24,6 +24,48 @@
     ]
   },
   {
+    "categoryId": "31",
+    "categoryTitle": "Hellbound: Season 1 (2021)",
+    "categoryItemList": [
+      {
+        "id": "6",
+        "movieName": "Hellbound: Season 1 (2021) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Hellbound/Hellbound.S01/Hellbound.S01E06/Hellbound.S01E06.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8385.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Hellbound: Season 1 (2021) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Hellbound/Hellbound.S01/Hellbound.S01E05/Hellbound.S01E05.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8385.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Hellbound: Season 1 (2021) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Hellbound/Hellbound.S01/Hellbound.S01E04/Hellbound.S01E04.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8385.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Hellbound: Season 1 (2021) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Hellbound/Hellbound.S01/Hellbound.S01E03/Hellbound.S01E03.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8385.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Hellbound: Season 1 (2021) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Hellbound/Hellbound.S01/Hellbound.S01E02/Hellbound.S01E02.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8385.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Hellbound: Season 1 (2021) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Hellbound/Hellbound.S01/Hellbound.S01E01/Hellbound.S01E01.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8385.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "30",
     "categoryTitle": "Lupin",
     "categoryItemList": [
