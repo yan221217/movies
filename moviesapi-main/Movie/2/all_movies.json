@@ -42,6 +42,54 @@
     ]
   },
   {
+    "categoryId": "22",
+    "categoryTitle": "The Witcher Season 1",
+    "categoryItemList": [
+      {
+        "id": "7",
+        "movieName": "The Witcher Season 1 EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E07/The.Witcher.S01E07.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "The Witcher Season 1 EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E06/The.Witcher.S01E06.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "The Witcher Season 1 EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E05/The.Witcher.S01E05.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Witcher Season 1 EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E04/The.Witcher.S01E04.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "The Witcher Season 1 EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E03/The.Witcher.S01E03.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "The Witcher Season 1 EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E02/The.Witcher.S01E02.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "The Witcher Season 1 EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/The.Witcher/The.Witcher.S01E01/The.Witcher.S01E01.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7888.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "21",
     "categoryTitle": "Hellbound (2021) ",
     "categoryItemList": [
