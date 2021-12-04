@@ -42,6 +42,108 @@
     ]
   },
   {
+    "categoryId": "24",
+    "categoryTitle": "Into the Badlands: Season- 3",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Into the Badlands: Season- 3 EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E16/Into_The_Badlands_S03E16.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Into the Badlands: Season- 3 EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E15/Into_The_Badlands_S03E15.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Into the Badlands: Season- 3 EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E14/Into_The_Badlands_S03E14.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Into the Badlands: Season- 3 EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E13/Into_The_Badlands_S03E13.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Into the Badlands: Season- 3 EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E12/Into_The_Badlands_S03E12.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Into the Badlands: Season- 3 EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E11/Into_The_Badlands_S03E11.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Into the Badlands: Season- 3 EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E10/Into_The_Badlands_S03E10.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Into the Badlands: Season- 3 EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E09/Into_The_Badlands_S03E09.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Into the Badlands: Season- 3 EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E08/Into_The_Badlands_S03E08.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Into the Badlands: Season- 3 EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E07/Into_The_Badlands_S03E07.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Into the Badlands: Season- 3 EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E06/Into_The_Badlands_S03E06.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Into the Badlands: Season- 3 EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E05/Into_The_Badlands_S03E05.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Into the Badlands: Season- 3 EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E04/Into_The_Badlands_S03E04.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Into the Badlands: Season- 3 EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E03/Into_The_Badlands_S03E03.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Into the Badlands: Season- 3 EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E02/Into_The_Badlands_S03E02.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Into the Badlands: Season- 3 EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S03/Into_The_Badlands_S03E01/Into_The_Badlands_S03E01.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_577.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "23",
     "categoryTitle": "Into the Badlands: Season- 1",
     "categoryItemList": [
