@@ -102,6 +102,108 @@
     ]
   },
   {
+    "categoryId": "39",
+    "categoryTitle": "Itaewon Class",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Itaewon Class EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep16_720/ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Itaewon Class EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep15_720/ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Itaewon Class EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep14_720/ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Itaewon Class EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep13_720/ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Itaewon Class EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep12_720/ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Itaewon Class EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep11_720/ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Itaewon Class EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep10_720/ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Itaewon Class EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep9_720/ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Itaewon Class EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep8_720/ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Itaewon Class EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep7_720/ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Itaewon Class EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep6_720/ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Itaewon Class EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep5_720/ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Itaewon Class EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep4_720/ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Itaewon Class EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep3_720/ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Itaewon Class EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep2_720/ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Itaewon Class EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Itaewon.Class/ep1_360/ep1_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_1671.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "38",
     "categoryTitle": "Game of Thrones 7",
     "categoryItemList": [
