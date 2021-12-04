@@ -42,6 +42,48 @@
     ]
   },
   {
+    "categoryId": "23",
+    "categoryTitle": "Into the Badlands: Season- 1",
+    "categoryItemList": [
+      {
+        "id": "6",
+        "movieName": "Into the Badlands: Season- 1 EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S01/Into_the_Badlands_S01E06/Into_the_Badlands_S01E06.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_56.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Into the Badlands: Season- 1 EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S01/Into_the_Badlands_S01E05/Into_the_Badlands_S01E05.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_56.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Into the Badlands: Season- 1 EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S01/Into_the_Badlands_S01E04/Into_the_Badlands_S01E04.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_56.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Into the Badlands: Season- 1 EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S01/Into_the_Badlands_S01E03/Into_the_Badlands_S01E03.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_56.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Into the Badlands: Season- 1 EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S01/Into_the_Badlands_S01E02/Into_the_Badlands_S01E02.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_56.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Into the Badlands: Season- 1 EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Into.the.badlands/Into_The_Badlands_S01/Into_the_Badlands_S01E01/Into_the_Badlands_S01E01.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_56.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "22",
     "categoryTitle": "The Witcher Season 1",
     "categoryItemList": [
