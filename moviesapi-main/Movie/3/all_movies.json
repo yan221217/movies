@@ -103,6 +103,72 @@
   },
   {
     "categoryId": "36",
+    "categoryTitle": "Game of Thrones 5",
+    "categoryItemList": [
+      {
+        "id": "10",
+        "movieName": "Game of Thrones: Season  5 EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E10_360/GOT_S05E10_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Game of Thrones: Season 5 EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E09_360/GOT_S05E09_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Game of Thrones: Season 5 EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E08_360/GOT_S05E08_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Game of Thrones: Season 5 EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E07_360/GOT_S05E07_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Game of Thrones: Season 5 EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E06_360/GOT_S05E06_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Game of Thrones: Season 5 EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E05_360/GOT_S05E05_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Game of Thrones: Season 5 EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E04_360/GOT_S05E04_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Game of Thrones: Season 5 EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E03_360/GOT_S05E03_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Game of Thrones: Season 5 EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E02_360/GOT_S05E02_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Game of Thrones: Season 5 EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Game.of.thrones/Game_of_Thrones_S05/GOT_S05E01_360/GOT_S05E01_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1873.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "36",
     "categoryTitle": "Game of Thrones 4",
     "categoryItemList": [
       {
