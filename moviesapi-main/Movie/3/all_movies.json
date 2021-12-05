@@ -102,6 +102,108 @@
     ]
   },
   {
+    "categoryId": "41",
+    "categoryTitle": "Backstreet Rookie",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Backstreet Rookie EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep16_720/Backstreet_Rookie_Ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Backstreet Rookie EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep15_720/Backstreet_Rookie_Ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Backstreet Rookie EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep14_720/Backstreet_Rookie_Ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Backstreet Rookie EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep13_720/Backstreet_Rookie_Ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Backstreet Rookie EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep12_720/Backstreet_Rookie_Ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Backstreet Rookie EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep11_720/Backstreet_Rookie_Ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Backstreet Rookie EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep10_720/Backstreet_Rookie_Ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Backstreet Rookie EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep9_720/Backstreet_Rookie_Ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Backstreet Rookie EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep8_720/Backstreet_Rookie_Ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Backstreet Rookie EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep7_720/Backstreet_Rookie_Ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Backstreet Rookie EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep6_720/Backstreet_Rookie_Ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Backstreet Rookie EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep5_720/Backstreet_Rookie_Ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Backstreet Rookie EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep4_720/Backstreet_Rookie_Ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Backstreet Rookie EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep3_720/Backstreet_Rookie_Ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Backstreet Rookie EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep2_720/Backstreet_Rookie_Ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Backstreet Rookie EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep1_720/Backstreet_Rookie_Ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3101.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "40",
     "categoryTitle": "Memorist",
     "categoryItemList": [
