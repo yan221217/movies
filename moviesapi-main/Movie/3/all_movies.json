@@ -102,6 +102,108 @@
     ]
   },
   {
+    "categoryId": "40",
+    "categoryTitle": "Memorist",
+    "categoryItemList": [
+      {
+        "id": "16",
+        "movieName": "Memorist EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep16_720/Memorist_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Memorist EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep15_720/Memorist_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Memorist EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep14_720/Memorist_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Memorist EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep13_720/Memorist_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Memorist EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep12_720/Memorist_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Memorist EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep11_720/Memorist_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Memorist EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep10_720/Memorist_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Memorist EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep9_720/Memorist_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Memorist EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep8_720/Memorist_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Memorist EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep7_720/Memorist_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Memorist EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep6_720/Memorist_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Memorist EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep5_720/Memorist_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Memorist EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep4_720/Memorist_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Memorist EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep3_720/Memorist_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Memorist EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep2_720/Memorist_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Memorist EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Memorist/Memorist_ep1_720/Memorist_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2321.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "39",
     "categoryTitle": "Itaewon Class",
     "categoryItemList": [
