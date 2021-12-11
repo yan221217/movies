@@ -370,6 +370,12 @@
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
       {
+        "id": "66",
+        "movieName": "Kingdom: Ashin of the North (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Kingdom.Ashin.of.the.North.2021/Kingdom.Ashin.of.the.North.2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8519.jpg"
+      },
+      {
         "id": "65",
         "movieName": "Train to Busan",
         "fileUrl": "https://mycinema.asia/media/films/Train.to.Busan.2016_720/Train.to.Busan.2016_720.m3u8",
@@ -765,6 +771,12 @@
     "categoryId": "3",
     "categoryTitle": "Bollywood",
     "categoryItemList": [
+      {
+        "id": "68",
+        "movieName": "Squad (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Squad_2021/Squad_2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8523.jpg"
+      },
       {
         "id": "67",
         "movieName": "Baahubali 2: The Conclusion",
@@ -1779,6 +1791,12 @@
     "categoryId": "8",
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
+      {
+        "id": "38",
+        "movieName": "Finch (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Finch.2021/Finch.2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8515.jpg"
+      },
       {
         "id": "37",
         "movieName": "The Paper Tigers",
