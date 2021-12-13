@@ -1186,6 +1186,12 @@
     "categoryTitle": "Chinese Movies",
     "categoryItemList": [
       {
+        "id": "45",
+        "movieName": "Raging Fire (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Raging.Fire.2021/Raging.Fire.2021.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8511.jpg"
+      },
+      {
         "id": "44",
         "movieName": "Nanquan-The Rise of Heroes ( 2021 )",
         "fileUrl": "https://omgzone.b-cdn.net/Nanquan-The.Rise.of.Heroes.2020.HD1080P(CM).mp4",
