@@ -42,6 +42,96 @@
     ]
   },
   {
+    "categoryId": "27",
+    "categoryTitle": "Jirisan (2021)",
+    "categoryItemList": [
+      {
+        "id": "14",
+        "movieName": "Jirisan (2021) EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep14.360/Jirisan.Ep14.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Jirisan (2021) EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep13.360/Jirisan.Ep13.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Jirisan (2021) EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep12.360/Jirisan.Ep12.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Jirisan (2021) EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep11.360/Jirisan.Ep11.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Jirisan (2021) EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep10.360/Jirisan.Ep10.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Jirisan (2021)n EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep09.360/Jirisan.Ep09.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Jirisan (2021) EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep08.360/Jirisan.Ep08.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Jirisan (2021) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep07.360/Jirisan.Ep07.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Jirisan (2021) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep06.360/Jirisan.Ep06.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Jirisan (2021) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep05.360/Jirisan.Ep05.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Jirisan (2021) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep04.360/Jirisan.Ep04.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Jirisan (2021) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep03.360/Jirisan.Ep03.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Jirisan (2021) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep02.360/Jirisan.Ep02.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Jirisan (2021) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Jirisan.2021/Jirisan.Ep01.360/Jirisan.Ep01.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8301.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "26",
     "categoryTitle": "Mr.Queen",
     "categoryItemList": [
