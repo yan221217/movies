@@ -42,6 +42,132 @@
     ]
   },
   {
+    "categoryId": "26",
+    "categoryTitle": "Mr.Queen",
+    "categoryItemList": [
+      {
+        "id": "20",
+        "movieName": "Mr.Queen EP 20",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep20_720/MrQueen_ep20_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "19",
+        "movieName": "Mr.Queen EP 19",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep19_720/MrQueen_ep19_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "18",
+        "movieName": "Mr.Queen EP 18",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep18_720/MrQueen_ep18_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "17",
+        "movieName": "Mr.Queen EP 17",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep17_720/MrQueen_ep17_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "16",
+        "movieName": "Mr.Queen EP 16",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep16_720/MrQueen_ep16_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "15",
+        "movieName": "Mr.Queen EP 15",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep15_720/MrQueen_ep15_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "14",
+        "movieName": "Mr.Queen EP 14",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep14_720/MrQueen_ep14_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "13",
+        "movieName": "Mr.Queen EP 13",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep13_720/MrQueen_ep13_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Mr.Queen EP 12",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep12_720/MrQueen_ep12_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Mr.Queen EP 11",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep11_720/MrQueen_ep11_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "Mr.Queen EP 10",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep10_720/MrQueen_ep10_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Mr.Queen EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep9_720/MrQueen_ep9_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Mr.Queen EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep8_720/MrQueen_ep8_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Mr.Queen EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep7_720/MrQueen_ep7_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Mr.Queen EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep6_720/MrQueen_ep6_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Mr.Queen EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep5_720/MrQueen_ep5_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Mr.Queen EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep4_720/MrQueen_ep4_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Mr.Queen EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep3_720/MrQueen_ep3_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Mr.Queen EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep2_720/MrQueen_ep2_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Mr.Queen EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/MrQueen_2020/MrQueen_ep1_720/MrQueen_ep1_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5062.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "25",
     "categoryTitle": "Hawkeye: Season 1 (2021)",
     "categoryItemList": [
