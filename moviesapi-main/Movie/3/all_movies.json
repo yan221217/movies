@@ -102,6 +102,66 @@
     ]
   },
   {
+    "categoryId": "42",
+    "categoryTitle": "Squid Game: Season 1 (2021)",
+    "categoryItemList": [
+      {
+        "id": "9",
+        "movieName": "Squid Game: Season 1 (2021) EP 9",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E9/Squid_Game_SS1_E9.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Squid Game: Season 1 (2021) EP 8",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E8/Squid_Game_SS1_E8.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Squid Game: Season 1 (2021) EP 7",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E7/Squid_Game_SS1_E7.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Squid Game: Season 1 (2021) EP 6",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E6/Squid_Game_SS1_E6.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Squid Game: Season 1 (2021) EP 5",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E5/Squid_Game_SS1_E5.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Squid Game: Season 1 (2021) EP 4",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E4/Squid_Game_SS1_E4.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Squid Game: Season 1 (2021) EP 3",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E3/Squid_Game_SS1_E3.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Squid Game: Season 1 (2021) EP 2",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E2/Squid_Game_SS1_E2.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      },
+      {
+        "id": "1",
+        "movieName": "Squid Game: Season 1 (2021) EP 1",
+        "fileUrl": "https://mycinema.asia/media/series/Squid_Game_SS1/Squid_Game_SS1_E1/Squid_Game_SS1_E1.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8542.jpg"
+      }
+    ]
+  },
+  {
     "categoryId": "41",
     "categoryTitle": "Backstreet Rookie",
     "categoryItemList": [
