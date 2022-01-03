@@ -2062,6 +2062,12 @@
     "categoryTitle": "Horror",
     "categoryItemList": [
       {
+        "id": "54",
+        "movieName": "The Night 2020",
+        "fileUrl": "https://mycinema.asia/media/films/The.Night.2020.360p/The.Night.2020.360p.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmU3YWY0YzQtMDllOS00YWNkLWI1YTQtNGYyNzNmZmI5M2Q0XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg"
+      },
+      {
         "id": "53",
         "movieName": "one must fall 2019",
         "fileUrl": "https://mycinema.asia/media/films/One_Must_Fall_2019_720/One_Must_Fall_2019_720.m3u8",
