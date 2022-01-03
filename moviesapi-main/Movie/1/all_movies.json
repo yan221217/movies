@@ -4,6 +4,12 @@
     "categoryTitle": "Action Movies",
     "categoryItemList": [
       {
+        "id": "61",
+        "movieName": "Redemption Day",
+        "fileUrl": "https://mycinema.asia/media/films/Redemption.Day.2021.360p/Redemption.Day.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6127.jpg"
+      },
+      {
         "id": "60",
         "movieName": "American Night (2021)",
         "fileUrl": "https://mycinema.asia/media/films/American.Night.2021/American.Night.2021.m3u8",
@@ -369,6 +375,18 @@
     "categoryId": "2",
     "categoryTitle": "Korea Movies",
     "categoryItemList": [
+      {
+        "id": "68",
+        "movieName": "Penthouse Special: Hidden Room",
+        "fileUrl": "https://mycinema.asia/media/films/Penthouse.Special.Hidden.Room.2021.360p/Penthouse.Special.Hidden.Room.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6123.jpg"
+      },
+      {
+        "id": "67",
+        "movieName": "Beautiful Vampire",
+        "fileUrl": "https://mycinema.asia/media/films/Beautiful_Vampire_2018_360/Beautiful_Vampire_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4389.jpg"
+      },
       {
         "id": "66",
         "movieName": "Kingdom: Ashin of the North (2021)",
@@ -1186,6 +1204,12 @@
     "categoryTitle": "Chinese Movies",
     "categoryItemList": [
       {
+        "id": "46",
+        "movieName": "The War Of Loong (2017)",
+        "fileUrl": "https://mycinema.asia/media/films/The_War_Of_Loong_2017_720/The_War_Of_Loong_2017_720.m3u8",
+        "imageUrl": "http://www.globaltimes.cn/Portals/0/attachment/2017/2017-07-04/143429c1-138f-4640-8d17-f6c485eea488.jpeg"
+      },
+      {
         "id": "45",
         "movieName": "Raging Fire (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Raging.Fire.2021/Raging.Fire.2021.m3u8",
@@ -1797,6 +1821,12 @@
     "categoryId": "8",
     "categoryTitle": "US & UK Movies",
     "categoryItemList": [
+      {
+        "id": "39",
+        "movieName": "A Dark Place",
+        "fileUrl": "https://mycinema.asia/media/films/A_Dark_Place_2018_720/A_Dark_Place_2018_720.m3u8",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTYwODFjOTktNjdmMi00MDRhLTg4NGMtNGY1NTU0NDYwY2QzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
+      },
       {
         "id": "38",
         "movieName": "Finch (2021)",
