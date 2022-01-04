@@ -2806,6 +2806,102 @@
     "categoryTitle": "Drama Movies",
     "categoryItemList": [
       {
+        "id": "57",
+        "movieName": "Haseen Dillruba",
+        "fileUrl": "https://mycinema.asia/media/films/Haseen.Dillruba.2021.360p/Haseen.Dillruba.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7054.jpg"
+      },
+      {
+        "id": "56",
+        "movieName": "Things Heard & Seen",
+        "fileUrl": "https://mycinema.asia/media/films/Things.Heard.And.Seen.2021.360P/Things.Heard.And.Seen.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6892.jpg"
+      },
+      {
+        "id": "55",
+        "movieName": "Super Me",
+        "fileUrl": "https://mycinema.asia/media/films/Super.Me.2019.360p/Super.Me.2019.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6641.jpg"
+      },
+      {
+        "id": "54",
+        "movieName": "Master So Dragon Subduing Palms 2",
+        "fileUrl": "https://mycinema.asia/media/films/Master.So.Dragon.Subduing.Palms.2.2020.360p/Master.So.Dragon.Subduing.Palms.2.2020.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6625.jpg"
+      },
+      {
+        "id": "53",
+        "movieName": "Vanguard (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Vanguard.2020.360/Vanguard.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6601.jpg"
+      },
+      {
+        "id": "52",
+        "movieName": "Detective Chinatown 3",
+        "fileUrl": "https://mycinema.asia/media/films/Detective_Chinatown_3_360/Detective_Chinatown_3_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/1623809067165.jpg"
+      },
+      {
+        "id": "51",
+        "movieName": "SUPER OVER",
+        "fileUrl": "https://mycinema.asia/media/films/SUPER.OVER.2021.360/SUPER.OVER.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6220.jpg"
+      },
+      {
+        "id": "50",
+        "movieName": "Eighteen Arhats of Shaolin Temple",
+        "fileUrl": "https://mycinema.asia/media/films/Eighteen.Arhats.of.Shaolin.Temple.360/Eighteen.Arhats.of.Shaolin.Temple.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6216.jpg"
+      },
+      {
+        "id": "49",
+        "movieName": "Rat Disaster",
+        "fileUrl": "https://mycinema.asia/media/films/Rat.Disaster.360/Rat.Disaster.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6207.jpg"
+      },
+      {
+        "id": "38",
+        "movieName": "Nakee 2",
+        "fileUrl": "https://mycinema.asia/media/films/Nakee_2_2018_720/Nakee_2_2018_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4530.jpg"
+      },
+      {
+        "id": "43",
+        "movieName": "Kaagaz",
+        "fileUrl": "https://mycinema.asia/media/films/Kaagaz_2021_ 360p/Kaagaz_2021_ 360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6110.jpg"
+      },
+      {
+        "id": "44",
+        "movieName": "Locked Down",
+        "fileUrl": "https://mycinema.asia/media/films/Locked.Down.2021.360p/Locked.Down.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6114.jpg"
+      },
+      {
+        "id": "45",
+        "movieName": "Penthouse Special: Hidden Room",
+        "fileUrl": "https://mycinema.asia/media/films/Penthouse.Special.Hidden.Room.2021.360p/Penthouse.Special.Hidden.Room.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6123.jpg"
+      },
+      {
+        "id": "46",
+        "movieName": "The Ultimate Playlist of Noise",
+        "fileUrl": "https://mycinema.asia/media/films/The.Ultimate.Playlist.of.Noise.2021.36op/The.Ultimate.Playlist.of.Noise.2021.36op.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6131.jpg"
+      },
+      {
+        "id": "47",
+        "movieName": "What Happened to Mr Cha?",
+        "fileUrl": "https://mycinema.asia/media/films/What_Happened_to_Mr_Cha_2021_360p/What_Happened_to_Mr_Cha_2021_360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6135.jpg"
+      },
+      {
+        "id": "48",
+        "movieName": "One Day We’ll Talk About Today",
+        "fileUrl": "https://mycinema.asia/media/films/One_Day _Well_Talk_About_Today_360/One_Day _Well_Talk_About_Today_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6146.jpg"
+      },
+      {
         "id": "42",
         "movieName": "The Woman in the Window (2021)",
         "fileUrl": "https://mycinema.asia/media/films/The.Woman.In.The.Window.2021.360p/The.Woman.In.The.Window.2021.360p.m3u8",
