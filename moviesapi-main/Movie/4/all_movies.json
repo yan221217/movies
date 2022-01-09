@@ -160,6 +160,168 @@
     "categoryTitle": "Cartoon Movies",
     "categoryItemList": [
       {
+        "id": "58",
+        "movieName": "Injustice",
+        "fileUrl": "https://mycinema.asia/media/films/Injustice.2021.360p/Injustice.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7965.jpg"
+      },
+      {
+        "id": "57",
+        "movieName": "Vivo",
+        "fileUrl": "https://mycinema.asia/media/films/Vivo.2021.360/Vivo.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7529.jpg"
+      },
+      {
+        "id": "56",
+        "movieName": "Master Ji Gong (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Master.Ji.Gong.2021.360/Master.Ji.Gong.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7240.jpg"
+      },
+      {
+        "id": "55",
+        "movieName": "Space Jam: A New Legacy (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Space.Jam.A.New.Legacy.2021.360/Space.Jam.A.New.Legacy.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7190.jpg"
+      }
+      {
+        "id": "54",
+        "movieName": "The Boss Baby: Family Business",
+        "fileUrl": "https://mycinema.asia/media/films/The.Boss.Baby.Family.Business.2021.360p/The.Boss.Baby.Family.Business.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7145.jpg"
+      },
+      {
+        "id": "53",
+        "movieName": "Bigfoot Family (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Bigfoot.Family.2020.360/Bigfoot.Family.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7107.jpg"
+      },
+      {
+        "id": "52",
+        "movieName": "Ainbo: Spirit of the Amazon (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Ainbo.2021.360/Ainbo.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7102.jpg"
+      },
+      {
+        "id": "51",
+        "movieName": "The Croods",
+        "fileUrl": "https://mycinema.asia/media/films/The.Croods.2013.360/The.Croods.2013.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7041.jpg"
+      },
+      {
+        "id": "50",
+        "movieName": "Spirit Untamed",
+        "fileUrl": "https://mycinema.asia/media/films/Spirit.Untamed.2021.360P/Spirit.Untamed.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6954.jpg"
+      },
+      {
+        "id": "49",
+        "movieName": "Tom & Jerry (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Tom.and.Jerry.2021.360/Tom.and.Jerry.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6823.jpg"
+      },
+      {
+        "id": "48",
+        "movieName": "Luca (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Luca.2021.360/Luca.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6741.jpg"
+      },
+      {
+        "id": "47",
+        "movieName": "Soul (2020)",
+        "fileUrl": "https://mycinema.asia/media/films/Soul.2020.360/Soul.2020.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6701.jpg"
+      },
+      {
+        "id": "46",
+        "movieName": "Raya and the Last Dragon (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Raya.and.the.Last.Dragon.2021.360/Raya.and.the.Last.Dragon.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6614.jpg"
+      },
+      {
+        "id": "45",
+        "movieName": "Demon Slayer - Kimetsu no Yaiba",
+        "fileUrl": "https://mycinema.asia/media/films/Demon.Slayer.360/Demon.Slayer.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6302.jpg"
+      },
+      {
+        "id": "44",
+        "movieName": "Batman: Soul of the Dragon",
+        "fileUrl": "https://mycinema.asia/media/films/Batman_Soul_of_the_Dragon_2021.360p/Batman_Soul_of_the_Dragon_2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_6106.jpg"
+      },
+      {
+        "id": "43",
+        "movieName": "The Croods: A New Age",
+        "fileUrl": "https://mycinema.asia/media/films/The_Croods_A_New_Age_2020_720/The_Croods_A_New_Age_2020_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_5102.jpg"
+      },
+      {
+        "id": "42",
+        "movieName": "The Death of Superman",
+        "fileUrl": "https://mycinema.asia/media/films/Over_the_Moon_2020_720/Over_the_Moon_2020_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_4781.jpg"
+      },
+      {
+        "id": "41",
+        "movieName": "Over the Moon",
+        "fileUrl": "https://mycinema.asia/media/films/The_Ladybug_2018_720/The_Ladybug_2018_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4521.jpg"
+      },
+      {
+        "id": "40",
+        "movieName": "Louis & Luca - Mission to the Moon",
+        "fileUrl": "https://mycinema.asia/media/films/Louis _ Luca_Mission_To_The Moon_2019_720/Louis _ Luca_Mission_To_The Moon_2019_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4105.jpg"
+      },
+      {
+        "id": "39",
+        "movieName": "Loving Vincent",
+        "fileUrl": "https://mycinema.asia/media/films/Loving_Vincent_2017_720/Loving_Vincent_2017_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3309.jpg"
+      },
+      {
+        "id": "38",
+        "movieName": "Starship Troopers: Traitor of Mars",
+        "fileUrl": "https://mycinema.asia/media/films/Starship_Troopers_Traitors_Mars_2017_720/Starship_Troopers_Traitors_Mars_2017_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3055.jpg"
+      },
+      {
+        "id": "37",
+        "movieName": "Smallfoot",
+        "fileUrl": "https://mycinema.asia/media/films/Smallfoot_(2018)_720/Smallfoot_(2018)_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2981.jpg"
+      },
+      {
+        "id": "36",
+        "movieName": "One Piece: Stampede",
+        "fileUrl": "https://mycinema.asia/media/films/One_Piece_Stampede_2019_720/One_Piece_Stampede_2019_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2210.jpg"
+      },
+      {
+        "id": "35",
+        "movieName": "Sonic the Hedgehog",
+        "fileUrl": "https://mycinema.asia/media/films/Sonic_the_Hedgehog_2020_720/Sonic_the_Hedgehog_2020_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_2206.jpg"
+      },
+      {
+        "id": "34",
+        "movieName": "The Death of Superman",
+        "fileUrl": "https://mycinema.asia/media/films/The_Death_of_Superman_2018/The_Death_of_Superman_2018.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_688.jpg"
+      },
+      {
+        "id": "33",
+        "movieName": "Rio 2",
+        "fileUrl": "https://mycinema.asia/media/films/Rio_2_2014/Rio_2_2014.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_493.jpg"
+      },
+      {
+        "id": "32",
+        "movieName": "Ice Age: Collision Course",
+        "fileUrl": "https://mycinema.asia/media/films/Ice_Age_Collision_Course_2016/Ice_Age_Collision_Course_2016.m3u8",
+        "imageUrl": "http://mycinema.asia/image/banner_761.jpg"
+      },
+      {
         "id": "31",
         "movieName": "Star Wars: Visions 2021",
         "fileUrl": "https://mycinema.asia/media/series/Star.Wars.Visions/Star.Wars.Visions.S01E01.The.Duel.360/Star.Wars.Visions.S01E01.The.Duel.360.m3u8",
