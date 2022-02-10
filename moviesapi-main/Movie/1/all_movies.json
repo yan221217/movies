@@ -2410,6 +2410,12 @@
     "categoryTitle": "SC-FI Movies",
     "categoryItemList": [
       {
+        "id": "42",
+        "movieName": "Eternals",
+        "fileUrl": "https://mycinema.asia/media/films/Eternals.2021.360P/Eternals.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8647.jpg"
+      },
+      {
         "id": "41",
         "movieName": "Venom: Let There Be Carnage (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Venom_Let_There_Be_Carnage_2021/Venom_Let_There_Be_Carnage_2021.m3u8",
