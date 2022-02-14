@@ -2416,6 +2416,12 @@
     "categoryTitle": "SC-FI Movies",
     "categoryItemList": [
       {
+        "id": "43",
+        "movieName": "Avengers: Infinity War",
+        "fileUrl": "https://mycinema.asia/media/films/Avengers.Infinity.War_2018/Avengers.Infinity.War_2018.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8761.jpg"
+      },
+      {
         "id": "42",
         "movieName": "Eternals",
         "fileUrl": "https://mycinema.asia/media/films/Eternals.2021.360P/Eternals.2021.360P.m3u8",
