@@ -4,6 +4,18 @@
     "categoryTitle": "Katuri Cartoon",
     "categoryItemList": [
       {
+        "id": "13",
+        "movieName": "Mortal Kombat Legends: Battle of the Realms",
+        "fileUrl": "https://mycinema.asia/media/films/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.360P/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_8705.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Encanto",
+        "fileUrl": "https://mycinema.asia/media/films/Encanto.2021.360P/Encanto.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8642.jpg"
+      },
+      {
         "id": "11",
         "movieName": "Muppets Haunted Mansion (2021)",
         "fileUrl": "https://omgzone.b-cdn.net/Muppets.Haunted.Mansion.2021.720p.WEBRip%5BCM%5D.mp4",
