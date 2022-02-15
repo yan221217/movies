@@ -4,6 +4,12 @@
     "categoryTitle": "Katuri Cartoon",
     "categoryItemList": [
       {
+        "id": "14",
+        "movieName": "Monkey King Reborn",
+        "fileUrl": "https://mycinema.asia/media/films/Monkey.King.Reborn.2021.360P/Monkey.King.Reborn.2021.360P.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_8781.jpg"
+      },
+      {
         "id": "13",
         "movieName": "Mortal Kombat Legends: Battle of the Realms",
         "fileUrl": "https://mycinema.asia/media/films/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.360P/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.360P.m3u8",
